@@ -933,7 +933,7 @@ def main():
 
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     data_dir = os.path.join(base_dir, "data")
-    trends_dir = os.path.join(data_dir, "trends")
+    trends_dir = os.path.join(data_dir, "trends-read")
     os.makedirs(trends_dir, exist_ok=True)
 
     # 查找 JSON 快照文件
