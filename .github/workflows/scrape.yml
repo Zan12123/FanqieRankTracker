@@ -67,8 +67,12 @@ jobs:
       env:
         GITHUB_ACTIONS: true
 
-    - name: Build Latest Data with AI Summary
+    - name: Build Latest Data with AI Summary (新书榜)
       run: pip install openai && python scripts/build_latest.py
+      env:
+
+    - name: Build Latest Data (阅读榜)
+      run: python scripts/build_read_latest.py
       env:
         API_BASE_URL: ${{ secrets.API_BASE_URL }}
         API_KEY: ${{ secrets.API_KEY }}
