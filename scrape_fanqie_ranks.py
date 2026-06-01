@@ -66,7 +66,7 @@ def run_scraper(limit=30, sleep_sec=5):
         # 先访问新书榜的基准前缀页面，以此为入口模拟人工作业
         init_url = "https://fanqienovel.com/rank/0_1_1139"
         print(f"[{datetime.now().strftime('%H:%M:%S')}] 正在初始化并访问基础榜单页：{init_url}")
-        page.goto(init_url, wait_until="load", timeout=15000)
+        page.goto(init_url, wait_until="domcontentloaded", timeout=30000)
         page.wait_for_selector('a[href^="/page/"]', timeout=5000)
         
         # 动态解析页面左侧拥有的所有类别目录 (通过匹配对应的榜单路由规律)
