@@ -1,230 +1,217 @@
 {
   "type": "年代",
-  "date": "2026-05-31",
-  "prev_date": "2026-05-30",
+  "date": "2026-06-01",
+  "prev_date": "2026-05-31",
   "category": {
     "name": "年代",
     "trend": {
-      "new_count": 3,
-      "dropped_count": 3,
-      "new_books": [
-        "糙汉八年暗馋，寡妇招架不住",
-        "丰满小保姆，禁欲军官哄生崽",
-        "穿成对照组，金手指我抢一半"
-      ],
-      "dropped_books": [
-        {
-          "title": "随父入赘后，假娇软成家属院团宠",
-          "intro": "宁软软重生了，回到了家里要被下放前。 上辈子，她跟着妈妈改嫁到医学世家，表面日子过的不错，实则多年被虐待，好不容易等她长大能结婚离开，他们为了堵住她的嘴，将她嫁给一个老男人，让那老男人一直盯着她不许她"
-        },
-        {
-          "title": "九零：婴语满级，全豪门求我带娃",
-          "intro": "【九零年代】【满级婴语】【带娃日常】【带团宠家人发家致富】 江念中了十亿彩票转头就被大运创死了。 穿进九零豪门虐文当恶毒女配？ 原主结局：勾引男主失败，被丢去山村当借种工具。 系统只甩了一句：\"满级婴"
-        },
-        {
-          "title": "冒充堂姐相亲，我骗到部队首长",
-          "intro": "余鱼穿过来时，原主已经把自己作死到只差一步进局子。 原主好吃懒做，偷堂姐大学生的身份、专门找条件好的男人相亲。 装乖巧、装懂事、装可怜。 哭一句穷就有钱，卖一句惨就有票， 骗得风生水起，吃香喝辣。 谁"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [
         {
+          "title": "穿书香江，我靠写小说发家致富",
+          "change": "+4"
+        },
+        {
+          "title": "绝嗣长官没儿子？小娇妻一胎三宝",
+          "change": "+1"
+        },
+        {
           "title": "丰腴小保姆太香，暴戾大佬掐腰哄",
-          "change": "+6"
-        },
-        {
-          "title": "七零亲爸入赘后，我成学霸团宠！",
-          "change": "+3"
-        },
-        {
-          "title": "一个山村女孩的一生",
-          "change": "+3"
+          "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "因为太能生，香饽饽男主变万人嫌",
-          "change": "-4"
+          "title": "投胎？不！我和六零重生女换人生",
+          "change": "-3"
         },
         {
-          "title": "误闯高门",
+          "title": "因为太能生，香饽饽男主变万人嫌",
           "change": "-3"
+        },
+        {
+          "title": "年代恶毒女配：搞钱上学两不误",
+          "change": "-1"
         }
       ],
       "reads_growth": [
         {
-          "title": "替嫁残疾英雄，婆家宠我青云志",
-          "growth": "+1.6万"
+          "title": "七零亲爸入赘后，我成学霸团宠！",
+          "growth": "+1.4万"
         },
         {
-          "title": "绝嗣长官没儿子？小娇妻一胎三宝",
+          "title": "替嫁残疾英雄，婆家宠我青云志",
           "growth": "+1.2万"
         },
         {
-          "title": "七零亲爸入赘后，我成学霸团宠！",
-          "growth": "+1.1万"
+          "title": "绝嗣长官没儿子？小娇妻一胎三宝",
+          "growth": "+1.0万"
         }
       ],
-      "summary": "**🔥 题材趋势** “军婚+先婚后爱”与“带球跑/多宝”元素持续霸榜，成为年代文核心吸量公式。“丰腴/小保姆”等带有明确生理吸引标签的题材异军突起，成为新的流量密码。\n**📖 读者偏好** 读者偏爱“强反差”设定，如军官的禁欲与后期的宠妻狂魔、绝嗣与一胎三宝。同时，“恶毒女配觉醒搞事业”和“婆家团宠”的爽点叙事也备受青睐。\n**🆕 新上榜作品** 《糙汉八年暗馋，寡妇招架不住》和《丰满小保姆，禁欲军官哄生崽》上榜，进一步验证了“糙汉/禁欲军官+丰腴人妻/保姆”这一细分题材的爆发力。\n**📉 掉出榜单** 《随父入赘后，假娇软成家属院团宠》等作品掉出，表明单纯的“团宠”或“重生复仇”在缺乏强设定支撑时，较难维持高热度。\n**💡 值得关注** 《一个山村女孩的一生》以偏现实主义的悲情叙事切入，与主流甜宠形成差异化，显示出非典型题材的潜力，值得关注其后续口碑发酵。"
+      "summary": "**🔥 题材趋势** “军婚+先婚后爱”与“丰腴美人/小保姆”人设组合成为绝对主流，占比超七成。同时，“穿书觉醒+系统”元素深度渗透，从炮灰逆袭到学霸经商，套路化明显但创新不足。\n**📖 读者偏好** 读者高度追捧“高反差设定”（如绝嗣长官一胎三宝、禁欲军官疯狂打脸）和“强爽感”剧情，偏好“甜宠+打脸”的快速情绪反馈。现实向题材（如《一个山村女孩的一生》）虽有个案，但非主流。\n**🆕 新上榜作品** 无新作入榜，榜单头部固化，说明头部作品凭借稳定在读数据形成了一定壁垒。\n**📉 掉出榜单** 无作品掉出，但中腰部排名竞争激烈，多部作品微幅下滑。\n**💡 值得关注** 《穿书香江，我靠写小说发家致富》排名上升+4，将“港城背景+职业文”融入年代文，提供了差异化视角，或可成为新增长点。"
     },
     "books": [
       {
         "title": "丰腴美人一出场，被军官大佬截胡",
         "author": "夜空碎光",
-        "reads": "17.3万",
+        "reads": "16.7万",
         "intro": "（七零＋丰腴娇媚大美人VS沉稳持重军官） 年代文中总有这么一个人，她家世好，样貌美，人优秀，眼高于顶谁也看不上，只看上了男主，各种手段频出被男女主打脸。 苏曼柠穿成了这个恶毒女配。 但没人知道，男主只是她塘里的一条鱼。 她生的蜂腰丰臀，香肌雪肤，跟个水蜜桃似的，追她的人排成队。 鱼儿三个月不曾与她联系，就被她忘了个干净。 直到某天，她为躲避疯批追求者来到军区，终于想起了男主这条鱼。 正打算问问消息的时候，军区里出了名的冷面“活阎王”堵住了她的路。 “苏同志，了解一下吧，我想与你结成革命伴侣。” 一月后，男主带着截胡他的重生女回来了。 他红着眼眶满腹遗憾看着她：“曼柠，是我负了你。” 贺淮揉着苏曼柠的酸腰：“叫什么曼柠，叫嫂子。” —— 贺淮一直都知道同父异母的弟弟有个笔友。 两人的信件有来有往，听说就差相看了。 他是与弟弟关系不好，倒也没阻止他攀好亲事。 一年后，那姑娘来了军区。 他办了事回来顺道去接。 小姑娘坐在他车上被颠直捂胸，宛若熟透的水蜜桃。 还娇声叫他大哥。 贺淮心里那根弦当即就崩了。 弟弟，你值得好亲事，但不值得这么好的。 这姑娘做不成弟妹，只能做嫂子。 否则家门不睦！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o550cf2cfad10453a9cc37cb1c0d3595b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=vfyEGLTfZ3wmMStVhsO4E%2FVLNbU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o550cf2cfad10453a9cc37cb1c0d3595b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=YUWEOvMYGh0BAAeH7Sk7Z32kgyY%3D",
         "url": "https://fanqienovel.com/page/7617020801786596376"
       },
       {
         "title": "要命！首长的小娇妻夜夜闹离婚",
         "author": "青叶朵朵",
-        "reads": "14.9万",
+        "reads": "15.8万",
         "intro": "评分刚出，后面会涨 【先婚后爱+日久生情+男痞女坏+双洁+随军】 【80年代】 军区团长陆砚峥，被父母逼迫回老家结婚。结果在路上抓小偷，误闯女人闺房，睡了个大美人。 这女人长得娇，生的俏，心肝黑，性子野，一点都不好惹。 人如其名，她叫萧惹。 陆砚峥本想用钱打发麻烦。可这女人不要钱，只要名分，逼着他领证。 “要么去公安局，要么去民政局你选一个！” 关键，她不是真结婚，而是蓄谋已久来复仇的。 *** 婚后，萧惹白天惹祸，夜里撩拨，把整个家属大院闹得乌烟瘴气，鸡犬不宁。 上到领导，下到军嫂，所有人都劝陆砚峥离婚。 “陆团长，求你了，跟你家那惹祸精离了吧！再不离，我们都活不下去了！” “离，明天就离！” 陆砚峥也是气的牙痒痒，每天都把离婚挂嘴边，可怎么都离不掉。 天知道那女人有多娇软，夜里有多勾魂！ 离了，他还怎么活？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o39063c4f3037f41195e6bafe433e8c11~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=PdiYywj3Je%2BuE2Efludtwi%2FrBus%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o39063c4f3037f41195e6bafe433e8c11~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=bdFVIykkmxaABvGPfENs9Z2n4LQ%3D",
         "url": "https://fanqienovel.com/page/7634360267891018814"
       },
       {
         "title": "替嫁残疾英雄，婆家宠我青云志",
         "author": "哈哈小姐",
-        "reads": "13万",
+        "reads": "14.2万",
         "intro": "【年代甜宠+爽文+婆家宠上天】 七十年代末，家境贫寒受尽欺负的杨巧，被迫替嫁嫁给断了双腿的退伍英雄周文辉。 本是一场各取所需的婚姻，她以为往后日子只有柴米油盐的艰辛，却没想到嫁对了人，连带着婆家都把她宠上了天！ 公公是部队师长，婆婆是外科主任，全家上下把她当成心尖宝。 从受尽冷眼的苦命姑娘，到被婆家捧在手心的宝贝，杨巧一路逆袭。 恢复高考后，她埋头苦读考上大学，成为受人尊敬的老师。 哥哥杨政潜心钻研假肢技术，终于让丈夫重新站了起来。 没有金手指，只有细水长流的温情与步步向上的人生。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oaafff9a067b7a6373a72408eb43ccb0d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=hNcTtyrht%2FO37MnKIZabZgiOpMQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oaafff9a067b7a6373a72408eb43ccb0d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=FqxXIMrasnPzHoij%2Ft4T3mqOz%2B4%3D",
         "url": "https://fanqienovel.com/page/7630006960976317502"
       },
       {
         "title": "七零亲爸入赘后，我成学霸团宠！",
         "author": "追不上鱼的水",
-        "reads": "11.7万",
+        "reads": "13.1万",
         "intro": "[年代+觉醒+系统+学霸+科研+家长里短+团宠] 努力学习爱好吃瓜女主×学习痛苦小太阳男主 六岁的沈时雨，爹疼妈爱，是大河村最让人羡慕的小丫头。 可一夕之间，父母离婚，亲妈回城，她磕破脑袋后竟觉醒了上一世记忆，还绑定了学霸系统。 还没等她撸起袖子准备一路考学，亲妈就从京市寄来一封信，不是接她回去，而是给前夫介绍对象： 食品厂副厂长，离婚带娃，条件只有一个—— 入赘！ 沈怀瑾连夜收拾行李：“入赘就入赘，这软饭我吃定了！” 沈时雨：“？？？” 更离谱的是，亲妈的新家、继母的家，居然在同一个大院！ 前妻现任天天串门， 继兄姜云舟妥妥宠妹狂魔， 隔壁那个冷脸重生继父宠爱有加， 而隔壁的男女主独子竹马被她的学习进度吓得嗷嗷叫？？？ 沈时雨扶额：这团宠剧本，好像跟我想的不太一样？ 算了，还是写作业吧。 毕竟，清华北大，总要上一个的！ 结果，不小心，搞成民用发明家了？！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5ffda23da66b0ef1e56d12a59f7c5b9e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=hJgaDZlp3Wl37TsmRhKUmMpphgE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5ffda23da66b0ef1e56d12a59f7c5b9e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=FYMHSHqS%2Bk2a9%2Bjo1eulAnDpnfs%3D",
         "url": "https://fanqienovel.com/page/7636426004298222617"
-      },
-      {
-        "title": "年代恶毒女配：搞钱上学两不误",
-        "author": "风起不弃",
-        "reads": "11.4万",
-        "intro": "时雨雾一朝猝死穿成小说里同名的恶毒女配。贫穷的家，偏心自己的爸妈，瘦小的弟弟和恶毒的她。 在这个遍地是黄金的年代，时雨雾一边上大学一边赚钱，一不小赚的盆满钵满。 本想专心搞事业，谁知那位清冷归国工程师，竟对她一见倾心、步步靠近。 1v1，男女主双洁",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc8d4452ee193f40afa8cd70dd75729a4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=toBOUArWvlO6WSOqrb9Tow95LRY%3D",
-        "url": "https://fanqienovel.com/page/7564053589719534654"
       },
       {
         "title": "绝嗣长官没儿子？小娇妻一胎三宝",
         "author": "五只小猫",
-        "reads": "11.3万",
+        "reads": "12.3万",
         "intro": "【娇软绿茶小白兔×霸道爹系军官】 七零+11岁年龄差+身高差+生子系统+甜分超标+生理性喜欢 陆瑾欢是家里幺女，她天真可爱，软糯乖巧，却被自私自利的姐姐介绍给了自己绝嗣的大伯哥。 丈夫不能生怎么办？ 没关系，陆瑾欢绑定了好孕生子系统。 生子丸、生女丸、美体丸、龙凤丸、启智丸、多胎丸……应有尽有，只要她想，可以给丈夫生一个足球队。 五年后，丈夫满脸无奈的对她说：“乖媳妇，我去结扎好不好？咱们可别再生了，够了，真的够了……” —— 贺从南二十九岁了，家世好长相好，能力出众、精明强干，前途一片光明，可惜在一次体检时查出有不孕症。 他本想把自己的一生都奉献给部队，谁知，却对一个比自己小11岁的小姑娘一见钟情了！ 他暗骂自己是禽兽，可喜欢了就是喜欢了，根本做不到就这么错过她！ 后来，贺从南的生命里多一个小娇妻和一串儿孩子，天天在他眼前叽叽喳喳，让他既幸福又头疼…… PS： 男主有两面，在部队素有冷面阎王之称，嘴巴还有点毒，在家面对小娇妻时，恨不得夹着嗓子说话，把她当女儿养。 女主有些有些自然呆，还有些小心眼，但绝不蠢，也不作。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o25d96a748992d46c656cf435c7670436~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=GsU%2FjXIdXWjkJQD4hRjuYe83thE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o25d96a748992d46c656cf435c7670436~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=8sxt6sD7n9lHf2LyLr0lvpWSjOM%3D",
         "url": "https://fanqienovel.com/page/7615533188642786366"
+      },
+      {
+        "title": "年代恶毒女配：搞钱上学两不误",
+        "author": "风起不弃",
+        "reads": "12.1万",
+        "intro": "（刚开分会涨）时雨雾一朝猝死穿成小说里同名的恶毒女配。贫穷的家，偏心自己的爸妈，瘦小的弟弟和恶毒的她。 在这个遍地是黄金的年代，时雨雾一边上大学一边赚钱，一不小赚的盆满钵满。 本想专心搞事业，谁知那位清冷归国工程师，竟对她一见倾心、步步靠近。 1v1，男女主双洁",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc8d4452ee193f40afa8cd70dd75729a4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=XCxF95%2FTk7B1drVikAP97%2FoSfbA%3D",
+        "url": "https://fanqienovel.com/page/7564053589719534654"
       },
       {
         "title": "一个山村女孩的一生",
         "author": "苦瓜炒一切",
-        "reads": "9.9万",
+        "reads": "9.8万",
         "intro": "一个山村女孩的短暂的一生，她经历过绝望和痛苦，也有享受过微弱的阳光和快乐，她在无人的角落哭过，在热闹的街头笑过…… （这是一个真实存在的故事，大山深处其中一个女孩短暂又悲哀的一生。）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/f36396f8ac5c0b173e326435576ab1db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=Dl%2FMeko7S8A529LJDpmdbSiSP3M%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/f36396f8ac5c0b173e326435576ab1db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=ELwAEepWwQCtPsWCNV%2FN%2BtXuWc8%3D",
         "url": "https://fanqienovel.com/page/7601604170944089112"
       },
       {
         "title": "新婚后，禁撩军官变京圈宠妻狂魔",
         "author": "吻恩",
-        "reads": "9.8万",
+        "reads": "9.4万",
         "intro": "【超好看，分会涨】 高冷世袭超体强军官X落魄坚韧乖乖美人 【年代高干甜宠文+军婚+双洁+先婚后爱+契约婚姻新婚当晚破防失效+细水长流+闪婚+双胞胎+好孕体质+积极向上+爱国情怀+酱酱酿酿】 一场各取所需的交易联姻，将冰山阎王陆霆琛与柔弱孤女林菀绑在一起。 开始： “先说好，除了夫妻义务，其他的都不用等我，我做事不喜欢太快。” “好，好的……” 新婚当晚男人就破防主动要履行。 后来： 青梅找来，林菀故意要去部队住女宿舍。 男人不让，只能黑着脸跟着到部队陪着。 他想把她绑在身边，绑到她听话为止。 可她一不理他，他就心软。只能黑灯瞎火去爬窗。 “天亮了……快起开！” “再亲一口……” “别走正门啊！” “那我走哪？” “原路爬回去！” “……” 看着男人帅气落地，林菀很是无奈。 相亲一周就结婚，结婚当晚就新房，三月不到就中了，还说婚后互不打扰，但却比谁都积极。 知道是双胞胎，曾经冷硬不可一世的男人开心得像毛头小子一样。 不是说不喜欢发展太快吗？ 谁的进度都没他快吧！ 起先都说他战功赫赫她不害臊高攀京枝， 后来，群众们都说是他陆军长找了个宝藏好媳妇！~",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofddd3afcbfe222583c2837a59bc73104~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=zK0eTLbZUbVkDqg7t%2FPOWOTZ5Do%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofddd3afcbfe222583c2837a59bc73104~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=JLcWkBqL7YEIP5i2UBRplZoQT7c%3D",
         "url": "https://fanqienovel.com/page/7626851022756908094"
       },
       {
         "title": "七零炮灰女配，列车员的悠闲人生",
         "author": "酸菜炖粉丝",
-        "reads": "7.9万",
+        "reads": "8.9万",
         "intro": "穿书七零，成为年代女频的女主的炮灰堂妹。 上一世，女主与男主背着她搞地下恋情，直到被推下海才幡然醒悟。 冤大头？ 被女主踩着机缘上位的炮灰？ 狗都不当。 重生到结婚前三天。 当场抓奸，手撕渣男，抢夺金手指。 看赵舒兰如何从列车员，一路搜刮古董，南下经商成为一方富豪",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o353bd18d9c283242141fe904cbe29334~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=h2jVdBEX5Va8eVE82N%2BF72YRpRo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o353bd18d9c283242141fe904cbe29334~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=7Qw7L3SYVOhDd%2BUW9rTOzcbjbzE%3D",
         "url": "https://fanqienovel.com/page/7638449016778263577"
       },
       {
         "title": "糙汉八年暗馋，寡妇招架不住",
         "author": "一笑倾城雪",
-        "reads": "6.9万",
+        "reads": "7.6万",
         "intro": "1982年，高粱穗子冒红缨的夏天。 王春花守了三年寡，活得比尼姑还干净。 白天往死里干活，夜里裹紧被子不敢翻身。 可她不知道，村尾那个不爱搭腔的光棍汉吴浩，在暗处盯了她整整八年。 直到那个晌午，高粱地里四下无人。 他再也忍不住了。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obc95df7c8da4e15b00377d6185132b73~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=zjal%2BHNIBB25ZvK4C3xP3geerBI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obc95df7c8da4e15b00377d6185132b73~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=FGsYrpsxp1y32yADLsVRpywiRuY%3D",
         "url": "https://fanqienovel.com/page/7632262377328626713"
-      },
-      {
-        "title": "嫂子逼我嫁她哥？植物人教授醒了",
-        "author": "香菰叶",
-        "reads": "6.6万",
-        "intro": "（评分刚出还会涨）[七零+先婚后爱+温馨轻松向] 狡黠明媚小村姑VS禁欲闷骚科研教授 苏晓夏穿书了，穿到七十年代，成了为兄换亲的工具人。 哥嫂是自由恋爱，却非要拖她下水，逼她嫁给嫂子的大哥，书中的植物人男主。 按原书剧情，男主醒来后，坚决退掉了这门荒唐的换亲，不计较原主虐待他，还补偿了她一千块巨款！ 苏晓夏看看家徒四壁的破屋，又看看一家子奇葩，果断答应了，要是好好照顾，应该会给更多吧？ 为了攒第一桶金，也为了避免炮灰结局，嫁过去后，她日夜不停地给男人洗脑。 结果一不小心，把人洗成了恋爱脑。 男人醒来第一句话：我的钱全给你，我的人也是你的。 收获了爱情，却一贫如洗的嫂子不干了，哭着要换回来。 男人搂紧苏晓夏：不想过就离，我和夏夏是受法律保护的合法夫妻！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od5f22dcb5483b9b8b927a40b0d22ee2e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=RoJIQz8ksIt4D5JOt%2Bq17%2Bfcw7A%3D",
-        "url": "https://fanqienovel.com/page/7629259422216227865"
       },
       {
         "title": "丰腴小保姆太香，暴戾大佬掐腰哄",
         "author": "明日须弥吟雪",
-        "reads": "6.5万",
+        "reads": "7.2万",
         "intro": "（丰腴小保姆×暴戾大佬） 林秀穗命苦，前夫考上大学后将她抛弃，她独自生下女儿。 为了攒钱给乡下的女儿治病，她进城应聘到了军区大院顾家当保姆。 她身段丰腴娇美，做的一手好药膳，只想本分赚钱给女儿治病。 可顾家水深火热，当家的老大媳妇见林秀穗肤白貌美，胸大屁股翘处处针对她。 更可怕的是退伍归来、性情暴戾的顾家老二顾寒野。 因为严重的战后创伤，顾寒野常年失眠狂躁，任何气味都会让他反胃。 直到那天，顾寒野闻到了林秀穗身上独有的奶香，奇迹般地平静安睡。 老大媳妇陷害她下药要搜身，顾寒野一脚踹翻桌子，将瑟瑟发抖的她护在身后：“我身边缺个小保姆，你跟我走。” 林秀穗小声求他：“我能带上我女儿吗？” 男人将她堵在墙角，红着眼掐住她的细腰：“只要你乖乖听话，你女儿我也疼。” 后来，大院里都在传顾寒野疯了，居然把乡下小保姆捧在心尖上！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa6ef27b149b7576bca2e31414334cf94~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=zdYUeKd5Bhluaz9AHKJYd5rkwAs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa6ef27b149b7576bca2e31414334cf94~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=06sEyEL0mRLiBOiYuDCpm9V2ctk%3D",
         "url": "https://fanqienovel.com/page/7637539378809539608"
       },
       {
-        "title": "投胎？不！我和六零重生女换人生",
-        "author": "打瞌睡呢",
-        "reads": "6.5万",
-        "intro": "评分刚开，会涨！ 【强惨狱霸风男主X貌美咸鱼小作家】 【不下乡+不黑市+日常家长里短+互相救赎+甜文】 下辈子荣华富贵关我这辈子什么事儿？ 林夏本是现代一个网文作者和粉丝十几万的短篇漫画作家。 一场意外连人带窝被轰得渣都没了，喝孟婆汤投个富贵胎？她选补偿空间和六零重生女交换人生。 林夏面对即将被卖出去换彩礼的人生，首先选择撕开林家偏心的遮羞布，不当老黄牛伺候全家，在外积极找工作。 结果六十年代的铁饭碗没关系实在是太难了。 “夏夏，老师给你介绍个相亲对象，其他条件都符合你的要求，就是这长相，五官分开看都好看” “合在一起嘛。夏夏，你知道胡子么？他就像那没有胡子的胡子，胡子头儿要是一起蹲笆篱子，他凭长相气质能当狱霸的那种。” 林夏想了想下乡的苦。 相！长得凶怎么了，有下乡可怕吗？ 谁知当天相亲，第二天就领了证，嫁进了铁路局家属院。 贺凛在他荒芜的人生碰到了独属于他的救赎，迅速扒拉回了家。 家属院众人看着美若天仙的林夏，本以为贺科长的媳妇儿肯定是被强迫嫁给他的，日子肯定不好过。 谁知人家贺科长长得凶但他是真疼媳妇啊。 再后来夫妻两一起努力，一个在铁路系统一路晋升，一个成为了闻名全国的畅销作家",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odf21d1e12d5d9c2e3fb82fa34c8dcc26~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=k7L7eXDR5YgZs13QfgHDEdPG1E8%3D",
-        "url": "https://fanqienovel.com/page/7627049014881438745"
+        "title": "嫂子逼我嫁她哥？植物人教授醒了",
+        "author": "香菰叶",
+        "reads": "7.1万",
+        "intro": "（评分刚出还会涨）[七零+先婚后爱+温馨轻松向] 狡黠明媚小村姑VS禁欲闷骚科研教授 苏晓夏穿书了，穿到七十年代，成了为兄换亲的工具人。 哥嫂是自由恋爱，却非要拖她下水，逼她嫁给嫂子的大哥，书中的植物人男主。 按原书剧情，男主醒来后，坚决退掉了这门荒唐的换亲，不计较原主虐待他，还补偿了她一千块巨款！ 苏晓夏看看家徒四壁的破屋，又看看一家子奇葩，果断答应了，要是好好照顾，应该会给更多吧？ 为了攒第一桶金，也为了避免炮灰结局，嫁过去后，她日夜不停地给男人洗脑。 结果一不小心，把人洗成了恋爱脑。 男人醒来第一句话：我的钱全给你，我的人也是你的。 收获了爱情，却一贫如洗的嫂子不干了，哭着要换回来。 男人搂紧苏晓夏：不想过就离，我和夏夏是受法律保护的合法夫妻！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od5f22dcb5483b9b8b927a40b0d22ee2e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=TnA2qu8%2FFPdzq3SJg2oLVaFm4Oo%3D",
+        "url": "https://fanqienovel.com/page/7629259422216227865"
+      },
+      {
+        "title": "穿书香江，我靠写小说发家致富",
+        "author": "吃一大口酱板鸭",
+        "reads": "6.8万",
+        "intro": "评分低是因为刚开分，后续会慢慢涨哦 江泠一睁眼，穿成了年代文里活不过几章的炮灰女配。 开局就是地狱模式：一家四口刚偷渡到港城，没钱、没身份，穷得只剩半罐药和一锅烂菜粥。原书里，她病死，母亲累死，弟妹流落街头，最后连亲生父亲都嫌她们脏，随手拿点钱打发了。 江泠：这剧本谁爱走谁走，反正她不走。 找不到工作？她先去茶餐厅做帮工，靠现代经营手段，把快倒闭的小店盘活； 再低头写稿，把本不该出现在这个时代的修仙升级流，提前送上香江报纸。 于是，一篇《仙途》，写得满港沸腾。 报社加印，编辑堵门，读者催更到骂街，对家挥着高价来抢人。 所有人都在猜“泠川”是谁。 谁也没想到，这个搅动港城文坛的天才作者，竟是九龙城寨里一个白天端盘子、夜里趴在昏黄灯下写稿的少女。 从城寨到底层翻身， 从一无所有到一字千金， 从任人摆布的炮灰，到执掌命运的大女主。 江泠这一生，不靠男人，不等豪门，只靠自己。 她要护着母亲和弟妹，一步步从最脏最乱的城寨，走进香江最耀眼的地方。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od896aea9f59c18a6ea1c0fc6396f6369~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=hZIvFCvDbCSwrgxOqMCHBrJw5fs%3D",
+        "url": "https://fanqienovel.com/page/7633816269761809433"
       },
       {
         "title": "小保姆和大领导",
         "author": "九八八呀",
-        "reads": "6.4万",
+        "reads": "6.7万",
         "intro": "又名：小保姆被大领导赖上了 . （日常+甜文+发家致富+宠妻+家长里短） . 温知宜是个乡下姑娘，没文化、没工作、没户口。 继姐嘲笑她：“你连高中都没考上，还想考大学？” 亲戚要把她介绍给“缺心眼”：“人家有钱，还挑什么？” 温知宜转身进了刚来的副厂长家当保姆。 一边干活，一边自考，一边做生意挣钱。 厂长亲自教她学习方法。 有人追她，厂长拦在门口： “小温同志忙着自考，没空谈恋爱。” 后来她拿到毕业证，厂长又问： “小温同志，什么时候考虑个人问题？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofef9c1b6959f4b72d50cdb6ff10d2c35~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=1fp4p9pD93hLQ7YmJvYuMFWPb8Q%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofef9c1b6959f4b72d50cdb6ff10d2c35~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=%2FdhPLII8ke0ZDp0cih2sBKuVpc0%3D",
         "url": "https://fanqienovel.com/page/7633716644711238718"
       },
       {
         "title": "怀崽跑路！冷面军少红眼堵门",
         "author": "零紫玥",
-        "reads": "6.4万",
+        "reads": "6.7万",
         "intro": "评分刚出，后面会涨 【年代+军婚+空间灵泉+萌娃+高考+追妻】    大队长家的娇娇女苏念秋，在山里意外撞上了执行秘密任务被敌人下猛药的特战军官贺凛。一夜荒唐后，男主因紧急军情留下信物匆匆归队。     一个多月后，原主发现自己月信迟迟未来，且频频干呕，偷偷看病时被村里的二流子撞见并大肆造谣她。原主承受不住全村的指指点点，羞愤之下投河自尽。现代顶级设计师苏念秋穿书而来，接盘了这个烂摊子。 她被村民从河里捞上来，面对全村长舌妇的羞辱，苏念秋本以为要地狱开局，好在亲爸和亲妈极限护犊子，抄起扁担把造谣的人打得鬼哭狼嚎：“我闺女就算一辈子不嫁，老子也养得起！”     苏念秋觉醒灵泉空间，靠着空间物资和灵泉，把原本虚弱的身体养得娇艳欲滴，更带着全家吃香喝辣。她一边挺着大肚子养胎，一边复习高中知识，次年恢复高考，她一举拿下省状元，生下神童萌娃“团团”，带娃去北城上大学了。     另一边，任务结束死里逃生的冷面阎王贺凛，满心愧疚与责任回到村里寻妻，却只看到人去楼空，信物也不翼而飞。     三年后的北城，贺凛看着那个抱着小号自己、明艳动人的女大学生，红着眼将她抵在后台：“苏念秋，带着我的种，你想跑去哪？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oce5226b810cf014d85824e84025be7bf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=XRXrWny6dN8657d6oEdOuLFPWuk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oce5226b810cf014d85824e84025be7bf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=MPFH3qfQ48crbV4ZIpCbPav0vxY%3D",
         "url": "https://fanqienovel.com/page/7624151965584329753"
       },
       {
-        "title": "因为太能生，香饽饽男主变万人嫌",
-        "author": "夭夭不妖a",
+        "title": "投胎？不！我和六零重生女换人生",
+        "author": "打瞌睡呢",
         "reads": "6.4万",
-        "intro": "【年代爽文+穿书+神笔马良+军婚+养崽】 【婀娜妖冶作家×铁塔糙汉军官】 孟晚棠是个小有名气的网文作者，一朝意外穿越到七十年代，成了年代文男主那嫌贫爱富、最后抛夫弃子和港城富商跑了的恶毒前妻。 更倒霉的是—— 孟晚棠穿来的时间，正好是在和男主发生关系的当口。 “！” 想到自己那被金手指诅咒的倒霉体质，她当即白眼一翻昏死了过去。 她不想生孩子啊啊啊！！！ ———— 为了不失去宝贝金手指，孟·独身主义·晚棠心一横坚持没打胎，最后九死一生终于生下八个儿子。 一开始： “听说了吗？顾家那儿媳妇一天天只顾着自己吃喝打扮，八个儿子全推给婆婆和娘家妈照顾。” 但凡提到孟晚棠无不唾弃鄙夷，觉得她妖妖娆娆不配当妈。 后来： “听说了吗？孟晚棠竟然是大作家，靠写小说赚了老鼻子钱呢！” 语气里全是艳羡。 一改之前的指指点点，觉得顾家娶这个媳妇真是娶对了，又能生儿子又能赚钱，谁家媳妇能这么有本事。 默默路过的顾砺锋挺了挺胸，脸上全是骄傲。 没错，我家的。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/d8e10c4e74d322885d795c9b40c85de3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=nsr9i2Fj%2FkJkGQWE6wBObllbM5g%3D",
-        "url": "https://fanqienovel.com/page/7542944491221552190"
-      },
-      {
-        "title": "穿书香江，我靠写小说发家致富",
-        "author": "吃一大口酱板鸭",
-        "reads": "6.3万",
-        "intro": "评分低是因为刚开分，后续会慢慢涨哦 江泠一睁眼，穿成了年代文里活不过几章的炮灰女配。 开局就是地狱模式：一家四口刚偷渡到港城，没钱、没身份，穷得只剩半罐药和一锅烂菜粥。原书里，她病死，母亲累死，弟妹流落街头，最后连亲生父亲都嫌她们脏，随手拿点钱打发了。 江泠：这剧本谁爱走谁走，反正她不走。 找不到工作？她先去茶餐厅做帮工，靠现代经营手段，把快倒闭的小店盘活； 再低头写稿，把本不该出现在这个时代的修仙升级流，提前送上香江报纸。 于是，一篇《仙途》，写得满港沸腾。 报社加印，编辑堵门，读者催更到骂街，对家挥着高价来抢人。 所有人都在猜“泠川”是谁。 谁也没想到，这个搅动港城文坛的天才作者，竟是九龙城寨里一个白天端盘子、夜里趴在昏黄灯下写稿的少女。 从城寨到底层翻身， 从一无所有到一字千金， 从任人摆布的炮灰，到执掌命运的大女主。 江泠这一生，不靠男人，不等豪门，只靠自己。 她要护着母亲和弟妹，一步步从最脏最乱的城寨，走进香江最耀眼的地方。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od896aea9f59c18a6ea1c0fc6396f6369~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=fPiMUjRnwYNkMCPXAl8R6IZTC2o%3D",
-        "url": "https://fanqienovel.com/page/7633816269761809433"
+        "intro": "评分刚开，会涨！ 【强惨狱霸风男主X貌美咸鱼小作家】 【不下乡+不黑市+日常家长里短+互相救赎+甜文】 下辈子荣华富贵关我这辈子什么事儿？ 林夏本是现代一个网文作者和粉丝十几万的短篇漫画作家。 一场意外连人带窝被轰得渣都没了，喝孟婆汤投个富贵胎？她选补偿空间和六零重生女交换人生。 林夏面对即将被卖出去换彩礼的人生，首先选择撕开林家偏心的遮羞布，不当老黄牛伺候全家，在外积极找工作。 结果六十年代的铁饭碗没关系实在是太难了。 “夏夏，老师给你介绍个相亲对象，其他条件都符合你的要求，就是这长相，五官分开看都好看” “合在一起嘛。夏夏，你知道胡子么？他就像那没有胡子的胡子，胡子头儿要是一起蹲笆篱子，他凭长相气质能当狱霸的那种。” 林夏想了想下乡的苦。 相！长得凶怎么了，有下乡可怕吗？ 谁知当天相亲，第二天就领了证，嫁进了铁路局家属院。 贺凛在他荒芜的人生碰到了独属于他的救赎，迅速扒拉回了家。 家属院众人看着美若天仙的林夏，本以为贺科长的媳妇儿肯定是被强迫嫁给他的，日子肯定不好过。 谁知人家贺科长长得凶但他是真疼媳妇啊。 再后来夫妻两一起努力，一个在铁路系统一路晋升，一个成为了闻名全国的畅销作家",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odf21d1e12d5d9c2e3fb82fa34c8dcc26~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=ACVZqzxoH8D9c0Xlox1HvnpuRjw%3D",
+        "url": "https://fanqienovel.com/page/7627049014881438745"
       },
       {
         "title": "误闯高门",
         "author": "金瑞儿",
         "reads": "6.2万",
         "intro": "1968年，马砺锋高中毕业后凭本事考进了钢厂，他父亲却让他下乡。理由是他太娇气了，需要接受贫下中农再教育。 马砺锋不愿意，他爹居然不顾他的意愿直接把他塞到了下乡的队伍里。 马砺锋气的下乡第三天就随便结婚了……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/2904afc6d50df0224c782432f09dcdbb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=ElUAQ8KIh4QOEKsEsLi5SDCmZ3c%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/2904afc6d50df0224c782432f09dcdbb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=DkaODTmI6DWCKm2mb4UWJJVCVf8%3D",
         "url": "https://fanqienovel.com/page/7608554443063184446"
       },
       {
         "title": "丰满小保姆，禁欲军官哄生崽",
         "author": "甜饼阿紫",
-        "reads": "5.8万",
+        "reads": "6.1万",
         "intro": "禁欲军官 |纯欲诱惑 | 身份差 | 穿越甜宠 | 哄崽日常 谢文娇一觉意外穿进缺衣少食的七零年代。 命苦，男人牺牲在边境，留下她和刚满月的闺女。 为了活下去，她被介绍到军区大院给首长家当保姆，照看那个没了妈的小娃娃。 她老实本分，只想拿工资攒钱，给自家丫丫将来上学用。 可大院水深，她如履薄冰。 偏偏那个冷面寡言的团长，夜里查岗时把她堵在了灶房—— 男人压低声线：“你老实交代，到底是谁派你来的？” 谢文娇吓得直哆嗦：“首、首长，我就是个喂孩子的……” 他盯着她领口，目光幽沉：“喂孩子的，扣子怎么系不好？” 谢文娇只想攒够钱就跑，可她跑得掉吗？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0626dced90e066fe8ab588033cf85acd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=OBBAlz%2FDIa4ixtMTuh36hdQRqwE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0626dced90e066fe8ab588033cf85acd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=2tMapzFMPryeW05kShlTCDZzoRk%3D",
         "url": "https://fanqienovel.com/page/7637397057493273624"
+      },
+      {
+        "title": "因为太能生，香饽饽男主变万人嫌",
+        "author": "夭夭不妖a",
+        "reads": "6万",
+        "intro": "【年代爽文+穿书+神笔马良+军婚+养崽】 【婀娜妖冶作家×铁塔糙汉军官】 孟晚棠是个小有名气的网文作者，一朝意外穿越到七十年代，成了年代文男主那嫌贫爱富、最后抛夫弃子和港城富商跑了的恶毒前妻。 更倒霉的是—— 孟晚棠穿来的时间，正好是在和男主发生关系的当口。 “！” 想到自己那被金手指诅咒的倒霉体质，她当即白眼一翻昏死了过去。 她不想生孩子啊啊啊！！！ ———— 为了不失去宝贝金手指，孟·独身主义·晚棠心一横坚持没打胎，最后九死一生终于生下八个儿子。 一开始： “听说了吗？顾家那儿媳妇一天天只顾着自己吃喝打扮，八个儿子全推给婆婆和娘家妈照顾。” 但凡提到孟晚棠无不唾弃鄙夷，觉得她妖妖娆娆不配当妈。 后来： “听说了吗？孟晚棠竟然是大作家，靠写小说赚了老鼻子钱呢！” 语气里全是艳羡。 一改之前的指指点点，觉得顾家娶这个媳妇真是娶对了，又能生儿子又能赚钱，谁家媳妇能这么有本事。 默默路过的顾砺锋挺了挺胸，脸上全是骄傲。 没错，我家的。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/d8e10c4e74d322885d795c9b40c85de3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=Twoy5opLn6gMFMJvG%2BD0vvdIOWI%3D",
+        "url": "https://fanqienovel.com/page/7542944491221552190"
       },
       {
         "title": "穿成对照组，金手指我抢一半",
         "author": "青 沐",
-        "reads": "5.6万",
+        "reads": "6万",
         "intro": "沈知夏回神第一件事，就是和堂姐争夺地上的木牌，两人一人一头谁都不肯松手。沈知夏知道，木牌只要吸够血就会认主，她暗戳戳的扎破手心，紧紧握住木牌不松手。这个金手指她今天必须抢了。沈知兰紧紧抓住木牌，心里有个声音告诉她不能松手，所以手被磨破皮她也紧紧抓住不送。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/2b340c3f2efa137b28fd550b3dc945cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=mbfEVWR2Gu2BxLOgknc2vzJ79Jw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/2b340c3f2efa137b28fd550b3dc945cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=kE5JRM0FuhRoJt5%2BDpem%2BHRfKqM%3D",
         "url": "https://fanqienovel.com/page/7559037173794622488"
       }
     ]
@@ -233,226 +220,213 @@
     {
       "name": "年代",
       "trend": {
-        "new_count": 3,
-        "dropped_count": 3,
-        "new_books": [
-          "糙汉八年暗馋，寡妇招架不住",
-          "丰满小保姆，禁欲军官哄生崽",
-          "穿成对照组，金手指我抢一半"
-        ],
-        "dropped_books": [
-          {
-            "title": "随父入赘后，假娇软成家属院团宠",
-            "intro": "宁软软重生了，回到了家里要被下放前。 上辈子，她跟着妈妈改嫁到医学世家，表面日子过的不错，实则多年被虐待，好不容易等她长大能结婚离开，他们为了堵住她的嘴，将她嫁给一个老男人，让那老男人一直盯着她不许她"
-          },
-          {
-            "title": "九零：婴语满级，全豪门求我带娃",
-            "intro": "【九零年代】【满级婴语】【带娃日常】【带团宠家人发家致富】 江念中了十亿彩票转头就被大运创死了。 穿进九零豪门虐文当恶毒女配？ 原主结局：勾引男主失败，被丢去山村当借种工具。 系统只甩了一句：\"满级婴"
-          },
-          {
-            "title": "冒充堂姐相亲，我骗到部队首长",
-            "intro": "余鱼穿过来时，原主已经把自己作死到只差一步进局子。 原主好吃懒做，偷堂姐大学生的身份、专门找条件好的男人相亲。 装乖巧、装懂事、装可怜。 哭一句穷就有钱，卖一句惨就有票， 骗得风生水起，吃香喝辣。 谁"
-          }
-        ],
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
         "top_risers": [
           {
+            "title": "穿书香江，我靠写小说发家致富",
+            "change": "+4"
+          },
+          {
+            "title": "绝嗣长官没儿子？小娇妻一胎三宝",
+            "change": "+1"
+          },
+          {
             "title": "丰腴小保姆太香，暴戾大佬掐腰哄",
-            "change": "+6"
-          },
-          {
-            "title": "七零亲爸入赘后，我成学霸团宠！",
-            "change": "+3"
-          },
-          {
-            "title": "一个山村女孩的一生",
-            "change": "+3"
+            "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "因为太能生，香饽饽男主变万人嫌",
-            "change": "-4"
+            "title": "投胎？不！我和六零重生女换人生",
+            "change": "-3"
           },
           {
-            "title": "误闯高门",
+            "title": "因为太能生，香饽饽男主变万人嫌",
             "change": "-3"
+          },
+          {
+            "title": "年代恶毒女配：搞钱上学两不误",
+            "change": "-1"
           }
         ],
         "reads_growth": [
           {
-            "title": "替嫁残疾英雄，婆家宠我青云志",
-            "growth": "+1.6万"
+            "title": "七零亲爸入赘后，我成学霸团宠！",
+            "growth": "+1.4万"
           },
           {
-            "title": "绝嗣长官没儿子？小娇妻一胎三宝",
+            "title": "替嫁残疾英雄，婆家宠我青云志",
             "growth": "+1.2万"
           },
           {
-            "title": "七零亲爸入赘后，我成学霸团宠！",
-            "growth": "+1.1万"
+            "title": "绝嗣长官没儿子？小娇妻一胎三宝",
+            "growth": "+1.0万"
           }
         ],
-        "summary": "**🔥 题材趋势** “军婚+先婚后爱”与“带球跑/多宝”元素持续霸榜，成为年代文核心吸量公式。“丰腴/小保姆”等带有明确生理吸引标签的题材异军突起，成为新的流量密码。\n**📖 读者偏好** 读者偏爱“强反差”设定，如军官的禁欲与后期的宠妻狂魔、绝嗣与一胎三宝。同时，“恶毒女配觉醒搞事业”和“婆家团宠”的爽点叙事也备受青睐。\n**🆕 新上榜作品** 《糙汉八年暗馋，寡妇招架不住》和《丰满小保姆，禁欲军官哄生崽》上榜，进一步验证了“糙汉/禁欲军官+丰腴人妻/保姆”这一细分题材的爆发力。\n**📉 掉出榜单** 《随父入赘后，假娇软成家属院团宠》等作品掉出，表明单纯的“团宠”或“重生复仇”在缺乏强设定支撑时，较难维持高热度。\n**💡 值得关注** 《一个山村女孩的一生》以偏现实主义的悲情叙事切入，与主流甜宠形成差异化，显示出非典型题材的潜力，值得关注其后续口碑发酵。"
+        "summary": "**🔥 题材趋势** “军婚+先婚后爱”与“丰腴美人/小保姆”人设组合成为绝对主流，占比超七成。同时，“穿书觉醒+系统”元素深度渗透，从炮灰逆袭到学霸经商，套路化明显但创新不足。\n**📖 读者偏好** 读者高度追捧“高反差设定”（如绝嗣长官一胎三宝、禁欲军官疯狂打脸）和“强爽感”剧情，偏好“甜宠+打脸”的快速情绪反馈。现实向题材（如《一个山村女孩的一生》）虽有个案，但非主流。\n**🆕 新上榜作品** 无新作入榜，榜单头部固化，说明头部作品凭借稳定在读数据形成了一定壁垒。\n**📉 掉出榜单** 无作品掉出，但中腰部排名竞争激烈，多部作品微幅下滑。\n**💡 值得关注** 《穿书香江，我靠写小说发家致富》排名上升+4，将“港城背景+职业文”融入年代文，提供了差异化视角，或可成为新增长点。"
       },
       "books": [
         {
           "title": "丰腴美人一出场，被军官大佬截胡",
           "author": "夜空碎光",
-          "reads": "17.3万",
+          "reads": "16.7万",
           "intro": "（七零＋丰腴娇媚大美人VS沉稳持重军官） 年代文中总有这么一个人，她家世好，样貌美，人优秀，眼高于顶谁也看不上，只看上了男主，各种手段频出被男女主打脸。 苏曼柠穿成了这个恶毒女配。 但没人知道，男主只是她塘里的一条鱼。 她生的蜂腰丰臀，香肌雪肤，跟个水蜜桃似的，追她的人排成队。 鱼儿三个月不曾与她联系，就被她忘了个干净。 直到某天，她为躲避疯批追求者来到军区，终于想起了男主这条鱼。 正打算问问消息的时候，军区里出了名的冷面“活阎王”堵住了她的路。 “苏同志，了解一下吧，我想与你结成革命伴侣。” 一月后，男主带着截胡他的重生女回来了。 他红着眼眶满腹遗憾看着她：“曼柠，是我负了你。” 贺淮揉着苏曼柠的酸腰：“叫什么曼柠，叫嫂子。” —— 贺淮一直都知道同父异母的弟弟有个笔友。 两人的信件有来有往，听说就差相看了。 他是与弟弟关系不好，倒也没阻止他攀好亲事。 一年后，那姑娘来了军区。 他办了事回来顺道去接。 小姑娘坐在他车上被颠直捂胸，宛若熟透的水蜜桃。 还娇声叫他大哥。 贺淮心里那根弦当即就崩了。 弟弟，你值得好亲事，但不值得这么好的。 这姑娘做不成弟妹，只能做嫂子。 否则家门不睦！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o550cf2cfad10453a9cc37cb1c0d3595b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=vfyEGLTfZ3wmMStVhsO4E%2FVLNbU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o550cf2cfad10453a9cc37cb1c0d3595b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=YUWEOvMYGh0BAAeH7Sk7Z32kgyY%3D",
           "url": "https://fanqienovel.com/page/7617020801786596376"
         },
         {
           "title": "要命！首长的小娇妻夜夜闹离婚",
           "author": "青叶朵朵",
-          "reads": "14.9万",
+          "reads": "15.8万",
           "intro": "评分刚出，后面会涨 【先婚后爱+日久生情+男痞女坏+双洁+随军】 【80年代】 军区团长陆砚峥，被父母逼迫回老家结婚。结果在路上抓小偷，误闯女人闺房，睡了个大美人。 这女人长得娇，生的俏，心肝黑，性子野，一点都不好惹。 人如其名，她叫萧惹。 陆砚峥本想用钱打发麻烦。可这女人不要钱，只要名分，逼着他领证。 “要么去公安局，要么去民政局你选一个！” 关键，她不是真结婚，而是蓄谋已久来复仇的。 *** 婚后，萧惹白天惹祸，夜里撩拨，把整个家属大院闹得乌烟瘴气，鸡犬不宁。 上到领导，下到军嫂，所有人都劝陆砚峥离婚。 “陆团长，求你了，跟你家那惹祸精离了吧！再不离，我们都活不下去了！” “离，明天就离！” 陆砚峥也是气的牙痒痒，每天都把离婚挂嘴边，可怎么都离不掉。 天知道那女人有多娇软，夜里有多勾魂！ 离了，他还怎么活？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o39063c4f3037f41195e6bafe433e8c11~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=PdiYywj3Je%2BuE2Efludtwi%2FrBus%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o39063c4f3037f41195e6bafe433e8c11~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=bdFVIykkmxaABvGPfENs9Z2n4LQ%3D",
           "url": "https://fanqienovel.com/page/7634360267891018814"
         },
         {
           "title": "替嫁残疾英雄，婆家宠我青云志",
           "author": "哈哈小姐",
-          "reads": "13万",
+          "reads": "14.2万",
           "intro": "【年代甜宠+爽文+婆家宠上天】 七十年代末，家境贫寒受尽欺负的杨巧，被迫替嫁嫁给断了双腿的退伍英雄周文辉。 本是一场各取所需的婚姻，她以为往后日子只有柴米油盐的艰辛，却没想到嫁对了人，连带着婆家都把她宠上了天！ 公公是部队师长，婆婆是外科主任，全家上下把她当成心尖宝。 从受尽冷眼的苦命姑娘，到被婆家捧在手心的宝贝，杨巧一路逆袭。 恢复高考后，她埋头苦读考上大学，成为受人尊敬的老师。 哥哥杨政潜心钻研假肢技术，终于让丈夫重新站了起来。 没有金手指，只有细水长流的温情与步步向上的人生。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oaafff9a067b7a6373a72408eb43ccb0d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=hNcTtyrht%2FO37MnKIZabZgiOpMQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oaafff9a067b7a6373a72408eb43ccb0d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=FqxXIMrasnPzHoij%2Ft4T3mqOz%2B4%3D",
           "url": "https://fanqienovel.com/page/7630006960976317502"
         },
         {
           "title": "七零亲爸入赘后，我成学霸团宠！",
           "author": "追不上鱼的水",
-          "reads": "11.7万",
+          "reads": "13.1万",
           "intro": "[年代+觉醒+系统+学霸+科研+家长里短+团宠] 努力学习爱好吃瓜女主×学习痛苦小太阳男主 六岁的沈时雨，爹疼妈爱，是大河村最让人羡慕的小丫头。 可一夕之间，父母离婚，亲妈回城，她磕破脑袋后竟觉醒了上一世记忆，还绑定了学霸系统。 还没等她撸起袖子准备一路考学，亲妈就从京市寄来一封信，不是接她回去，而是给前夫介绍对象： 食品厂副厂长，离婚带娃，条件只有一个—— 入赘！ 沈怀瑾连夜收拾行李：“入赘就入赘，这软饭我吃定了！” 沈时雨：“？？？” 更离谱的是，亲妈的新家、继母的家，居然在同一个大院！ 前妻现任天天串门， 继兄姜云舟妥妥宠妹狂魔， 隔壁那个冷脸重生继父宠爱有加， 而隔壁的男女主独子竹马被她的学习进度吓得嗷嗷叫？？？ 沈时雨扶额：这团宠剧本，好像跟我想的不太一样？ 算了，还是写作业吧。 毕竟，清华北大，总要上一个的！ 结果，不小心，搞成民用发明家了？！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5ffda23da66b0ef1e56d12a59f7c5b9e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=hJgaDZlp3Wl37TsmRhKUmMpphgE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5ffda23da66b0ef1e56d12a59f7c5b9e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=FYMHSHqS%2Bk2a9%2Bjo1eulAnDpnfs%3D",
           "url": "https://fanqienovel.com/page/7636426004298222617"
-        },
-        {
-          "title": "年代恶毒女配：搞钱上学两不误",
-          "author": "风起不弃",
-          "reads": "11.4万",
-          "intro": "时雨雾一朝猝死穿成小说里同名的恶毒女配。贫穷的家，偏心自己的爸妈，瘦小的弟弟和恶毒的她。 在这个遍地是黄金的年代，时雨雾一边上大学一边赚钱，一不小赚的盆满钵满。 本想专心搞事业，谁知那位清冷归国工程师，竟对她一见倾心、步步靠近。 1v1，男女主双洁",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc8d4452ee193f40afa8cd70dd75729a4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=toBOUArWvlO6WSOqrb9Tow95LRY%3D",
-          "url": "https://fanqienovel.com/page/7564053589719534654"
         },
         {
           "title": "绝嗣长官没儿子？小娇妻一胎三宝",
           "author": "五只小猫",
-          "reads": "11.3万",
+          "reads": "12.3万",
           "intro": "【娇软绿茶小白兔×霸道爹系军官】 七零+11岁年龄差+身高差+生子系统+甜分超标+生理性喜欢 陆瑾欢是家里幺女，她天真可爱，软糯乖巧，却被自私自利的姐姐介绍给了自己绝嗣的大伯哥。 丈夫不能生怎么办？ 没关系，陆瑾欢绑定了好孕生子系统。 生子丸、生女丸、美体丸、龙凤丸、启智丸、多胎丸……应有尽有，只要她想，可以给丈夫生一个足球队。 五年后，丈夫满脸无奈的对她说：“乖媳妇，我去结扎好不好？咱们可别再生了，够了，真的够了……” —— 贺从南二十九岁了，家世好长相好，能力出众、精明强干，前途一片光明，可惜在一次体检时查出有不孕症。 他本想把自己的一生都奉献给部队，谁知，却对一个比自己小11岁的小姑娘一见钟情了！ 他暗骂自己是禽兽，可喜欢了就是喜欢了，根本做不到就这么错过她！ 后来，贺从南的生命里多一个小娇妻和一串儿孩子，天天在他眼前叽叽喳喳，让他既幸福又头疼…… PS： 男主有两面，在部队素有冷面阎王之称，嘴巴还有点毒，在家面对小娇妻时，恨不得夹着嗓子说话，把她当女儿养。 女主有些有些自然呆，还有些小心眼，但绝不蠢，也不作。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o25d96a748992d46c656cf435c7670436~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=GsU%2FjXIdXWjkJQD4hRjuYe83thE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o25d96a748992d46c656cf435c7670436~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=8sxt6sD7n9lHf2LyLr0lvpWSjOM%3D",
           "url": "https://fanqienovel.com/page/7615533188642786366"
+        },
+        {
+          "title": "年代恶毒女配：搞钱上学两不误",
+          "author": "风起不弃",
+          "reads": "12.1万",
+          "intro": "（刚开分会涨）时雨雾一朝猝死穿成小说里同名的恶毒女配。贫穷的家，偏心自己的爸妈，瘦小的弟弟和恶毒的她。 在这个遍地是黄金的年代，时雨雾一边上大学一边赚钱，一不小赚的盆满钵满。 本想专心搞事业，谁知那位清冷归国工程师，竟对她一见倾心、步步靠近。 1v1，男女主双洁",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc8d4452ee193f40afa8cd70dd75729a4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=XCxF95%2FTk7B1drVikAP97%2FoSfbA%3D",
+          "url": "https://fanqienovel.com/page/7564053589719534654"
         },
         {
           "title": "一个山村女孩的一生",
           "author": "苦瓜炒一切",
-          "reads": "9.9万",
+          "reads": "9.8万",
           "intro": "一个山村女孩的短暂的一生，她经历过绝望和痛苦，也有享受过微弱的阳光和快乐，她在无人的角落哭过，在热闹的街头笑过…… （这是一个真实存在的故事，大山深处其中一个女孩短暂又悲哀的一生。）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/f36396f8ac5c0b173e326435576ab1db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=Dl%2FMeko7S8A529LJDpmdbSiSP3M%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/f36396f8ac5c0b173e326435576ab1db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=ELwAEepWwQCtPsWCNV%2FN%2BtXuWc8%3D",
           "url": "https://fanqienovel.com/page/7601604170944089112"
         },
         {
           "title": "新婚后，禁撩军官变京圈宠妻狂魔",
           "author": "吻恩",
-          "reads": "9.8万",
+          "reads": "9.4万",
           "intro": "【超好看，分会涨】 高冷世袭超体强军官X落魄坚韧乖乖美人 【年代高干甜宠文+军婚+双洁+先婚后爱+契约婚姻新婚当晚破防失效+细水长流+闪婚+双胞胎+好孕体质+积极向上+爱国情怀+酱酱酿酿】 一场各取所需的交易联姻，将冰山阎王陆霆琛与柔弱孤女林菀绑在一起。 开始： “先说好，除了夫妻义务，其他的都不用等我，我做事不喜欢太快。” “好，好的……” 新婚当晚男人就破防主动要履行。 后来： 青梅找来，林菀故意要去部队住女宿舍。 男人不让，只能黑着脸跟着到部队陪着。 他想把她绑在身边，绑到她听话为止。 可她一不理他，他就心软。只能黑灯瞎火去爬窗。 “天亮了……快起开！” “再亲一口……” “别走正门啊！” “那我走哪？” “原路爬回去！” “……” 看着男人帅气落地，林菀很是无奈。 相亲一周就结婚，结婚当晚就新房，三月不到就中了，还说婚后互不打扰，但却比谁都积极。 知道是双胞胎，曾经冷硬不可一世的男人开心得像毛头小子一样。 不是说不喜欢发展太快吗？ 谁的进度都没他快吧！ 起先都说他战功赫赫她不害臊高攀京枝， 后来，群众们都说是他陆军长找了个宝藏好媳妇！~",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofddd3afcbfe222583c2837a59bc73104~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=zK0eTLbZUbVkDqg7t%2FPOWOTZ5Do%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofddd3afcbfe222583c2837a59bc73104~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=JLcWkBqL7YEIP5i2UBRplZoQT7c%3D",
           "url": "https://fanqienovel.com/page/7626851022756908094"
         },
         {
           "title": "七零炮灰女配，列车员的悠闲人生",
           "author": "酸菜炖粉丝",
-          "reads": "7.9万",
+          "reads": "8.9万",
           "intro": "穿书七零，成为年代女频的女主的炮灰堂妹。 上一世，女主与男主背着她搞地下恋情，直到被推下海才幡然醒悟。 冤大头？ 被女主踩着机缘上位的炮灰？ 狗都不当。 重生到结婚前三天。 当场抓奸，手撕渣男，抢夺金手指。 看赵舒兰如何从列车员，一路搜刮古董，南下经商成为一方富豪",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o353bd18d9c283242141fe904cbe29334~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=h2jVdBEX5Va8eVE82N%2BF72YRpRo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o353bd18d9c283242141fe904cbe29334~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=7Qw7L3SYVOhDd%2BUW9rTOzcbjbzE%3D",
           "url": "https://fanqienovel.com/page/7638449016778263577"
         },
         {
           "title": "糙汉八年暗馋，寡妇招架不住",
           "author": "一笑倾城雪",
-          "reads": "6.9万",
+          "reads": "7.6万",
           "intro": "1982年，高粱穗子冒红缨的夏天。 王春花守了三年寡，活得比尼姑还干净。 白天往死里干活，夜里裹紧被子不敢翻身。 可她不知道，村尾那个不爱搭腔的光棍汉吴浩，在暗处盯了她整整八年。 直到那个晌午，高粱地里四下无人。 他再也忍不住了。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obc95df7c8da4e15b00377d6185132b73~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802767&x-signature=zjal%2BHNIBB25ZvK4C3xP3geerBI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obc95df7c8da4e15b00377d6185132b73~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892204&x-signature=FGsYrpsxp1y32yADLsVRpywiRuY%3D",
           "url": "https://fanqienovel.com/page/7632262377328626713"
-        },
-        {
-          "title": "嫂子逼我嫁她哥？植物人教授醒了",
-          "author": "香菰叶",
-          "reads": "6.6万",
-          "intro": "（评分刚出还会涨）[七零+先婚后爱+温馨轻松向] 狡黠明媚小村姑VS禁欲闷骚科研教授 苏晓夏穿书了，穿到七十年代，成了为兄换亲的工具人。 哥嫂是自由恋爱，却非要拖她下水，逼她嫁给嫂子的大哥，书中的植物人男主。 按原书剧情，男主醒来后，坚决退掉了这门荒唐的换亲，不计较原主虐待他，还补偿了她一千块巨款！ 苏晓夏看看家徒四壁的破屋，又看看一家子奇葩，果断答应了，要是好好照顾，应该会给更多吧？ 为了攒第一桶金，也为了避免炮灰结局，嫁过去后，她日夜不停地给男人洗脑。 结果一不小心，把人洗成了恋爱脑。 男人醒来第一句话：我的钱全给你，我的人也是你的。 收获了爱情，却一贫如洗的嫂子不干了，哭着要换回来。 男人搂紧苏晓夏：不想过就离，我和夏夏是受法律保护的合法夫妻！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od5f22dcb5483b9b8b927a40b0d22ee2e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=RoJIQz8ksIt4D5JOt%2Bq17%2Bfcw7A%3D",
-          "url": "https://fanqienovel.com/page/7629259422216227865"
         },
         {
           "title": "丰腴小保姆太香，暴戾大佬掐腰哄",
           "author": "明日须弥吟雪",
-          "reads": "6.5万",
+          "reads": "7.2万",
           "intro": "（丰腴小保姆×暴戾大佬） 林秀穗命苦，前夫考上大学后将她抛弃，她独自生下女儿。 为了攒钱给乡下的女儿治病，她进城应聘到了军区大院顾家当保姆。 她身段丰腴娇美，做的一手好药膳，只想本分赚钱给女儿治病。 可顾家水深火热，当家的老大媳妇见林秀穗肤白貌美，胸大屁股翘处处针对她。 更可怕的是退伍归来、性情暴戾的顾家老二顾寒野。 因为严重的战后创伤，顾寒野常年失眠狂躁，任何气味都会让他反胃。 直到那天，顾寒野闻到了林秀穗身上独有的奶香，奇迹般地平静安睡。 老大媳妇陷害她下药要搜身，顾寒野一脚踹翻桌子，将瑟瑟发抖的她护在身后：“我身边缺个小保姆，你跟我走。” 林秀穗小声求他：“我能带上我女儿吗？” 男人将她堵在墙角，红着眼掐住她的细腰：“只要你乖乖听话，你女儿我也疼。” 后来，大院里都在传顾寒野疯了，居然把乡下小保姆捧在心尖上！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa6ef27b149b7576bca2e31414334cf94~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=zdYUeKd5Bhluaz9AHKJYd5rkwAs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa6ef27b149b7576bca2e31414334cf94~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=06sEyEL0mRLiBOiYuDCpm9V2ctk%3D",
           "url": "https://fanqienovel.com/page/7637539378809539608"
         },
         {
-          "title": "投胎？不！我和六零重生女换人生",
-          "author": "打瞌睡呢",
-          "reads": "6.5万",
-          "intro": "评分刚开，会涨！ 【强惨狱霸风男主X貌美咸鱼小作家】 【不下乡+不黑市+日常家长里短+互相救赎+甜文】 下辈子荣华富贵关我这辈子什么事儿？ 林夏本是现代一个网文作者和粉丝十几万的短篇漫画作家。 一场意外连人带窝被轰得渣都没了，喝孟婆汤投个富贵胎？她选补偿空间和六零重生女交换人生。 林夏面对即将被卖出去换彩礼的人生，首先选择撕开林家偏心的遮羞布，不当老黄牛伺候全家，在外积极找工作。 结果六十年代的铁饭碗没关系实在是太难了。 “夏夏，老师给你介绍个相亲对象，其他条件都符合你的要求，就是这长相，五官分开看都好看” “合在一起嘛。夏夏，你知道胡子么？他就像那没有胡子的胡子，胡子头儿要是一起蹲笆篱子，他凭长相气质能当狱霸的那种。” 林夏想了想下乡的苦。 相！长得凶怎么了，有下乡可怕吗？ 谁知当天相亲，第二天就领了证，嫁进了铁路局家属院。 贺凛在他荒芜的人生碰到了独属于他的救赎，迅速扒拉回了家。 家属院众人看着美若天仙的林夏，本以为贺科长的媳妇儿肯定是被强迫嫁给他的，日子肯定不好过。 谁知人家贺科长长得凶但他是真疼媳妇啊。 再后来夫妻两一起努力，一个在铁路系统一路晋升，一个成为了闻名全国的畅销作家",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odf21d1e12d5d9c2e3fb82fa34c8dcc26~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=k7L7eXDR5YgZs13QfgHDEdPG1E8%3D",
-          "url": "https://fanqienovel.com/page/7627049014881438745"
+          "title": "嫂子逼我嫁她哥？植物人教授醒了",
+          "author": "香菰叶",
+          "reads": "7.1万",
+          "intro": "（评分刚出还会涨）[七零+先婚后爱+温馨轻松向] 狡黠明媚小村姑VS禁欲闷骚科研教授 苏晓夏穿书了，穿到七十年代，成了为兄换亲的工具人。 哥嫂是自由恋爱，却非要拖她下水，逼她嫁给嫂子的大哥，书中的植物人男主。 按原书剧情，男主醒来后，坚决退掉了这门荒唐的换亲，不计较原主虐待他，还补偿了她一千块巨款！ 苏晓夏看看家徒四壁的破屋，又看看一家子奇葩，果断答应了，要是好好照顾，应该会给更多吧？ 为了攒第一桶金，也为了避免炮灰结局，嫁过去后，她日夜不停地给男人洗脑。 结果一不小心，把人洗成了恋爱脑。 男人醒来第一句话：我的钱全给你，我的人也是你的。 收获了爱情，却一贫如洗的嫂子不干了，哭着要换回来。 男人搂紧苏晓夏：不想过就离，我和夏夏是受法律保护的合法夫妻！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od5f22dcb5483b9b8b927a40b0d22ee2e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=TnA2qu8%2FFPdzq3SJg2oLVaFm4Oo%3D",
+          "url": "https://fanqienovel.com/page/7629259422216227865"
+        },
+        {
+          "title": "穿书香江，我靠写小说发家致富",
+          "author": "吃一大口酱板鸭",
+          "reads": "6.8万",
+          "intro": "评分低是因为刚开分，后续会慢慢涨哦 江泠一睁眼，穿成了年代文里活不过几章的炮灰女配。 开局就是地狱模式：一家四口刚偷渡到港城，没钱、没身份，穷得只剩半罐药和一锅烂菜粥。原书里，她病死，母亲累死，弟妹流落街头，最后连亲生父亲都嫌她们脏，随手拿点钱打发了。 江泠：这剧本谁爱走谁走，反正她不走。 找不到工作？她先去茶餐厅做帮工，靠现代经营手段，把快倒闭的小店盘活； 再低头写稿，把本不该出现在这个时代的修仙升级流，提前送上香江报纸。 于是，一篇《仙途》，写得满港沸腾。 报社加印，编辑堵门，读者催更到骂街，对家挥着高价来抢人。 所有人都在猜“泠川”是谁。 谁也没想到，这个搅动港城文坛的天才作者，竟是九龙城寨里一个白天端盘子、夜里趴在昏黄灯下写稿的少女。 从城寨到底层翻身， 从一无所有到一字千金， 从任人摆布的炮灰，到执掌命运的大女主。 江泠这一生，不靠男人，不等豪门，只靠自己。 她要护着母亲和弟妹，一步步从最脏最乱的城寨，走进香江最耀眼的地方。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od896aea9f59c18a6ea1c0fc6396f6369~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=hZIvFCvDbCSwrgxOqMCHBrJw5fs%3D",
+          "url": "https://fanqienovel.com/page/7633816269761809433"
         },
         {
           "title": "小保姆和大领导",
           "author": "九八八呀",
-          "reads": "6.4万",
+          "reads": "6.7万",
           "intro": "又名：小保姆被大领导赖上了 . （日常+甜文+发家致富+宠妻+家长里短） . 温知宜是个乡下姑娘，没文化、没工作、没户口。 继姐嘲笑她：“你连高中都没考上，还想考大学？” 亲戚要把她介绍给“缺心眼”：“人家有钱，还挑什么？” 温知宜转身进了刚来的副厂长家当保姆。 一边干活，一边自考，一边做生意挣钱。 厂长亲自教她学习方法。 有人追她，厂长拦在门口： “小温同志忙着自考，没空谈恋爱。” 后来她拿到毕业证，厂长又问： “小温同志，什么时候考虑个人问题？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofef9c1b6959f4b72d50cdb6ff10d2c35~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=1fp4p9pD93hLQ7YmJvYuMFWPb8Q%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofef9c1b6959f4b72d50cdb6ff10d2c35~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=%2FdhPLII8ke0ZDp0cih2sBKuVpc0%3D",
           "url": "https://fanqienovel.com/page/7633716644711238718"
         },
         {
           "title": "怀崽跑路！冷面军少红眼堵门",
           "author": "零紫玥",
-          "reads": "6.4万",
+          "reads": "6.7万",
           "intro": "评分刚出，后面会涨 【年代+军婚+空间灵泉+萌娃+高考+追妻】    大队长家的娇娇女苏念秋，在山里意外撞上了执行秘密任务被敌人下猛药的特战军官贺凛。一夜荒唐后，男主因紧急军情留下信物匆匆归队。     一个多月后，原主发现自己月信迟迟未来，且频频干呕，偷偷看病时被村里的二流子撞见并大肆造谣她。原主承受不住全村的指指点点，羞愤之下投河自尽。现代顶级设计师苏念秋穿书而来，接盘了这个烂摊子。 她被村民从河里捞上来，面对全村长舌妇的羞辱，苏念秋本以为要地狱开局，好在亲爸和亲妈极限护犊子，抄起扁担把造谣的人打得鬼哭狼嚎：“我闺女就算一辈子不嫁，老子也养得起！”     苏念秋觉醒灵泉空间，靠着空间物资和灵泉，把原本虚弱的身体养得娇艳欲滴，更带着全家吃香喝辣。她一边挺着大肚子养胎，一边复习高中知识，次年恢复高考，她一举拿下省状元，生下神童萌娃“团团”，带娃去北城上大学了。     另一边，任务结束死里逃生的冷面阎王贺凛，满心愧疚与责任回到村里寻妻，却只看到人去楼空，信物也不翼而飞。     三年后的北城，贺凛看着那个抱着小号自己、明艳动人的女大学生，红着眼将她抵在后台：“苏念秋，带着我的种，你想跑去哪？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oce5226b810cf014d85824e84025be7bf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=XRXrWny6dN8657d6oEdOuLFPWuk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oce5226b810cf014d85824e84025be7bf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=MPFH3qfQ48crbV4ZIpCbPav0vxY%3D",
           "url": "https://fanqienovel.com/page/7624151965584329753"
         },
         {
-          "title": "因为太能生，香饽饽男主变万人嫌",
-          "author": "夭夭不妖a",
+          "title": "投胎？不！我和六零重生女换人生",
+          "author": "打瞌睡呢",
           "reads": "6.4万",
-          "intro": "【年代爽文+穿书+神笔马良+军婚+养崽】 【婀娜妖冶作家×铁塔糙汉军官】 孟晚棠是个小有名气的网文作者，一朝意外穿越到七十年代，成了年代文男主那嫌贫爱富、最后抛夫弃子和港城富商跑了的恶毒前妻。 更倒霉的是—— 孟晚棠穿来的时间，正好是在和男主发生关系的当口。 “！” 想到自己那被金手指诅咒的倒霉体质，她当即白眼一翻昏死了过去。 她不想生孩子啊啊啊！！！ ———— 为了不失去宝贝金手指，孟·独身主义·晚棠心一横坚持没打胎，最后九死一生终于生下八个儿子。 一开始： “听说了吗？顾家那儿媳妇一天天只顾着自己吃喝打扮，八个儿子全推给婆婆和娘家妈照顾。” 但凡提到孟晚棠无不唾弃鄙夷，觉得她妖妖娆娆不配当妈。 后来： “听说了吗？孟晚棠竟然是大作家，靠写小说赚了老鼻子钱呢！” 语气里全是艳羡。 一改之前的指指点点，觉得顾家娶这个媳妇真是娶对了，又能生儿子又能赚钱，谁家媳妇能这么有本事。 默默路过的顾砺锋挺了挺胸，脸上全是骄傲。 没错，我家的。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/d8e10c4e74d322885d795c9b40c85de3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=nsr9i2Fj%2FkJkGQWE6wBObllbM5g%3D",
-          "url": "https://fanqienovel.com/page/7542944491221552190"
-        },
-        {
-          "title": "穿书香江，我靠写小说发家致富",
-          "author": "吃一大口酱板鸭",
-          "reads": "6.3万",
-          "intro": "评分低是因为刚开分，后续会慢慢涨哦 江泠一睁眼，穿成了年代文里活不过几章的炮灰女配。 开局就是地狱模式：一家四口刚偷渡到港城，没钱、没身份，穷得只剩半罐药和一锅烂菜粥。原书里，她病死，母亲累死，弟妹流落街头，最后连亲生父亲都嫌她们脏，随手拿点钱打发了。 江泠：这剧本谁爱走谁走，反正她不走。 找不到工作？她先去茶餐厅做帮工，靠现代经营手段，把快倒闭的小店盘活； 再低头写稿，把本不该出现在这个时代的修仙升级流，提前送上香江报纸。 于是，一篇《仙途》，写得满港沸腾。 报社加印，编辑堵门，读者催更到骂街，对家挥着高价来抢人。 所有人都在猜“泠川”是谁。 谁也没想到，这个搅动港城文坛的天才作者，竟是九龙城寨里一个白天端盘子、夜里趴在昏黄灯下写稿的少女。 从城寨到底层翻身， 从一无所有到一字千金， 从任人摆布的炮灰，到执掌命运的大女主。 江泠这一生，不靠男人，不等豪门，只靠自己。 她要护着母亲和弟妹，一步步从最脏最乱的城寨，走进香江最耀眼的地方。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od896aea9f59c18a6ea1c0fc6396f6369~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=fPiMUjRnwYNkMCPXAl8R6IZTC2o%3D",
-          "url": "https://fanqienovel.com/page/7633816269761809433"
+          "intro": "评分刚开，会涨！ 【强惨狱霸风男主X貌美咸鱼小作家】 【不下乡+不黑市+日常家长里短+互相救赎+甜文】 下辈子荣华富贵关我这辈子什么事儿？ 林夏本是现代一个网文作者和粉丝十几万的短篇漫画作家。 一场意外连人带窝被轰得渣都没了，喝孟婆汤投个富贵胎？她选补偿空间和六零重生女交换人生。 林夏面对即将被卖出去换彩礼的人生，首先选择撕开林家偏心的遮羞布，不当老黄牛伺候全家，在外积极找工作。 结果六十年代的铁饭碗没关系实在是太难了。 “夏夏，老师给你介绍个相亲对象，其他条件都符合你的要求，就是这长相，五官分开看都好看” “合在一起嘛。夏夏，你知道胡子么？他就像那没有胡子的胡子，胡子头儿要是一起蹲笆篱子，他凭长相气质能当狱霸的那种。” 林夏想了想下乡的苦。 相！长得凶怎么了，有下乡可怕吗？ 谁知当天相亲，第二天就领了证，嫁进了铁路局家属院。 贺凛在他荒芜的人生碰到了独属于他的救赎，迅速扒拉回了家。 家属院众人看着美若天仙的林夏，本以为贺科长的媳妇儿肯定是被强迫嫁给他的，日子肯定不好过。 谁知人家贺科长长得凶但他是真疼媳妇啊。 再后来夫妻两一起努力，一个在铁路系统一路晋升，一个成为了闻名全国的畅销作家",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odf21d1e12d5d9c2e3fb82fa34c8dcc26~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=ACVZqzxoH8D9c0Xlox1HvnpuRjw%3D",
+          "url": "https://fanqienovel.com/page/7627049014881438745"
         },
         {
           "title": "误闯高门",
           "author": "金瑞儿",
           "reads": "6.2万",
           "intro": "1968年，马砺锋高中毕业后凭本事考进了钢厂，他父亲却让他下乡。理由是他太娇气了，需要接受贫下中农再教育。 马砺锋不愿意，他爹居然不顾他的意愿直接把他塞到了下乡的队伍里。 马砺锋气的下乡第三天就随便结婚了……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/2904afc6d50df0224c782432f09dcdbb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=ElUAQ8KIh4QOEKsEsLi5SDCmZ3c%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/2904afc6d50df0224c782432f09dcdbb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=DkaODTmI6DWCKm2mb4UWJJVCVf8%3D",
           "url": "https://fanqienovel.com/page/7608554443063184446"
         },
         {
           "title": "丰满小保姆，禁欲军官哄生崽",
           "author": "甜饼阿紫",
-          "reads": "5.8万",
+          "reads": "6.1万",
           "intro": "禁欲军官 |纯欲诱惑 | 身份差 | 穿越甜宠 | 哄崽日常 谢文娇一觉意外穿进缺衣少食的七零年代。 命苦，男人牺牲在边境，留下她和刚满月的闺女。 为了活下去，她被介绍到军区大院给首长家当保姆，照看那个没了妈的小娃娃。 她老实本分，只想拿工资攒钱，给自家丫丫将来上学用。 可大院水深，她如履薄冰。 偏偏那个冷面寡言的团长，夜里查岗时把她堵在了灶房—— 男人压低声线：“你老实交代，到底是谁派你来的？” 谢文娇吓得直哆嗦：“首、首长，我就是个喂孩子的……” 他盯着她领口，目光幽沉：“喂孩子的，扣子怎么系不好？” 谢文娇只想攒够钱就跑，可她跑得掉吗？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0626dced90e066fe8ab588033cf85acd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=OBBAlz%2FDIa4ixtMTuh36hdQRqwE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0626dced90e066fe8ab588033cf85acd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=2tMapzFMPryeW05kShlTCDZzoRk%3D",
           "url": "https://fanqienovel.com/page/7637397057493273624"
+        },
+        {
+          "title": "因为太能生，香饽饽男主变万人嫌",
+          "author": "夭夭不妖a",
+          "reads": "6万",
+          "intro": "【年代爽文+穿书+神笔马良+军婚+养崽】 【婀娜妖冶作家×铁塔糙汉军官】 孟晚棠是个小有名气的网文作者，一朝意外穿越到七十年代，成了年代文男主那嫌贫爱富、最后抛夫弃子和港城富商跑了的恶毒前妻。 更倒霉的是—— 孟晚棠穿来的时间，正好是在和男主发生关系的当口。 “！” 想到自己那被金手指诅咒的倒霉体质，她当即白眼一翻昏死了过去。 她不想生孩子啊啊啊！！！ ———— 为了不失去宝贝金手指，孟·独身主义·晚棠心一横坚持没打胎，最后九死一生终于生下八个儿子。 一开始： “听说了吗？顾家那儿媳妇一天天只顾着自己吃喝打扮，八个儿子全推给婆婆和娘家妈照顾。” 但凡提到孟晚棠无不唾弃鄙夷，觉得她妖妖娆娆不配当妈。 后来： “听说了吗？孟晚棠竟然是大作家，靠写小说赚了老鼻子钱呢！” 语气里全是艳羡。 一改之前的指指点点，觉得顾家娶这个媳妇真是娶对了，又能生儿子又能赚钱，谁家媳妇能这么有本事。 默默路过的顾砺锋挺了挺胸，脸上全是骄傲。 没错，我家的。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/d8e10c4e74d322885d795c9b40c85de3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=Twoy5opLn6gMFMJvG%2BD0vvdIOWI%3D",
+          "url": "https://fanqienovel.com/page/7542944491221552190"
         },
         {
           "title": "穿成对照组，金手指我抢一半",
           "author": "青 沐",
-          "reads": "5.6万",
+          "reads": "6万",
           "intro": "沈知夏回神第一件事，就是和堂姐争夺地上的木牌，两人一人一头谁都不肯松手。沈知夏知道，木牌只要吸够血就会认主，她暗戳戳的扎破手心，紧紧握住木牌不松手。这个金手指她今天必须抢了。沈知兰紧紧抓住木牌，心里有个声音告诉她不能松手，所以手被磨破皮她也紧紧抓住不送。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/2b340c3f2efa137b28fd550b3dc945cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802771&x-signature=mbfEVWR2Gu2BxLOgknc2vzJ79Jw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/2b340c3f2efa137b28fd550b3dc945cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892208&x-signature=kE5JRM0FuhRoJt5%2BDpem%2BHRfKqM%3D",
           "url": "https://fanqienovel.com/page/7559037173794622488"
         }
       ]

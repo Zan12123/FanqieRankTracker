@@ -1,140 +1,145 @@
 {
   "type": "女频衍生",
-  "date": "2026-05-31",
-  "prev_date": "2026-05-30",
+  "date": "2026-06-01",
+  "prev_date": "2026-05-31",
   "category": {
     "name": "女频衍生",
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
+      "new_count": 2,
+      "dropped_count": 2,
       "new_books": [
-        "HP当麒麟女来到霍格沃兹"
+        "张桂芬重生：嫁给盛长柏后杀疯了",
+        "斩神：你管这叫度假世界？"
       ],
       "dropped_books": [
         {
-          "title": "综影视：开局欢乐颂，吃安迪软饭",
-          "intro": "【综影视+系统+金手指+半舔狗+有时候会有点颠+有时候会有点恶趣味】 江月白所在世界升格，一瞬间，天崩地裂，海啸山火，人类十不存一，世界意识发出救援信号，高纬度救助部门前来救助。 救助条件则是需要打工"
+          "title": "红楼：黛玉的驯夫之道！",
+          "intro": "【1v1+纯爱+青梅竹马+两小无猜+卿卿日常】 全京城都在看着，谁能驯服太上皇宠上天的混世小魔王安亲王水烨。 十三岁的他，无法无天，桀骜嚣张，怼王公，闹王府，谁都管不住，唯独天生护短，心软嘴硬。 一道"
+        },
+        {
+          "title": "这个甄嬛传怎么不一样",
+          "intro": "池红衣穿到甄嬛传后，原本已经躺平等死，后意外得到一朵奇异莲花，从此走上了夺取气运的修炼之路。 原本以为已经知晓剧情，想要走上高位，一切都会很顺利。 可真的身处这些小世界，才发现哪哪都不对劲。 第一个世"
         }
       ],
       "top_risers": [
         {
-          "title": "【综清穿】心机美人她有易孕体质",
+          "title": "HP当麒麟女来到霍格沃兹",
           "change": "+4"
         },
         {
-          "title": "影视：不知道啊！反正人生很曼妙",
-          "change": "+2"
+          "title": "还珠格格之固伦和昭公主灵昭",
+          "change": "+1"
         },
         {
-          "title": "还珠格格之固伦和昭公主灵昭",
-          "change": "+2"
+          "title": "【综清穿】心机美人她有易孕体质",
+          "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "锦叶良缘",
+          "title": "综影视：有凤来，十里故清欢",
           "change": "-2"
         },
         {
-          "title": "父君别跪，我只讲公考上岸",
-          "change": "-1"
+          "title": "斩神：我靠歌声拯救时间之神",
+          "change": "-2"
         }
       ],
       "reads_growth": [
         {
-          "title": "综影视：三千世界三千他",
-          "growth": "+6000"
+          "title": "渡莲：我把哪吒调成了病娇",
+          "growth": "+8000"
         },
         {
-          "title": "渡莲：我把哪吒调成了病娇",
-          "growth": "+5000"
+          "title": "综影视：三千世界三千他",
+          "growth": "+6000"
         },
         {
           "title": "【综清穿】心机美人她有易孕体质",
           "growth": "+2000"
         }
       ],
-      "summary": "**🔥 题材趋势** 经典IP《甄嬛传》《还珠格格》同人持续霸榜，系统穿书与反套路设定成主流。哪吒、封神等神话衍生开始冒头，拓宽了女频衍生的边界。\n**📖 读者偏好** 读者偏爱“高幸运值”“大小姐驾到”等爽感设定，同时对“病娇”“阴湿执念”等强情感拉扯的标签接受度提高。同人作品倾向于对原剧情的颠覆性重构。\n**🆕 新上榜作品** 《HP当麒麟女来到霍格沃兹》融合哈利波特与盗墓笔记，跨IP联动带来新鲜感，开局即获4.3万在读，验证了“双厨狂喜”模式的潜力。\n**📉 掉出榜单** 《综影视：开局欢乐颂，吃安迪软饭》因“半舔狗”设定与主流读者对女频衍生“女主本位”的期待不符，市场反馈不佳。\n**💡 值得关注** 清穿宫斗仍是基本盘，但“考公人穿三生三世”等现代梗植入开始出现，预示未来将更多与现实议题结合。"
+      "summary": "**🔥 题材趋势** 经典剧集衍生IP（《甄嬛传》《还珠格格》）与热门网文IP（《斩神》）形成双极驱动。综影视“快穿”模式热度稳固，以“拆CP”或“收集碎片”为核心动机的叙事占比高。封神/洪荒题材的“病娇”化改编成为新增长点。\n**📖 读者偏好** 偏好“已知世界观+反套路”的强设定，如全点幸运值、穿成炮灰后躺平。对“系统”和“金手指”接受度高，但更看重系统带来的“任务感”和“逆袭爽感”，而非单纯数值碾压。\n**🆕 新上榜作品** 《张桂芬重生：嫁给盛长柏后杀疯了》精准切入“知否”高人气配角，以“重生+发卖”的极致爽点快速吸引存量读者。《斩神：你管这叫度假世界？》则延续了“反差”叙事，将高战力角色进行日常化解构。\n**📉 掉出榜单** 《红楼：黛玉的驯夫之道！》和《这个甄嬛传怎么不一样》掉榜，前者或因“驯夫”设定与当下“大女主”偏好有所偏离；后者“修炼”主线在“穿剧”赛道中略显平淡，缺乏即时爽感钩子。\n**💡 值得关注** 高分题材“封神演义”与“霍格沃茨”的同人创作热度持续攀升，尤其是将东方神话或西方魔法与“系统”、“黑化”、“救赎”等网文流行元素结合的作品，具备稳定孵化潜力。"
     },
     "books": [
       {
         "title": "甄嬛传：幸运值点满后撞脸十三爷",
         "author": "红烧肉里的姜",
-        "reads": "17.7万",
+        "reads": "17.2万",
         "intro": "确诊肺癌晚期后，穆宁看见河面直接就是个三二一，起跳。 穆宁幸运的挂了。 更幸运的是她绑定了系统。 只要成功攻略甄嬛传里的大胖橘，她就能永享财富和健康。 开局属性点，穆宁脑子一抽，全点了幸运值。 一睁眼，穆宁成了怡亲王表妹，还跟他长得一模一样。 看到她第一眼，四爷：…… 穆宁阴差阳错(系统作祟)进了雍王府，成了庶福晋。 洞房当晚…… 四爷：……实在下不去手啊，有一种抓耳挠腮的背德感。 从此穆宁在后宫： 不用争宠 不用侍寝 不用搞心机 天天嗑瓜子看后宫大戏 最后还顺利完成了任务，成功通关游戏。 系统：…… 穆宁：亲情怎么不算情呢？ (亲情向+吃瓜看戏+爽文) 本书排雷： 1、本书对眉嬛不算友好，不喜勿入 2、女主与安陵容、华妃关系友好，不喜勿入",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8dfc7561647513c680fe2b84402ea438~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=K0WtSk2fA7tywLGYzpE5V1BbCss%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8dfc7561647513c680fe2b84402ea438~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=RRuPos0n3zOyd%2FNa2JWLwWDM5dw%3D",
         "url": "https://fanqienovel.com/page/7626717980772011070"
       },
       {
         "title": "渡莲：我把哪吒调成了病娇",
         "author": "锦鲤小小稀饭",
-        "reads": "15.3万",
+        "reads": "16.1万",
         "intro": "（评分刚出，后期会涨）【封神演义+系统+双向羁绊+黑化病娇+阴湿执念】 哪吒人设与传统神话有出入，后期有点恋爱脑，私设颇多，介意勿入。 苏沅星一朝坠落封神世界，穿成了东海龙王小女儿，还绑定了高阶仙量系统，而她的任务只有一个——陪伴和治愈那个年少桀骜、命途多舛的哪吒。 初遇，哪吒还是个浑身长刺的小破孩，苏沅星用一根棒棒糖死皮赖脸地跟着他回了家。 此后她守他孤寂，暖他寒心，陪他熬过岁岁风霜，抚平了他满身的棱角，他们成为了彼此最为亲近的人。 她视他为童年男神，护他在身边，从未敢有半分逾矩。 可她不知，人心暗生，执念疯长。 年少的情愫，在无人知晓的角落，生根，发酵，扭曲。 哪吒逐渐贪恋她的温柔，沉溺她的陪伴，容不得旁人半点窥探。 三界众生，山河万里，他什么都不要。 他只要一个她。 后来，两人肉身破碎，并蒂莲心铸骨，并蒂双生，从此，同生同死，亲密无间。 他将她拥在怀里，眼底只剩沉沉的阴翳与偏执，指尖轻轻抚过她的眉眼，语声低哑，带着化不开的黏腻与疯狂： “星星，是你救了我，暖了我。” “那你这辈子，来生，乃至永生永世，都只能是我的。” “别想逃，你也逃不掉。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od03957492b1c2011bb2a0b2feda90594~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=lE2J3u7lIyqkryHZHQQ75JlTHxI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od03957492b1c2011bb2a0b2feda90594~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=cFg124LcxbF787fdIAdASMiAxpc%3D",
         "url": "https://fanqienovel.com/page/7621462061658147902"
       },
       {
         "title": "甄嬛传：大小姐驾到，通通闪开",
         "author": "椒盐玉米粒粒",
-        "reads": "12万",
+        "reads": "11.9万",
         "intro": "钮祜禄.宁姝，胎穿十八年，选秀当天才发现是甄嬛传。 可，那又如何？ 她阿玛是一等公，任领侍卫内大臣，天子近臣，位高权重。 她兄长是靖远大将军，坐镇西北，手握重兵，与年羹尧权势相当，威震朝野。 她自己又是怡亲王的恩人，被十三爷视作亲妹。 宁姝： “旁人进宫是争宠，我进宫是来幸福的！” 所幸还绑定了系统，可以做做任务，不然这在后宫的生活该有多无聊。 可这任务不是帮帮这个，就是帮帮那个，宁姝就这样有事绝不憋屈、怼天怼地的成为了后宫众人的白月光。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o16162b8397372a60441eed8e3a10a410~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=c%2BZTJC%2B04DL%2BTYSSAyaVEcSmk0s%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o16162b8397372a60441eed8e3a10a410~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=jhS9Sj9eoQPTu2Oe%2BYPQiwOn7eU%3D",
         "url": "https://fanqienovel.com/page/7619905141826669592"
       },
       {
         "title": "穿成小燕子：只做乾隆掌中娇宠女",
         "author": "幸运淼子吖",
-        "reads": "11.2万",
+        "reads": "10.6万",
         "intro": "作品评分刚刚出哦～ 嗯？？穿越了？ 穿成还珠格格的主角小燕子？ 还好是重伤昏迷状态，没有认爹。 不过伤口真的很疼…… 清醒后，不能因为一时贪恋温暖，稀里糊涂认爹。 说完事情的来龙去脉，乾隆竟然认她做义女了！ 太好了！ 她不用像小燕子那样在跑江湖卖艺。 她还有了身份地位！ 在这个地方，没身份没地位的，就是任人宰割的猪。 既然天意如此，她欣然接受！ 地位有了，靠山有了，那么美男相公还远吗？ 皇阿玛，小燕子不嫁，要招婿！ 还要招长得帅，会哄人，才貌双全的驸马！ 至于原剧情那些东西，和她可没关系，她会按照自己的步骤，活成自己的主角。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od6834b5e8d64982b45601b90b31c04c1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=F63xL%2BiPQToBrLCdN0Ez%2BMQ3gUQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od6834b5e8d64982b45601b90b31c04c1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=rCd5dVBvZ47XSa0pJjBsjAyXAXs%3D",
         "url": "https://fanqienovel.com/page/7601441198808517657"
       },
       {
         "title": "穿成余莺儿：我在后宫当生活家",
         "author": "奶茶的铲屎官",
-        "reads": "10万",
+        "reads": "10.1万",
         "intro": "（评分低是因为刚开分，后面会涨的，大家走过路过不要错过）一朝穿成倚梅园里冒宠的余莺儿，她深知这是个活不过几集的炮灰命。没有逆天金手指，不搞逆袭爽剧，只凭着熟知剧情的先机，收锋芒、避死劫、谨言慎行。好在她继承了原主的记忆，昆曲唱得那叫一个婉转悠扬。 她不是天选之女，也不想卷入后宫的尔虞我诈。 遇到华妃让她去唱昆曲，她没有安陵容那样的委屈，反而开开心心地去唱，唱完还眨巴着眼睛问华妃：“娘娘，嫔妾唱得可好？您该打赏了吧？”华妃被她逗得哭笑不得，竟也真给了赏银。 皇帝听腻了昆曲，她想起现代听过的古风歌曲，现学现卖，唱了一首《最是李商隐》，听得皇帝耳目一新。皇帝：“这曲子倒是新鲜。” 至于那位日后要称太后的甄嬛，她没有刻意靠近。只是在甄嬛失宠、无人敢近的时候，偷偷给她送暖手炉、送自己做的点心......甄嬛记住了这份恩情。 后宫的日子不好过，但她有自己的活法，做一个“后宫生活家”。最终，她凭借自己的智慧和才艺，一步步从官女子升到答应、常在、贵人、嫔，最后坐上妃位。她不是宫斗冠军，却是后宫里活得最舒服的那个。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob5d419852ecfe6ed6f53a45b491fed6f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=dtGohPM2c9%2BMWmzjnfXDr5VhC%2B8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob5d419852ecfe6ed6f53a45b491fed6f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=i3hSWaUptd56B5c%2BlJEjLK9GdRM%3D",
         "url": "https://fanqienovel.com/page/7634434871716236313"
       },
       {
         "title": "黄亦玫重生：这次我选孟宴臣",
         "author": "漠山的二阶堂匠生",
-        "reads": "9.5万",
+        "reads": "9.1万",
         "intro": "刚出评分会涨！刘亦菲&魏大勋饰演的黄亦玫&孟宴臣同人文。 黄亦玫的一生精彩却不快乐，重生到青葱岁月，她决定好好做事业，却意外结识了温润如玉的孟宴臣…… 这个男人温而厉，威而不猛，恭而安，彬彬有礼却又深不可测，看向自己的眼神隐忍而克制……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob9fccb6352a24570420b8116ea27c7ad~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=r%2BtReuqg2oBcFTkDKGhwW5JBHV8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob9fccb6352a24570420b8116ea27c7ad~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=pcXprOjT6p%2FokDAGYlzPxk%2F%2FFSs%3D",
         "url": "https://fanqienovel.com/page/7630651261087386649"
       },
       {
         "title": "锦叶良缘",
         "author": "栗栗小记",
-        "reads": "9.4万",
+        "reads": "8.6万",
         "intro": "前世，顾锦朝痴情错付，害了自己一辈子。 后来才知道有人在她背后爱了她好久好久。 这一世，锦叶之缘，如同金玉良缘。 “叶世子，我听闻您身子不好，不宜劳累。” “爷是心疾，又不是瞎。” 他微微偏头，眸光沉沉： “再者，看你不算劳累。” ——原来她蓄意靠近的每一步，他都早已等候多时。 （前卷偏权谋，中卷后卷是二人甜蜜日常）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od29f8640c1c7b4fb935c87798e3a68d8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=FY%2BM0BY5fSDscY8jLGT%2BRZDtrn0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od29f8640c1c7b4fb935c87798e3a68d8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=PLiH%2BlTzEIYDghJZsS4vB6jVxKw%3D",
         "url": "https://fanqienovel.com/page/7636130136013671486"
       },
       {
         "title": "影视：不知道啊！反正人生很曼妙",
         "author": "都护冷难",
-        "reads": "8.4万",
+        "reads": "8.3万",
         "intro": "刚出评分，本书又名：做男做女都精彩的那些年 【不虐】【微万人迷】【沉浸式】 万知甦（su）一手烂牌打出王炸的选手，自己的人生已经太精彩了，那就看看那些缺憾的人生如何圆满。 1、阳光明媚小太阳郭芙：持续散发光和热会吸引向阳而生的阴暗东西(完) 2、三阿哥愚蠢却实在美丽：笨笨的三蛋哟，谁不怜爱你呢？（进行中） 3、菟丝子绞杀藤林噙霜：贪图富贵？是的那就是我。这样的我你们可都爱呢嘻嘻 注意以下几点∶ 1、作者承认笔力不足，不能完全依照原著人设会有ooc，如果喜欢原著人设去看原著，这是同人衍生 2、这是免费文，如果不喜欢退出就好了",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/b3b31084457a4949066e72d8242c342c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=GB3g4%2FV5%2B0VxVESqvzcg2jeYuyE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/b3b31084457a4949066e72d8242c342c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=MaAttnmaqQQPM1pU5%2Bggf76yRA0%3D",
         "url": "https://fanqienovel.com/page/7611583336783301656"
       },
       {
         "title": "综影视：能拆一对是一对",
         "author": "哈皮球",
-        "reads": "7.9万",
+        "reads": "7.6万",
         "intro": "【女主绝美＋无三观＋快穿＋上位勾引】 清漪是地府的一朵彼岸花，碰巧遇见了个身带系统的鬼魂，在她边上哭哭啼啼的，说什么也不肯绑定。 她嫌吵，直接抓住那团小东西，绑定后她来到人世间。 这世界，她就好好的玩上一回吧。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3e84cfe4e177d0f5d396709836ff93df~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=2TXDATDU1kWiK2ZJVI9G375Vxlw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3e84cfe4e177d0f5d396709836ff93df~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=Gf7GJwQ%2BwVfU01Q4sNosobpxldA%3D",
         "url": "https://fanqienovel.com/page/7625958342082448408"
       },
       {
         "title": "综影视：三千世界三千他",
         "author": "啪嗒鸭",
-        "reads": "6.5万",
+        "reads": "7.1万",
         "intro": "她本是一株佛前梅，听禅百年，互佛而折。 残魂被本体断枝收留，散入三千世界修补自身。 每活一世，便收回一世碎片。集齐之日，便是重生之时。 代价是：每一次穿越，她都会忘却前尘。 而她不知道的是，每个世界都有一个男人对她一件钟情。 不是同一人，是不同的人。 三千世界，三千个他。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oef50baf36852c993ea10e3cfadbf9255~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=vuRsa7xtLwiN%2F3CiOl7I11nogH0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oef50baf36852c993ea10e3cfadbf9255~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=mBhgOG4gp7VIREvE7a%2FcPUuQLNE%3D",
         "url": "https://fanqienovel.com/page/7620831194774506520"
       },
       {
@@ -142,80 +147,80 @@
         "author": "莺珞",
         "reads": "5.5万",
         "intro": "赵璟从现代穿成宋仁宗之子，本想躺平，却遇见了盛家六姑娘明兰。 她钻狗洞为母求医，他策马相送；她失去母亲在廊下哭，他暗护三年、写信六年。她是庶女，他是皇子，中间隔着天堑，他却用一支白玉兰簪、一条头发编的红绳，硬生生凿出一条路。 后来他血战河西，她挺孕肚掀翻盛府。他说：“等我站稳朝堂，十里红妆，唯你一人。”她说：“我等你。” 从汴京到边疆，从少年到帝王——他用一生兑现承诺，她用一生守住等待。 知否同人｜双穿越｜一生一世一双人",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od69c2ea067143f96c66a284dfec021a9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=jdPTi3yROWwT%2FHPmBiQLadaW1PE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od69c2ea067143f96c66a284dfec021a9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=SKSw5tO7F6DM8yjXpCn62qsRyg0%3D",
         "url": "https://fanqienovel.com/page/7639560420990143512"
-      },
-      {
-        "title": "综影视：有凤来，十里故清欢",
-        "author": "苏卿虞",
-        "reads": "5.2万",
-        "intro": "凤清欢，一个倒霉透顶被霉运拖累死的人，可死后才知道，原来自己所承受的霉运都是替旁人承受的！ 罢了罢了，反正已经死了，还能怎么滴？接受现实，领了补偿过日子吧！ 甄嬛传 安陵容 甄嬛传 瓜尔佳文鸳『祺贵人』 知否 盛墨兰 甄嬛传 浣碧—甄玉娇 微微一笑很倾城 小雨妖妖 如懿传 高晞月『慧贵妃』 小巷人家 张敏 甄嬛传 李静言『齐妃』 终极笔记 原创人物（进行中）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofe05833f122e15d67cf4fe9ad1736712~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=AxNKxhOuw1y%2FjaC5D4wQsGzfpgY%3D",
-        "url": "https://fanqienovel.com/page/7622726777579768857"
       },
       {
         "title": "还珠格格之固伦和昭公主灵昭",
         "author": "夕柚釉",
-        "reads": "5万",
+        "reads": "5.1万",
         "intro": "她是坤宁宫异香降生的固伦和昭公主——灵昭。生来便是祥瑞，被皇阿玛捧为掌上明珠。尚在襁褓之中，便被指婚给御前重臣傅恒之子傅灵安，定下金玉良缘。紫禁城里，她与晴儿从初见到知己，一个沉稳机敏，一个冰雪聪明，成了后宫中谁也拆不散的姐妹花。直到那一天，两个民间格格闯入皇宫——一个闹得天翻地覆，一个顶着“金枝”身份步步为营。真假格格，后宫争宠，前朝暗涌…… 所有人都以为公主只会端坐深宫，却忘了—— 她叫灵昭，日月同辉，光明昭彰。 她是大清的嫡公主，从不让任何人，欺负她在乎的人。 【宝宝们多多评论和点赞哦🥰，希望可以增加一下评分😘谢谢各位宝宝们送的礼物，写的太着急了有错的地方宝宝们可以给我评论哟👀】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o422bf35e302e409c1da687acad12f666~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=n8l9DGb%2B125uTPMC8rJGPUDScC0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o422bf35e302e409c1da687acad12f666~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=JR7g5vNpLQjoeRysUM0Or1Bjq94%3D",
         "url": "https://fanqienovel.com/page/7637061993635007550"
       },
       {
         "title": "【综清穿】心机美人她有易孕体质",
         "author": "岁白岁白",
-        "reads": "4.8万",
+        "reads": "5万",
         "intro": "【综清穿综影视+甄嬛如懿衍生+女主娇妻菟丝花】 周诗涵是地府生子部门清穿组的员工，为了完成部门kpi到各个世界生孩子。 世界一: 周诗涵一朝穿越，穿成了甄嬛传里的李金桂，只是看着晕倒自己身边的四爷，为了自己当太后的愿望，她只能找始作俑者九阿哥胤禟借种。 好在她有易孕体质很快就怀了，就是九爷您能别总是纠缠咱吗？万一被发现了怎么办？还有那个十爷你来凑什么热闹？ 【每个世界女主都很能生，五胎打底。】 #世界二：甄嬛传余莺儿x雍正x弘历强取豪夺 #世界三：君夺臣妻:隆科多之妻x康熙x太子 *世界四：甄嬛传瓜尔佳氏:女主得宠后久久不能怀孕，最后只好找小四弘历了 【ps本书男主都是政治生物，渣渣，非人类，非双洁，女主娇软菟丝花娇妻，除了争宠啥也不会，主线宅斗宫斗，慢穿，有美食有养崽，xp放飞之作。】 女主还有签到变美系统以及迷你空间。 其他世界: *康熙朝太子x李佳侧福晋 *如懿传:海兰x弘历 *被灌绝子药的平妃x康熙以及康熙的儿子们 *甄嬛传齐妃李氏x胤禛老九老十 *被一废的太子x被康熙指给太子的格格 *西域舞娘x康熙雍正乾隆",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5a541309dcdccf09d00dda602eb14009~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=Sj4AE16QWAIz9lNV0otREQvkvrs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5a541309dcdccf09d00dda602eb14009~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=tXEIEwn99a1oOlHQjXKPBQaPsm0%3D",
         "url": "https://fanqienovel.com/page/7635977656806165529"
+      },
+      {
+        "title": "综影视：有凤来，十里故清欢",
+        "author": "苏卿虞",
+        "reads": "5万",
+        "intro": "凤清欢，一个倒霉透顶被霉运拖累死的人，可死后才知道，原来自己所承受的霉运都是替旁人承受的！ 罢了罢了，反正已经死了，还能怎么滴？接受现实，领了补偿过日子吧！ 甄嬛传 安陵容 甄嬛传 瓜尔佳文鸳『祺贵人』 知否 盛墨兰 甄嬛传 浣碧—甄玉娇 微微一笑很倾城 小雨妖妖 如懿传 高晞月『慧贵妃』 小巷人家 张敏 甄嬛传 李静言『齐妃』 终极笔记 原创人物（进行中）",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofe05833f122e15d67cf4fe9ad1736712~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=7HzaaT0aW4gLdCLyKaGwfA5U25g%3D",
+        "url": "https://fanqienovel.com/page/7622726777579768857"
       },
       {
         "title": "父君别跪，我只讲公考上岸",
         "author": "雨永井工",
-        "reads": "4.8万",
+        "reads": "4.6万",
         "intro": "【穿剧+三生三世十里桃花+爽文+考公人】【严重ooc+慢热+原创女主+原剧剧情大改+时间线全拆+幻境有男主，正文暂无】【想看白浅直接跳转第50章】【书中的所有人物都不是以爱情作为首位】 天族大舞台，没编制你别来。 考公人魂穿夜华与素素的龙凤胎长女，开局就被父权式深情PUA？ “父君，你为母妃挖眼赎罪的样子，好像我那为了KPI自我感动的领导。” 伪装低幼，疯狂内卷，韩立式藏拙，心理微操拉满，励志踢飞天君和夜华，自己成为女帝。 “父君，为什么母妃要带一条白绫？为什么不打害母妃眼睛的人？” 夜华僵在原地，她垂眸掩去眼底冷光—— 这才只是开始。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o57017b201703edbfa37c61be57b768d7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=YN3mSopli2160N%2B7BkdhpxHPo5M%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o57017b201703edbfa37c61be57b768d7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=KL5tj5lKbhhrjsskeWdSYLLmw14%3D",
         "url": "https://fanqienovel.com/page/7612517063503924248"
       },
       {
-        "title": "红楼：黛玉的驯夫之道！",
-        "author": "楚人的言",
-        "reads": "4.6万",
-        "intro": "【1v1+纯爱+青梅竹马+两小无猜+卿卿日常】 全京城都在看着，谁能驯服太上皇宠上天的混世小魔王安亲王水烨。 十三岁的他，无法无天，桀骜嚣张，怼王公，闹王府，谁都管不住，唯独天生护短，心软嘴硬。 一道圣旨选伴读，全京城世家贵女挤破头！ 薛姨妈砸重金死捧薛宝钗上位，京城贵女扎堆凑热闹，个个挤破头想当安亲王妃攀皇亲。 唯有林黛玉，孤女寄居，无心荣华，只是被迫凑数入宫陪跑。 谁料选秀现场，混世魔王看遍千娇百媚个个嫌弃，偏偏一眼认准那个清冷孤傲小小黛玉。 别人对他恭恭敬敬，唯唯诺诺， 唯独林黛玉，不惯他脾气，不看他身份，张口就怼，抬手就管，训起小王爷毫不留情！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o69d8b55246a9d228f1b99c13b264201b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=eobJW176keUYFhG53Hc%2FYABbB7A%3D",
-        "url": "https://fanqienovel.com/page/7633050144644025406"
+        "title": "HP当麒麟女来到霍格沃兹",
+        "author": "冬天不冷ya",
+        "reads": "4.5万",
+        "intro": "[哈利波特+盗墓笔记+cp德拉科+不知道剧情] 张海游去英国暂时避祸，没想到却收到了一封来自霍格沃兹的录取通知书。 可还没入学，张海盐的匕首直接架在教授脖子上了，这可怎么办，她入学不会被针对吧？ 摩金夫人长袍店，张海游：他们的校服为什么是裤装，也给我来一套，我不要裙子，影响我打架，不穿！ 斯内普：这个愚蠢的巨怪，一个女生住到了男寝为什么不说，她是分不清男女吗？ 德拉科：她竟然是个女生，那她为什么和我住一个宿舍？ 张海游（短发版）：来到陌生的地方，隐藏自己的身份，浑水摸鱼这不是很正常吗？ 霍格沃兹众人：她到底是怎么想的…… ps:张海游来到霍格沃兹后，因为张家的习惯和训练和英国巫师观念不同，做出了许多似笑非啼的故事",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o498866e958b033fa84f8c98fd1645417~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=B0xX2TFmSxwbkfDRfvFOo39ER7o%3D",
+        "url": "https://fanqienovel.com/page/7634657938447010841"
       },
       {
         "title": "霍格沃茨：我带满级账号穿越了",
         "author": "梦琼华",
         "reads": "4.5万",
         "intro": "孤儿院长大的苏晚宁，人生唯一的光就是《哈利波特》里那个为爱赴死的男人。 她氪爆了《魔法觉醒》，满级账号，传说时装，全图鉴收集。 然后猝死在了二十二岁的冬天。 再睁眼，国王十字车站，九又四分之三站台。 手里一封霍格沃茨录取通知书，脑海里一个冰冷的系统面板。 【检测到宿主执念——\"让他活着\"】 【主线任务生成：改写西弗勒斯·斯内普的命运】 【注：心愿任务，不强制。您随时可以只为自己而活。】 满级号？带的。 传说魔杖？全的。 金加隆？花不完的那种。 \"苏，你为什么要做这些？\" \"因为你值得活着。不是为了莉莉·波特，不是为了邓布利多。是为了你自己。\" 那个在书外哭了无数次的女孩，终于能亲手改写那个结局了。 【慢热！慢热！不是爽文，不是真的魔法觉醒，只是套壳，设定不一样，没玩过不影响观看。不喜欢的宝宝避雷～】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3f27e7f98510f841fa885405f330e36a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=bazq1zNFdnNQTCqeFe%2BKL0nQ400%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3f27e7f98510f841fa885405f330e36a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=%2FMzIZbHCsKugICWOsMHCzk%2Bwl3g%3D",
         "url": "https://fanqienovel.com/page/7636820627239734296"
+      },
+      {
+        "title": "张桂芬重生：嫁给盛长柏后杀疯了",
+        "author": "孙咪宝是只猫",
+        "reads": "4.4万",
+        "intro": "张桂芬寿终正寝后，一觉醒来，发现自己重生回未出嫁前。 想起前世嫁给鳏夫沈从兴后，却被一妾室欺负的差点难产而亡。 重生后，张桂芬打定主意，再也不进沈家那个虎狼窝。 阴差阳错，嫁给盛家嫡长子盛长柏。 婚后，得知林噙霜是明兰的杀母凶手，张桂芬：直接发卖! 墨兰私会梁晗，用全家女眷清白相威胁，张桂芬：直接打死! 康姨母唆使王若弗给老太太下毒，张桂芬：我看你是活腻了，来人，送大狱! 王若弗：人到中年，迎来了自己最严厉的母亲，可她是我儿媳妇啊！ 知否衍生，这一世，张桂芬护着明兰，在盛府大杀四方。 就一个字，爽!",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2f93ced358ae7349abcc747e0f6d79a8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=rclTwlgTSjtVNhYnFi%2FR0TmoWG4%3D",
+        "url": "https://fanqienovel.com/page/7624887569339124761"
+      },
+      {
+        "title": "斩神：你管这叫度假世界？",
+        "author": "君翎羽",
+        "reads": "4.4万",
+        "intro": "【斩神衍生同人文+何枝意CP哪吒+系统】（评分刚出，后面还会涨的，宝宝们别介意点进来看看我吧~） 你自己听听，夜幕之下这个世界适合度假？ 何枝意在系统专属房吃着薯片就被她的系统“小六子”一jio踹斩神去了 睁眼啥也不记得，“小六子”也不见踪影 恢复记忆后，何枝意发出质疑，李乐泽是哪吒？小六子你认真的？ 你管这个性格的叫哪吒？ 作者是小白，文笔不太好",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob1bfaeedbf0524f2bf15fb68b6a7cca7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=P16arX51AwOsqzrmOBMqxqNbgnY%3D",
+        "url": "https://fanqienovel.com/page/7631949769098660926"
       },
       {
         "title": "斩神：我靠歌声拯救时间之神",
         "author": "子曰曰子曰",
-        "reads": "4.5万",
-        "intro": "（刚出分～后面会涨～） 爆！校园好声音夺冠前夜，天才音乐生夏眠歌竟因熬夜看《斩神》穿进书中世界，还绑定了一个叫小谱的对抗路系统。 一睁眼，她成了在这里战力垫底的小菜鸡，却觉醒独一份的逆天禁墟—— 只要牵着对方的手唱歌，就能增加对方的寿元！ 她立马收到了叶梵的“BOSS直聘”，被直接塞进假面小队。 从此，她成了那位背负宿命、时刻燃烧寿命的时间之神——王免，唯一的“解药”。 他回溯时间拯救大夏，她握紧他的手将生命重新填满。 他越来越离不开她的歌声，更离不开她。 直到某天，他与她十指相扣：“今天……唱首情歌给我听，好不好？” 她终于察觉不对时，已被他圈在怀中。 他捏着她的脸轻笑，吻落下： “小百灵鸟，你给我续的命…我该用一生来还。” 【阅读指南】 爱唱歌的开朗小太阳VS占有欲极强的时间掌控者 成长型女主，改写假面小队意难平，假面友情向+CP王免，ooc预警+歌词原创 剧情和时间线原创私设，和原书不一样！ 爱玩抽象，不要当真 为爱发电，不喜勿喷 ，算我求你，喵 收到的一些反馈已修改，可放心入 当歌声成为战略资源，看音乐生在斩神如何carry全场",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4abc1bf9952b51dafa6d548ff28e98af~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=qO4QNE5%2FUBwAOK9zlPPvCwXq6b8%3D",
-        "url": "https://fanqienovel.com/page/7619311421980937278"
-      },
-      {
-        "title": "这个甄嬛传怎么不一样",
-        "author": "飞鸡飞鱼飞锅里",
         "reads": "4.4万",
-        "intro": "池红衣穿到甄嬛传后，原本已经躺平等死，后意外得到一朵奇异莲花，从此走上了夺取气运的修炼之路。 原本以为已经知晓剧情，想要走上高位，一切都会很顺利。 可真的身处这些小世界，才发现哪哪都不对劲。 第一个世界：甄嬛传——宜修 第二个世界：甄嬛传——安陵容 第三个世界：甄嬛传——冯若昭",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o961c7ced70d402ae7279e89d7237e6db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=l7kYHSYmkcMKCxZUGBMCQWIKP7I%3D",
-        "url": "https://fanqienovel.com/page/7627911195441237054"
-      },
-      {
-        "title": "HP当麒麟女来到霍格沃兹",
-        "author": "冬天不冷ya",
-        "reads": "4.3万",
-        "intro": "[哈利波特+盗墓笔记+cp德拉科+不知道剧情] 张海游去英国暂时避祸，没想到却收到了一封来自霍格沃兹的录取通知书。 可还没入学，张海盐的匕首直接架在教授脖子上了，这可怎么办，她入学不会被针对吧？ 摩金夫人长袍店，张海游：他们的校服为什么是裤装，也给我来一套，我不要裙子，影响我打架，不穿！ 斯内普：这个愚蠢的巨怪，一个女生住到了男寝为什么不说，她是分不清男女吗？ 德拉科：她竟然是个女生，那她为什么和我住一个宿舍？ 张海游（短发版）：来到陌生的地方，隐藏自己的身份，浑水摸鱼这不是很正常吗？ 霍格沃兹众人：她到底是怎么想的…… ps:张海游来到霍格沃兹后，因为张家的习惯和训练和英国巫师观念不同，做出了许多似笑非啼的故事",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o498866e958b033fa84f8c98fd1645417~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=n47jZRENEVOJLLvR5IaM2u%2BxxMw%3D",
-        "url": "https://fanqienovel.com/page/7634657938447010841"
+        "intro": "（刚出分～后面会涨～） 爆！校园好声音夺冠前夜，天才音乐生夏眠歌竟因熬夜看《斩神》穿进书中世界，还绑定了一个叫小谱的对抗路系统。 一睁眼，她成了在这里战力垫底的小菜鸡，却觉醒独一份的逆天禁墟—— 只要牵着对方的手唱歌，就能增加对方的寿元！ 她立马收到了叶梵的“BOSS直聘”，被直接塞进假面小队。 从此，她成了那位背负宿命、时刻燃烧寿命的时间之神——王免，唯一的“解药”。 他回溯时间拯救大夏，她握紧他的手将生命重新填满。 他越来越离不开她的歌声，更离不开她。 直到某天，他与她十指相扣：“今天……唱首情歌给我听，好不好？” 她终于察觉不对时，已被他圈在怀中。 他捏着她的脸轻笑，吻落下： “小百灵鸟，你给我续的命…我该用一生来还。” 【阅读指南】 爱唱歌的开朗小太阳VS占有欲极强的时间掌控者 成长型女主，改写假面小队意难平，假面友情向+CP王免，ooc预警+歌词原创 剧情和时间线原创私设，和原书不一样！ 爱玩抽象，不要当真 为爱发电，不喜勿喷 ，算我求你，喵 收到的一些反馈已修改，可放心入 当歌声成为战略资源，看音乐生在斩神如何carry全场",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4abc1bf9952b51dafa6d548ff28e98af~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=t0mykS3SVmeH5JujWmEhLQ%2Bpp%2BI%3D",
+        "url": "https://fanqienovel.com/page/7619311421980937278"
       }
     ]
   },
@@ -223,136 +228,141 @@
     {
       "name": "女频衍生",
       "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
+        "new_count": 2,
+        "dropped_count": 2,
         "new_books": [
-          "HP当麒麟女来到霍格沃兹"
+          "张桂芬重生：嫁给盛长柏后杀疯了",
+          "斩神：你管这叫度假世界？"
         ],
         "dropped_books": [
           {
-            "title": "综影视：开局欢乐颂，吃安迪软饭",
-            "intro": "【综影视+系统+金手指+半舔狗+有时候会有点颠+有时候会有点恶趣味】 江月白所在世界升格，一瞬间，天崩地裂，海啸山火，人类十不存一，世界意识发出救援信号，高纬度救助部门前来救助。 救助条件则是需要打工"
+            "title": "红楼：黛玉的驯夫之道！",
+            "intro": "【1v1+纯爱+青梅竹马+两小无猜+卿卿日常】 全京城都在看着，谁能驯服太上皇宠上天的混世小魔王安亲王水烨。 十三岁的他，无法无天，桀骜嚣张，怼王公，闹王府，谁都管不住，唯独天生护短，心软嘴硬。 一道"
+          },
+          {
+            "title": "这个甄嬛传怎么不一样",
+            "intro": "池红衣穿到甄嬛传后，原本已经躺平等死，后意外得到一朵奇异莲花，从此走上了夺取气运的修炼之路。 原本以为已经知晓剧情，想要走上高位，一切都会很顺利。 可真的身处这些小世界，才发现哪哪都不对劲。 第一个世"
           }
         ],
         "top_risers": [
           {
-            "title": "【综清穿】心机美人她有易孕体质",
+            "title": "HP当麒麟女来到霍格沃兹",
             "change": "+4"
           },
           {
-            "title": "影视：不知道啊！反正人生很曼妙",
-            "change": "+2"
+            "title": "还珠格格之固伦和昭公主灵昭",
+            "change": "+1"
           },
           {
-            "title": "还珠格格之固伦和昭公主灵昭",
-            "change": "+2"
+            "title": "【综清穿】心机美人她有易孕体质",
+            "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "锦叶良缘",
+            "title": "综影视：有凤来，十里故清欢",
             "change": "-2"
           },
           {
-            "title": "父君别跪，我只讲公考上岸",
-            "change": "-1"
+            "title": "斩神：我靠歌声拯救时间之神",
+            "change": "-2"
           }
         ],
         "reads_growth": [
           {
-            "title": "综影视：三千世界三千他",
-            "growth": "+6000"
+            "title": "渡莲：我把哪吒调成了病娇",
+            "growth": "+8000"
           },
           {
-            "title": "渡莲：我把哪吒调成了病娇",
-            "growth": "+5000"
+            "title": "综影视：三千世界三千他",
+            "growth": "+6000"
           },
           {
             "title": "【综清穿】心机美人她有易孕体质",
             "growth": "+2000"
           }
         ],
-        "summary": "**🔥 题材趋势** 经典IP《甄嬛传》《还珠格格》同人持续霸榜，系统穿书与反套路设定成主流。哪吒、封神等神话衍生开始冒头，拓宽了女频衍生的边界。\n**📖 读者偏好** 读者偏爱“高幸运值”“大小姐驾到”等爽感设定，同时对“病娇”“阴湿执念”等强情感拉扯的标签接受度提高。同人作品倾向于对原剧情的颠覆性重构。\n**🆕 新上榜作品** 《HP当麒麟女来到霍格沃兹》融合哈利波特与盗墓笔记，跨IP联动带来新鲜感，开局即获4.3万在读，验证了“双厨狂喜”模式的潜力。\n**📉 掉出榜单** 《综影视：开局欢乐颂，吃安迪软饭》因“半舔狗”设定与主流读者对女频衍生“女主本位”的期待不符，市场反馈不佳。\n**💡 值得关注** 清穿宫斗仍是基本盘，但“考公人穿三生三世”等现代梗植入开始出现，预示未来将更多与现实议题结合。"
+        "summary": "**🔥 题材趋势** 经典剧集衍生IP（《甄嬛传》《还珠格格》）与热门网文IP（《斩神》）形成双极驱动。综影视“快穿”模式热度稳固，以“拆CP”或“收集碎片”为核心动机的叙事占比高。封神/洪荒题材的“病娇”化改编成为新增长点。\n**📖 读者偏好** 偏好“已知世界观+反套路”的强设定，如全点幸运值、穿成炮灰后躺平。对“系统”和“金手指”接受度高，但更看重系统带来的“任务感”和“逆袭爽感”，而非单纯数值碾压。\n**🆕 新上榜作品** 《张桂芬重生：嫁给盛长柏后杀疯了》精准切入“知否”高人气配角，以“重生+发卖”的极致爽点快速吸引存量读者。《斩神：你管这叫度假世界？》则延续了“反差”叙事，将高战力角色进行日常化解构。\n**📉 掉出榜单** 《红楼：黛玉的驯夫之道！》和《这个甄嬛传怎么不一样》掉榜，前者或因“驯夫”设定与当下“大女主”偏好有所偏离；后者“修炼”主线在“穿剧”赛道中略显平淡，缺乏即时爽感钩子。\n**💡 值得关注** 高分题材“封神演义”与“霍格沃茨”的同人创作热度持续攀升，尤其是将东方神话或西方魔法与“系统”、“黑化”、“救赎”等网文流行元素结合的作品，具备稳定孵化潜力。"
       },
       "books": [
         {
           "title": "甄嬛传：幸运值点满后撞脸十三爷",
           "author": "红烧肉里的姜",
-          "reads": "17.7万",
+          "reads": "17.2万",
           "intro": "确诊肺癌晚期后，穆宁看见河面直接就是个三二一，起跳。 穆宁幸运的挂了。 更幸运的是她绑定了系统。 只要成功攻略甄嬛传里的大胖橘，她就能永享财富和健康。 开局属性点，穆宁脑子一抽，全点了幸运值。 一睁眼，穆宁成了怡亲王表妹，还跟他长得一模一样。 看到她第一眼，四爷：…… 穆宁阴差阳错(系统作祟)进了雍王府，成了庶福晋。 洞房当晚…… 四爷：……实在下不去手啊，有一种抓耳挠腮的背德感。 从此穆宁在后宫： 不用争宠 不用侍寝 不用搞心机 天天嗑瓜子看后宫大戏 最后还顺利完成了任务，成功通关游戏。 系统：…… 穆宁：亲情怎么不算情呢？ (亲情向+吃瓜看戏+爽文) 本书排雷： 1、本书对眉嬛不算友好，不喜勿入 2、女主与安陵容、华妃关系友好，不喜勿入",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8dfc7561647513c680fe2b84402ea438~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=K0WtSk2fA7tywLGYzpE5V1BbCss%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8dfc7561647513c680fe2b84402ea438~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=RRuPos0n3zOyd%2FNa2JWLwWDM5dw%3D",
           "url": "https://fanqienovel.com/page/7626717980772011070"
         },
         {
           "title": "渡莲：我把哪吒调成了病娇",
           "author": "锦鲤小小稀饭",
-          "reads": "15.3万",
+          "reads": "16.1万",
           "intro": "（评分刚出，后期会涨）【封神演义+系统+双向羁绊+黑化病娇+阴湿执念】 哪吒人设与传统神话有出入，后期有点恋爱脑，私设颇多，介意勿入。 苏沅星一朝坠落封神世界，穿成了东海龙王小女儿，还绑定了高阶仙量系统，而她的任务只有一个——陪伴和治愈那个年少桀骜、命途多舛的哪吒。 初遇，哪吒还是个浑身长刺的小破孩，苏沅星用一根棒棒糖死皮赖脸地跟着他回了家。 此后她守他孤寂，暖他寒心，陪他熬过岁岁风霜，抚平了他满身的棱角，他们成为了彼此最为亲近的人。 她视他为童年男神，护他在身边，从未敢有半分逾矩。 可她不知，人心暗生，执念疯长。 年少的情愫，在无人知晓的角落，生根，发酵，扭曲。 哪吒逐渐贪恋她的温柔，沉溺她的陪伴，容不得旁人半点窥探。 三界众生，山河万里，他什么都不要。 他只要一个她。 后来，两人肉身破碎，并蒂莲心铸骨，并蒂双生，从此，同生同死，亲密无间。 他将她拥在怀里，眼底只剩沉沉的阴翳与偏执，指尖轻轻抚过她的眉眼，语声低哑，带着化不开的黏腻与疯狂： “星星，是你救了我，暖了我。” “那你这辈子，来生，乃至永生永世，都只能是我的。” “别想逃，你也逃不掉。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od03957492b1c2011bb2a0b2feda90594~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=lE2J3u7lIyqkryHZHQQ75JlTHxI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od03957492b1c2011bb2a0b2feda90594~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=cFg124LcxbF787fdIAdASMiAxpc%3D",
           "url": "https://fanqienovel.com/page/7621462061658147902"
         },
         {
           "title": "甄嬛传：大小姐驾到，通通闪开",
           "author": "椒盐玉米粒粒",
-          "reads": "12万",
+          "reads": "11.9万",
           "intro": "钮祜禄.宁姝，胎穿十八年，选秀当天才发现是甄嬛传。 可，那又如何？ 她阿玛是一等公，任领侍卫内大臣，天子近臣，位高权重。 她兄长是靖远大将军，坐镇西北，手握重兵，与年羹尧权势相当，威震朝野。 她自己又是怡亲王的恩人，被十三爷视作亲妹。 宁姝： “旁人进宫是争宠，我进宫是来幸福的！” 所幸还绑定了系统，可以做做任务，不然这在后宫的生活该有多无聊。 可这任务不是帮帮这个，就是帮帮那个，宁姝就这样有事绝不憋屈、怼天怼地的成为了后宫众人的白月光。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o16162b8397372a60441eed8e3a10a410~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=c%2BZTJC%2B04DL%2BTYSSAyaVEcSmk0s%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o16162b8397372a60441eed8e3a10a410~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=jhS9Sj9eoQPTu2Oe%2BYPQiwOn7eU%3D",
           "url": "https://fanqienovel.com/page/7619905141826669592"
         },
         {
           "title": "穿成小燕子：只做乾隆掌中娇宠女",
           "author": "幸运淼子吖",
-          "reads": "11.2万",
+          "reads": "10.6万",
           "intro": "作品评分刚刚出哦～ 嗯？？穿越了？ 穿成还珠格格的主角小燕子？ 还好是重伤昏迷状态，没有认爹。 不过伤口真的很疼…… 清醒后，不能因为一时贪恋温暖，稀里糊涂认爹。 说完事情的来龙去脉，乾隆竟然认她做义女了！ 太好了！ 她不用像小燕子那样在跑江湖卖艺。 她还有了身份地位！ 在这个地方，没身份没地位的，就是任人宰割的猪。 既然天意如此，她欣然接受！ 地位有了，靠山有了，那么美男相公还远吗？ 皇阿玛，小燕子不嫁，要招婿！ 还要招长得帅，会哄人，才貌双全的驸马！ 至于原剧情那些东西，和她可没关系，她会按照自己的步骤，活成自己的主角。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od6834b5e8d64982b45601b90b31c04c1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=F63xL%2BiPQToBrLCdN0Ez%2BMQ3gUQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od6834b5e8d64982b45601b90b31c04c1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=rCd5dVBvZ47XSa0pJjBsjAyXAXs%3D",
           "url": "https://fanqienovel.com/page/7601441198808517657"
         },
         {
           "title": "穿成余莺儿：我在后宫当生活家",
           "author": "奶茶的铲屎官",
-          "reads": "10万",
+          "reads": "10.1万",
           "intro": "（评分低是因为刚开分，后面会涨的，大家走过路过不要错过）一朝穿成倚梅园里冒宠的余莺儿，她深知这是个活不过几集的炮灰命。没有逆天金手指，不搞逆袭爽剧，只凭着熟知剧情的先机，收锋芒、避死劫、谨言慎行。好在她继承了原主的记忆，昆曲唱得那叫一个婉转悠扬。 她不是天选之女，也不想卷入后宫的尔虞我诈。 遇到华妃让她去唱昆曲，她没有安陵容那样的委屈，反而开开心心地去唱，唱完还眨巴着眼睛问华妃：“娘娘，嫔妾唱得可好？您该打赏了吧？”华妃被她逗得哭笑不得，竟也真给了赏银。 皇帝听腻了昆曲，她想起现代听过的古风歌曲，现学现卖，唱了一首《最是李商隐》，听得皇帝耳目一新。皇帝：“这曲子倒是新鲜。” 至于那位日后要称太后的甄嬛，她没有刻意靠近。只是在甄嬛失宠、无人敢近的时候，偷偷给她送暖手炉、送自己做的点心......甄嬛记住了这份恩情。 后宫的日子不好过，但她有自己的活法，做一个“后宫生活家”。最终，她凭借自己的智慧和才艺，一步步从官女子升到答应、常在、贵人、嫔，最后坐上妃位。她不是宫斗冠军，却是后宫里活得最舒服的那个。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob5d419852ecfe6ed6f53a45b491fed6f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=dtGohPM2c9%2BMWmzjnfXDr5VhC%2B8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob5d419852ecfe6ed6f53a45b491fed6f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=i3hSWaUptd56B5c%2BlJEjLK9GdRM%3D",
           "url": "https://fanqienovel.com/page/7634434871716236313"
         },
         {
           "title": "黄亦玫重生：这次我选孟宴臣",
           "author": "漠山的二阶堂匠生",
-          "reads": "9.5万",
+          "reads": "9.1万",
           "intro": "刚出评分会涨！刘亦菲&魏大勋饰演的黄亦玫&孟宴臣同人文。 黄亦玫的一生精彩却不快乐，重生到青葱岁月，她决定好好做事业，却意外结识了温润如玉的孟宴臣…… 这个男人温而厉，威而不猛，恭而安，彬彬有礼却又深不可测，看向自己的眼神隐忍而克制……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob9fccb6352a24570420b8116ea27c7ad~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=r%2BtReuqg2oBcFTkDKGhwW5JBHV8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob9fccb6352a24570420b8116ea27c7ad~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=pcXprOjT6p%2FokDAGYlzPxk%2F%2FFSs%3D",
           "url": "https://fanqienovel.com/page/7630651261087386649"
         },
         {
           "title": "锦叶良缘",
           "author": "栗栗小记",
-          "reads": "9.4万",
+          "reads": "8.6万",
           "intro": "前世，顾锦朝痴情错付，害了自己一辈子。 后来才知道有人在她背后爱了她好久好久。 这一世，锦叶之缘，如同金玉良缘。 “叶世子，我听闻您身子不好，不宜劳累。” “爷是心疾，又不是瞎。” 他微微偏头，眸光沉沉： “再者，看你不算劳累。” ——原来她蓄意靠近的每一步，他都早已等候多时。 （前卷偏权谋，中卷后卷是二人甜蜜日常）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od29f8640c1c7b4fb935c87798e3a68d8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=FY%2BM0BY5fSDscY8jLGT%2BRZDtrn0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od29f8640c1c7b4fb935c87798e3a68d8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=PLiH%2BlTzEIYDghJZsS4vB6jVxKw%3D",
           "url": "https://fanqienovel.com/page/7636130136013671486"
         },
         {
           "title": "影视：不知道啊！反正人生很曼妙",
           "author": "都护冷难",
-          "reads": "8.4万",
+          "reads": "8.3万",
           "intro": "刚出评分，本书又名：做男做女都精彩的那些年 【不虐】【微万人迷】【沉浸式】 万知甦（su）一手烂牌打出王炸的选手，自己的人生已经太精彩了，那就看看那些缺憾的人生如何圆满。 1、阳光明媚小太阳郭芙：持续散发光和热会吸引向阳而生的阴暗东西(完) 2、三阿哥愚蠢却实在美丽：笨笨的三蛋哟，谁不怜爱你呢？（进行中） 3、菟丝子绞杀藤林噙霜：贪图富贵？是的那就是我。这样的我你们可都爱呢嘻嘻 注意以下几点∶ 1、作者承认笔力不足，不能完全依照原著人设会有ooc，如果喜欢原著人设去看原著，这是同人衍生 2、这是免费文，如果不喜欢退出就好了",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/b3b31084457a4949066e72d8242c342c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=GB3g4%2FV5%2B0VxVESqvzcg2jeYuyE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/b3b31084457a4949066e72d8242c342c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=MaAttnmaqQQPM1pU5%2Bggf76yRA0%3D",
           "url": "https://fanqienovel.com/page/7611583336783301656"
         },
         {
           "title": "综影视：能拆一对是一对",
           "author": "哈皮球",
-          "reads": "7.9万",
+          "reads": "7.6万",
           "intro": "【女主绝美＋无三观＋快穿＋上位勾引】 清漪是地府的一朵彼岸花，碰巧遇见了个身带系统的鬼魂，在她边上哭哭啼啼的，说什么也不肯绑定。 她嫌吵，直接抓住那团小东西，绑定后她来到人世间。 这世界，她就好好的玩上一回吧。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3e84cfe4e177d0f5d396709836ff93df~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=2TXDATDU1kWiK2ZJVI9G375Vxlw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3e84cfe4e177d0f5d396709836ff93df~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=Gf7GJwQ%2BwVfU01Q4sNosobpxldA%3D",
           "url": "https://fanqienovel.com/page/7625958342082448408"
         },
         {
           "title": "综影视：三千世界三千他",
           "author": "啪嗒鸭",
-          "reads": "6.5万",
+          "reads": "7.1万",
           "intro": "她本是一株佛前梅，听禅百年，互佛而折。 残魂被本体断枝收留，散入三千世界修补自身。 每活一世，便收回一世碎片。集齐之日，便是重生之时。 代价是：每一次穿越，她都会忘却前尘。 而她不知道的是，每个世界都有一个男人对她一件钟情。 不是同一人，是不同的人。 三千世界，三千个他。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oef50baf36852c993ea10e3cfadbf9255~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802732&x-signature=vuRsa7xtLwiN%2F3CiOl7I11nogH0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oef50baf36852c993ea10e3cfadbf9255~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892169&x-signature=mBhgOG4gp7VIREvE7a%2FcPUuQLNE%3D",
           "url": "https://fanqienovel.com/page/7620831194774506520"
         },
         {
@@ -360,80 +370,80 @@
           "author": "莺珞",
           "reads": "5.5万",
           "intro": "赵璟从现代穿成宋仁宗之子，本想躺平，却遇见了盛家六姑娘明兰。 她钻狗洞为母求医，他策马相送；她失去母亲在廊下哭，他暗护三年、写信六年。她是庶女，他是皇子，中间隔着天堑，他却用一支白玉兰簪、一条头发编的红绳，硬生生凿出一条路。 后来他血战河西，她挺孕肚掀翻盛府。他说：“等我站稳朝堂，十里红妆，唯你一人。”她说：“我等你。” 从汴京到边疆，从少年到帝王——他用一生兑现承诺，她用一生守住等待。 知否同人｜双穿越｜一生一世一双人",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od69c2ea067143f96c66a284dfec021a9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=jdPTi3yROWwT%2FHPmBiQLadaW1PE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od69c2ea067143f96c66a284dfec021a9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=SKSw5tO7F6DM8yjXpCn62qsRyg0%3D",
           "url": "https://fanqienovel.com/page/7639560420990143512"
-        },
-        {
-          "title": "综影视：有凤来，十里故清欢",
-          "author": "苏卿虞",
-          "reads": "5.2万",
-          "intro": "凤清欢，一个倒霉透顶被霉运拖累死的人，可死后才知道，原来自己所承受的霉运都是替旁人承受的！ 罢了罢了，反正已经死了，还能怎么滴？接受现实，领了补偿过日子吧！ 甄嬛传 安陵容 甄嬛传 瓜尔佳文鸳『祺贵人』 知否 盛墨兰 甄嬛传 浣碧—甄玉娇 微微一笑很倾城 小雨妖妖 如懿传 高晞月『慧贵妃』 小巷人家 张敏 甄嬛传 李静言『齐妃』 终极笔记 原创人物（进行中）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofe05833f122e15d67cf4fe9ad1736712~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=AxNKxhOuw1y%2FjaC5D4wQsGzfpgY%3D",
-          "url": "https://fanqienovel.com/page/7622726777579768857"
         },
         {
           "title": "还珠格格之固伦和昭公主灵昭",
           "author": "夕柚釉",
-          "reads": "5万",
+          "reads": "5.1万",
           "intro": "她是坤宁宫异香降生的固伦和昭公主——灵昭。生来便是祥瑞，被皇阿玛捧为掌上明珠。尚在襁褓之中，便被指婚给御前重臣傅恒之子傅灵安，定下金玉良缘。紫禁城里，她与晴儿从初见到知己，一个沉稳机敏，一个冰雪聪明，成了后宫中谁也拆不散的姐妹花。直到那一天，两个民间格格闯入皇宫——一个闹得天翻地覆，一个顶着“金枝”身份步步为营。真假格格，后宫争宠，前朝暗涌…… 所有人都以为公主只会端坐深宫，却忘了—— 她叫灵昭，日月同辉，光明昭彰。 她是大清的嫡公主，从不让任何人，欺负她在乎的人。 【宝宝们多多评论和点赞哦🥰，希望可以增加一下评分😘谢谢各位宝宝们送的礼物，写的太着急了有错的地方宝宝们可以给我评论哟👀】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o422bf35e302e409c1da687acad12f666~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=n8l9DGb%2B125uTPMC8rJGPUDScC0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o422bf35e302e409c1da687acad12f666~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=JR7g5vNpLQjoeRysUM0Or1Bjq94%3D",
           "url": "https://fanqienovel.com/page/7637061993635007550"
         },
         {
           "title": "【综清穿】心机美人她有易孕体质",
           "author": "岁白岁白",
-          "reads": "4.8万",
+          "reads": "5万",
           "intro": "【综清穿综影视+甄嬛如懿衍生+女主娇妻菟丝花】 周诗涵是地府生子部门清穿组的员工，为了完成部门kpi到各个世界生孩子。 世界一: 周诗涵一朝穿越，穿成了甄嬛传里的李金桂，只是看着晕倒自己身边的四爷，为了自己当太后的愿望，她只能找始作俑者九阿哥胤禟借种。 好在她有易孕体质很快就怀了，就是九爷您能别总是纠缠咱吗？万一被发现了怎么办？还有那个十爷你来凑什么热闹？ 【每个世界女主都很能生，五胎打底。】 #世界二：甄嬛传余莺儿x雍正x弘历强取豪夺 #世界三：君夺臣妻:隆科多之妻x康熙x太子 *世界四：甄嬛传瓜尔佳氏:女主得宠后久久不能怀孕，最后只好找小四弘历了 【ps本书男主都是政治生物，渣渣，非人类，非双洁，女主娇软菟丝花娇妻，除了争宠啥也不会，主线宅斗宫斗，慢穿，有美食有养崽，xp放飞之作。】 女主还有签到变美系统以及迷你空间。 其他世界: *康熙朝太子x李佳侧福晋 *如懿传:海兰x弘历 *被灌绝子药的平妃x康熙以及康熙的儿子们 *甄嬛传齐妃李氏x胤禛老九老十 *被一废的太子x被康熙指给太子的格格 *西域舞娘x康熙雍正乾隆",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5a541309dcdccf09d00dda602eb14009~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=Sj4AE16QWAIz9lNV0otREQvkvrs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5a541309dcdccf09d00dda602eb14009~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=tXEIEwn99a1oOlHQjXKPBQaPsm0%3D",
           "url": "https://fanqienovel.com/page/7635977656806165529"
+        },
+        {
+          "title": "综影视：有凤来，十里故清欢",
+          "author": "苏卿虞",
+          "reads": "5万",
+          "intro": "凤清欢，一个倒霉透顶被霉运拖累死的人，可死后才知道，原来自己所承受的霉运都是替旁人承受的！ 罢了罢了，反正已经死了，还能怎么滴？接受现实，领了补偿过日子吧！ 甄嬛传 安陵容 甄嬛传 瓜尔佳文鸳『祺贵人』 知否 盛墨兰 甄嬛传 浣碧—甄玉娇 微微一笑很倾城 小雨妖妖 如懿传 高晞月『慧贵妃』 小巷人家 张敏 甄嬛传 李静言『齐妃』 终极笔记 原创人物（进行中）",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofe05833f122e15d67cf4fe9ad1736712~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=7HzaaT0aW4gLdCLyKaGwfA5U25g%3D",
+          "url": "https://fanqienovel.com/page/7622726777579768857"
         },
         {
           "title": "父君别跪，我只讲公考上岸",
           "author": "雨永井工",
-          "reads": "4.8万",
+          "reads": "4.6万",
           "intro": "【穿剧+三生三世十里桃花+爽文+考公人】【严重ooc+慢热+原创女主+原剧剧情大改+时间线全拆+幻境有男主，正文暂无】【想看白浅直接跳转第50章】【书中的所有人物都不是以爱情作为首位】 天族大舞台，没编制你别来。 考公人魂穿夜华与素素的龙凤胎长女，开局就被父权式深情PUA？ “父君，你为母妃挖眼赎罪的样子，好像我那为了KPI自我感动的领导。” 伪装低幼，疯狂内卷，韩立式藏拙，心理微操拉满，励志踢飞天君和夜华，自己成为女帝。 “父君，为什么母妃要带一条白绫？为什么不打害母妃眼睛的人？” 夜华僵在原地，她垂眸掩去眼底冷光—— 这才只是开始。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o57017b201703edbfa37c61be57b768d7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=YN3mSopli2160N%2B7BkdhpxHPo5M%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o57017b201703edbfa37c61be57b768d7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=KL5tj5lKbhhrjsskeWdSYLLmw14%3D",
           "url": "https://fanqienovel.com/page/7612517063503924248"
         },
         {
-          "title": "红楼：黛玉的驯夫之道！",
-          "author": "楚人的言",
-          "reads": "4.6万",
-          "intro": "【1v1+纯爱+青梅竹马+两小无猜+卿卿日常】 全京城都在看着，谁能驯服太上皇宠上天的混世小魔王安亲王水烨。 十三岁的他，无法无天，桀骜嚣张，怼王公，闹王府，谁都管不住，唯独天生护短，心软嘴硬。 一道圣旨选伴读，全京城世家贵女挤破头！ 薛姨妈砸重金死捧薛宝钗上位，京城贵女扎堆凑热闹，个个挤破头想当安亲王妃攀皇亲。 唯有林黛玉，孤女寄居，无心荣华，只是被迫凑数入宫陪跑。 谁料选秀现场，混世魔王看遍千娇百媚个个嫌弃，偏偏一眼认准那个清冷孤傲小小黛玉。 别人对他恭恭敬敬，唯唯诺诺， 唯独林黛玉，不惯他脾气，不看他身份，张口就怼，抬手就管，训起小王爷毫不留情！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o69d8b55246a9d228f1b99c13b264201b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=eobJW176keUYFhG53Hc%2FYABbB7A%3D",
-          "url": "https://fanqienovel.com/page/7633050144644025406"
+          "title": "HP当麒麟女来到霍格沃兹",
+          "author": "冬天不冷ya",
+          "reads": "4.5万",
+          "intro": "[哈利波特+盗墓笔记+cp德拉科+不知道剧情] 张海游去英国暂时避祸，没想到却收到了一封来自霍格沃兹的录取通知书。 可还没入学，张海盐的匕首直接架在教授脖子上了，这可怎么办，她入学不会被针对吧？ 摩金夫人长袍店，张海游：他们的校服为什么是裤装，也给我来一套，我不要裙子，影响我打架，不穿！ 斯内普：这个愚蠢的巨怪，一个女生住到了男寝为什么不说，她是分不清男女吗？ 德拉科：她竟然是个女生，那她为什么和我住一个宿舍？ 张海游（短发版）：来到陌生的地方，隐藏自己的身份，浑水摸鱼这不是很正常吗？ 霍格沃兹众人：她到底是怎么想的…… ps:张海游来到霍格沃兹后，因为张家的习惯和训练和英国巫师观念不同，做出了许多似笑非啼的故事",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o498866e958b033fa84f8c98fd1645417~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=B0xX2TFmSxwbkfDRfvFOo39ER7o%3D",
+          "url": "https://fanqienovel.com/page/7634657938447010841"
         },
         {
           "title": "霍格沃茨：我带满级账号穿越了",
           "author": "梦琼华",
           "reads": "4.5万",
           "intro": "孤儿院长大的苏晚宁，人生唯一的光就是《哈利波特》里那个为爱赴死的男人。 她氪爆了《魔法觉醒》，满级账号，传说时装，全图鉴收集。 然后猝死在了二十二岁的冬天。 再睁眼，国王十字车站，九又四分之三站台。 手里一封霍格沃茨录取通知书，脑海里一个冰冷的系统面板。 【检测到宿主执念——\"让他活着\"】 【主线任务生成：改写西弗勒斯·斯内普的命运】 【注：心愿任务，不强制。您随时可以只为自己而活。】 满级号？带的。 传说魔杖？全的。 金加隆？花不完的那种。 \"苏，你为什么要做这些？\" \"因为你值得活着。不是为了莉莉·波特，不是为了邓布利多。是为了你自己。\" 那个在书外哭了无数次的女孩，终于能亲手改写那个结局了。 【慢热！慢热！不是爽文，不是真的魔法觉醒，只是套壳，设定不一样，没玩过不影响观看。不喜欢的宝宝避雷～】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3f27e7f98510f841fa885405f330e36a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=bazq1zNFdnNQTCqeFe%2BKL0nQ400%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3f27e7f98510f841fa885405f330e36a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=%2FMzIZbHCsKugICWOsMHCzk%2Bwl3g%3D",
           "url": "https://fanqienovel.com/page/7636820627239734296"
+        },
+        {
+          "title": "张桂芬重生：嫁给盛长柏后杀疯了",
+          "author": "孙咪宝是只猫",
+          "reads": "4.4万",
+          "intro": "张桂芬寿终正寝后，一觉醒来，发现自己重生回未出嫁前。 想起前世嫁给鳏夫沈从兴后，却被一妾室欺负的差点难产而亡。 重生后，张桂芬打定主意，再也不进沈家那个虎狼窝。 阴差阳错，嫁给盛家嫡长子盛长柏。 婚后，得知林噙霜是明兰的杀母凶手，张桂芬：直接发卖! 墨兰私会梁晗，用全家女眷清白相威胁，张桂芬：直接打死! 康姨母唆使王若弗给老太太下毒，张桂芬：我看你是活腻了，来人，送大狱! 王若弗：人到中年，迎来了自己最严厉的母亲，可她是我儿媳妇啊！ 知否衍生，这一世，张桂芬护着明兰，在盛府大杀四方。 就一个字，爽!",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2f93ced358ae7349abcc747e0f6d79a8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=rclTwlgTSjtVNhYnFi%2FR0TmoWG4%3D",
+          "url": "https://fanqienovel.com/page/7624887569339124761"
+        },
+        {
+          "title": "斩神：你管这叫度假世界？",
+          "author": "君翎羽",
+          "reads": "4.4万",
+          "intro": "【斩神衍生同人文+何枝意CP哪吒+系统】（评分刚出，后面还会涨的，宝宝们别介意点进来看看我吧~） 你自己听听，夜幕之下这个世界适合度假？ 何枝意在系统专属房吃着薯片就被她的系统“小六子”一jio踹斩神去了 睁眼啥也不记得，“小六子”也不见踪影 恢复记忆后，何枝意发出质疑，李乐泽是哪吒？小六子你认真的？ 你管这个性格的叫哪吒？ 作者是小白，文笔不太好",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob1bfaeedbf0524f2bf15fb68b6a7cca7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=P16arX51AwOsqzrmOBMqxqNbgnY%3D",
+          "url": "https://fanqienovel.com/page/7631949769098660926"
         },
         {
           "title": "斩神：我靠歌声拯救时间之神",
           "author": "子曰曰子曰",
-          "reads": "4.5万",
-          "intro": "（刚出分～后面会涨～） 爆！校园好声音夺冠前夜，天才音乐生夏眠歌竟因熬夜看《斩神》穿进书中世界，还绑定了一个叫小谱的对抗路系统。 一睁眼，她成了在这里战力垫底的小菜鸡，却觉醒独一份的逆天禁墟—— 只要牵着对方的手唱歌，就能增加对方的寿元！ 她立马收到了叶梵的“BOSS直聘”，被直接塞进假面小队。 从此，她成了那位背负宿命、时刻燃烧寿命的时间之神——王免，唯一的“解药”。 他回溯时间拯救大夏，她握紧他的手将生命重新填满。 他越来越离不开她的歌声，更离不开她。 直到某天，他与她十指相扣：“今天……唱首情歌给我听，好不好？” 她终于察觉不对时，已被他圈在怀中。 他捏着她的脸轻笑，吻落下： “小百灵鸟，你给我续的命…我该用一生来还。” 【阅读指南】 爱唱歌的开朗小太阳VS占有欲极强的时间掌控者 成长型女主，改写假面小队意难平，假面友情向+CP王免，ooc预警+歌词原创 剧情和时间线原创私设，和原书不一样！ 爱玩抽象，不要当真 为爱发电，不喜勿喷 ，算我求你，喵 收到的一些反馈已修改，可放心入 当歌声成为战略资源，看音乐生在斩神如何carry全场",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4abc1bf9952b51dafa6d548ff28e98af~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=qO4QNE5%2FUBwAOK9zlPPvCwXq6b8%3D",
-          "url": "https://fanqienovel.com/page/7619311421980937278"
-        },
-        {
-          "title": "这个甄嬛传怎么不一样",
-          "author": "飞鸡飞鱼飞锅里",
           "reads": "4.4万",
-          "intro": "池红衣穿到甄嬛传后，原本已经躺平等死，后意外得到一朵奇异莲花，从此走上了夺取气运的修炼之路。 原本以为已经知晓剧情，想要走上高位，一切都会很顺利。 可真的身处这些小世界，才发现哪哪都不对劲。 第一个世界：甄嬛传——宜修 第二个世界：甄嬛传——安陵容 第三个世界：甄嬛传——冯若昭",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o961c7ced70d402ae7279e89d7237e6db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=l7kYHSYmkcMKCxZUGBMCQWIKP7I%3D",
-          "url": "https://fanqienovel.com/page/7627911195441237054"
-        },
-        {
-          "title": "HP当麒麟女来到霍格沃兹",
-          "author": "冬天不冷ya",
-          "reads": "4.3万",
-          "intro": "[哈利波特+盗墓笔记+cp德拉科+不知道剧情] 张海游去英国暂时避祸，没想到却收到了一封来自霍格沃兹的录取通知书。 可还没入学，张海盐的匕首直接架在教授脖子上了，这可怎么办，她入学不会被针对吧？ 摩金夫人长袍店，张海游：他们的校服为什么是裤装，也给我来一套，我不要裙子，影响我打架，不穿！ 斯内普：这个愚蠢的巨怪，一个女生住到了男寝为什么不说，她是分不清男女吗？ 德拉科：她竟然是个女生，那她为什么和我住一个宿舍？ 张海游（短发版）：来到陌生的地方，隐藏自己的身份，浑水摸鱼这不是很正常吗？ 霍格沃兹众人：她到底是怎么想的…… ps:张海游来到霍格沃兹后，因为张家的习惯和训练和英国巫师观念不同，做出了许多似笑非啼的故事",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o498866e958b033fa84f8c98fd1645417~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780802736&x-signature=n47jZRENEVOJLLvR5IaM2u%2BxxMw%3D",
-          "url": "https://fanqienovel.com/page/7634657938447010841"
+          "intro": "（刚出分～后面会涨～） 爆！校园好声音夺冠前夜，天才音乐生夏眠歌竟因熬夜看《斩神》穿进书中世界，还绑定了一个叫小谱的对抗路系统。 一睁眼，她成了在这里战力垫底的小菜鸡，却觉醒独一份的逆天禁墟—— 只要牵着对方的手唱歌，就能增加对方的寿元！ 她立马收到了叶梵的“BOSS直聘”，被直接塞进假面小队。 从此，她成了那位背负宿命、时刻燃烧寿命的时间之神——王免，唯一的“解药”。 他回溯时间拯救大夏，她握紧他的手将生命重新填满。 他越来越离不开她的歌声，更离不开她。 直到某天，他与她十指相扣：“今天……唱首情歌给我听，好不好？” 她终于察觉不对时，已被他圈在怀中。 他捏着她的脸轻笑，吻落下： “小百灵鸟，你给我续的命…我该用一生来还。” 【阅读指南】 爱唱歌的开朗小太阳VS占有欲极强的时间掌控者 成长型女主，改写假面小队意难平，假面友情向+CP王免，ooc预警+歌词原创 剧情和时间线原创私设，和原书不一样！ 爱玩抽象，不要当真 为爱发电，不喜勿喷 ，算我求你，喵 收到的一些反馈已修改，可放心入 当歌声成为战略资源，看音乐生在斩神如何carry全场",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4abc1bf9952b51dafa6d548ff28e98af~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780892173&x-signature=t0mykS3SVmeH5JujWmEhLQ%2Bpp%2BI%3D",
+          "url": "https://fanqienovel.com/page/7619311421980937278"
         }
       ]
     }
