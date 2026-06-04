@@ -10,7 +10,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const waterfall = document.getElementById('books-waterfall');
     const updateDate = document.getElementById('update-date');
     const categoryTitle = document.getElementById('current-category-title');
-    const trendStats = document.getElementById('trend-stats');
     const aiContent = document.getElementById('ai-content');
     const trendPanel = document.getElementById('trend-panel');
     const mobileMenuBtn = document.getElementById('mobile-menu-btn');
@@ -390,38 +389,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // ========== Render Trend Panel ==========
     function renderTrend(cat) {
         const trend = cat.trend || {};
-        trendStats.innerHTML = '';
-
-        // Stat chips
-        const chips = [];
-
-        if (trend.new_count > 0) {
-            chips.push({ icon: 'NEW', text: `${trend.new_count} 本新上榜`, cls: 'new-entry' });
-        }
-        if (trend.dropped_count > 0) {
-            chips.push({ icon: 'OUT', text: `${trend.dropped_count} 本掉出`, cls: 'down' });
-        }
-        if (trend.top_risers && trend.top_risers.length > 0) {
-            trend.top_risers.forEach(r => {
-                chips.push({ icon: 'UP', text: `${r.title} ${r.change}`, cls: 'up' });
-            });
-        }
-        if (trend.reads_growth && trend.reads_growth.length > 0) {
-            chips.push({ icon: 'HOT', text: `${trend.reads_growth[0].title} ${trend.reads_growth[0].growth}`, cls: 'up' });
-        }
-
-        if (chips.length === 0) {
-            chips.push({ icon: 'STABLE', text: '榜单无明显变动', cls: '' });
-        }
-
-        chips.forEach(chip => {
-            const el = document.createElement('span');
-            el.className = `stat-chip ${chip.cls}`;
-            el.textContent = `${chip.icon} ${chip.text}`;
-            trendStats.appendChild(el);
-        });
-
-        // AI Summary with typewriter effect
         const summary = trend.summary || '';
         typewriterEffect(summary);
     }
@@ -487,8 +454,8 @@ document.addEventListener('DOMContentLoaded', () => {
         books.forEach((book, index) => {
             const rank = index + 1;
             const card = document.createElement('a');
-            card.href = book.url && book.url !== '#' ? book.url : 'javascript:void(0)';
-            if (book.url && book.url !== '#') card.target = '_blank';
+            const bookId = extractBookId(book.url);
+            card.href = bookId ? `book.html?id=${encodeURIComponent(bookId)}` : 'javascript:void(0)';
             card.rel = 'noopener';
             card.className = 'book-card';
 
@@ -545,5 +512,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function escapeAttr(str) {
         return (str || '').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    }
+
+    function extractBookId(url) {
+        const match = String(url || '').match(/\/page\/(\d+)/);
+        return match ? match[1] : '';
     }
 });

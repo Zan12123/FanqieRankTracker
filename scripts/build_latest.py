@@ -498,6 +498,7 @@ def summarize_market_rows(rows: list) -> dict:
         "riser_count": 0,
         "faller_count": 0,
         "read_count": 0,
+        "read_growth_total": 0,
         "active_days": 0,
     }
     for row in rows:
@@ -505,11 +506,16 @@ def summarize_market_rows(rows: list) -> dict:
         riser_count = len(trend.get("top_risers", []))
         faller_count = len(trend.get("top_fallers", []))
         read_count = len(trend.get("reads_growth", []))
+        read_growth_total = sum(
+            parse_reads(item.get("growth", ""))
+            for item in trend.get("reads_growth", [])
+        )
         totals["new_count"] += int(trend.get("new_count", 0) or 0)
         totals["dropped_count"] += int(trend.get("dropped_count", 0) or 0)
         totals["riser_count"] += riser_count
         totals["faller_count"] += faller_count
         totals["read_count"] += read_count
+        totals["read_growth_total"] += read_growth_total
         if (
             trend.get("new_count", 0) or trend.get("dropped_count", 0)
             or riser_count or faller_count or read_count
@@ -519,14 +525,15 @@ def summarize_market_rows(rows: list) -> dict:
 
 
 def market_score(totals: dict) -> int:
-    """计算全站热点动能分。"""
-    return round(
-        totals["new_count"] * 4 +
-        totals["dropped_count"] * 2 +
-        totals["riser_count"] * 2 +
-        totals["read_count"] * 3 +
-        totals["active_days"] * 1.5
-    )
+    """计算全站热点分：综合赛道和具体分类只看新增在读量。"""
+    return round(totals["read_growth_total"])
+
+
+def format_market_reads(value: float) -> str:
+    """格式化市场层面的新增在读量。"""
+    if abs(value) >= 10000:
+        return f"{value / 10000:.1f}万"
+    return str(round(value))
 
 
 def collect_market_hot_types(categories: list, rows_window: list) -> list:
@@ -548,9 +555,14 @@ def collect_market_hot_types(categories: list, rows_window: list) -> list:
             "new_count": totals["new_count"],
             "dropped_count": totals["dropped_count"],
             "read_count": totals["read_count"],
+            "read_growth_total": totals["read_growth_total"],
             "active_days": totals["active_days"],
         })
-    return sorted(result, key=lambda x: x["score"], reverse=True)
+    return sorted(
+        result,
+        key=lambda x: (x["read_growth_total"], x["read_count"]),
+        reverse=True
+    )
 
 
 def collect_market_hot_genres(categories: list, hot_types: list) -> list:
@@ -568,25 +580,35 @@ def collect_market_hot_genres(categories: list, hot_types: list) -> list:
                 "new_count": 0,
                 "dropped_count": 0,
                 "read_count": 0,
+                "read_growth_total": 0,
                 "active_days": 0,
             }))
         if not matched:
             continue
-        score = sum(item["score"] for item in matched)
-        if score <= 0:
+        read_growth_total = sum(item["read_growth_total"] for item in matched)
+        if read_growth_total <= 0:
             continue
-        lead = sorted(matched, key=lambda x: x["score"], reverse=True)[0]
+        lead = sorted(
+            matched,
+            key=lambda x: (x["read_growth_total"], x["read_count"]),
+            reverse=True
+        )[0]
         genres.append({
             "name": group["name"],
-            "score": score,
+            "score": round(read_growth_total),
             "new_count": sum(item["new_count"] for item in matched),
             "dropped_count": sum(item["dropped_count"] for item in matched),
             "read_count": sum(item["read_count"] for item in matched),
+            "read_growth_total": read_growth_total,
             "active_days": sum(item["active_days"] for item in matched),
             "lead_category": lead["name"],
             "categories": [item["name"] for item in matched],
         })
-    return sorted(genres, key=lambda x: x["score"], reverse=True)
+    return sorted(
+        genres,
+        key=lambda x: (x["read_growth_total"], x["read_count"]),
+        reverse=True
+    )
 
 
 def add_theme_hits(score_map: dict, text: str, category_name: str, weight: int):
@@ -604,35 +626,31 @@ def add_theme_hits(score_map: dict, text: str, category_name: str, weight: int):
 
 def collect_market_hot_themes(output: dict, rows_window: list,
                               categories: list) -> list:
-    """统计最新榜单和近期趋势中的高频题材词。"""
+    """只统计近期新上榜作品中的高频题材词。"""
     score_map = {
         name: {"name": name, "count": 0, "categories": set()}
         for name in MARKET_KEYWORDS
     }
-
+    latest_book_map = {}
     for cat in output.get("categories", []):
-        cat_name = cat.get("name", "")
-        for index, book in enumerate(cat.get("books", [])):
-            weight = 2 if index < 10 else 1
-            add_theme_hits(
-                score_map,
-                f"{book.get('title', '')} {book.get('intro', '')}",
-                cat_name,
-                weight
-            )
+        for book in cat.get("books", []):
+            title = book.get("title", "")
+            if title:
+                latest_book_map[title] = book
 
     for row in rows_window:
         for cat_name in categories:
             trend = row.get("trends", {}).get(cat_name)
             if not trend:
                 continue
-            add_theme_hits(
-                score_map,
-                " ".join(trend.get("new_books", [])),
-                cat_name,
-                3
-            )
-            add_theme_hits(score_map, trend.get("summary", ""), cat_name, 1)
+            for title in trend.get("new_books", []):
+                book = latest_book_map.get(title, {})
+                add_theme_hits(
+                    score_map,
+                    f"{title} {book.get('intro', '')}",
+                    cat_name,
+                    1
+                )
 
     themes = []
     for item in score_map.values():
@@ -659,9 +677,9 @@ def build_rule_market_summary(period_label: str, hot_genres: list,
     if not top_genres and not top_types:
         return f"{period_label}暂无足够数据判断全站热点。"
     return (
-        f"{period_label}里，{top_genres or top_types} 是更热的综合赛道，"
-        f"具体分类以 {top_types} 的榜单动能更强；题材上 {top_themes} "
-        f"反复出现，说明读者仍偏好强设定、强情绪钩子和明确爽点。"
+        f"{period_label}里，{top_genres or top_types} 的阅读增长更强，"
+        f"具体分类以 {top_types} 的新增在读更集中；新书题材上 {top_themes} "
+        f"更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。"
     )
 
 
@@ -702,22 +720,24 @@ def build_market_ai_prompt(payload: dict) -> str:
     sections = []
     for key, data in payload.get("periods", {}).items():
         genres = "、".join(
-            f"{item['name']}({item['score']})"
+            f"{item['name']}(新增在读{format_market_reads(item.get('read_growth_total', 0))}, "
+            f"增长作品{item.get('read_count', 0)})"
             for item in data.get("hot_genres", [])[:5]
         )
         types = "、".join(
-            f"{item['name']}({item['score']})"
+            f"{item['name']}(新增在读{format_market_reads(item.get('read_growth_total', 0))}, "
+            f"增长作品{item.get('read_count', 0)})"
             for item in data.get("hot_types", [])[:6]
         )
         themes = "、".join(
-            f"{item['name']}({item['count']})"
+            f"{item['name']}(新书{item['count']}本)"
             for item in data.get("hot_themes", [])[:10]
         )
         sections.append(
             f"周期 {key} / {data['period']}:\n"
-            f"- 综合赛道: {genres or '无'}\n"
-            f"- 具体分类: {types or '无'}\n"
-            f"- 高频题材: {themes or '无'}\n"
+            f"- 综合赛道（按阅读增长量排序）: {genres or '无'}\n"
+            f"- 具体分类（按阅读增长量排序）: {types or '无'}\n"
+            f"- 高频题材（只统计新上榜作品，按新书数量排序）: {themes or '无'}\n"
             f"- 规则兜底: {data['fallback_summary']}"
         )
 
@@ -728,8 +748,10 @@ def build_market_ai_prompt(payload: dict) -> str:
 要求：
 1. 只基于给定统计，不要编造未出现的类型或题材。
 2. 每个周期输出 1 段中文，80-140 字。
-3. 点明综合赛道、具体分类、题材关键词，以及一句编辑判断。
-4. 输出严格 JSON，不要 Markdown，不要解释，格式如下：
+3. 综合赛道和具体分类必须按“新增在读/阅读增长”解读，不要写“榜单动能”或“排名动能”。
+4. 高频题材必须按“新上榜作品数量”解读，不要混入存量榜单或摘要题材。
+5. 点明综合赛道、具体分类、新书题材关键词，以及一句编辑判断。
+6. 输出严格 JSON，不要 Markdown，不要解释，格式如下：
 {{
   "7": "总结文本",
   "14": "总结文本",
