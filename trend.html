@@ -3,16 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>类型风向标 · 番茄女频新书榜趋势分析</title>
+    <title>女频风向标 · 番茄女频趋势分析</title>
     <link rel="stylesheet" href="css/style.css">
-    <meta name="description" content="按类型聚合番茄小说女频新书榜多日趋势，观察题材风向、上榜波动和阅读增长。">
+    <meta name="description" content="按类型聚合番茄小说女频榜单多日趋势，观察题材风向、上榜波动和阅读增长。">
 </head>
 <body class="trend-page">
     <div class="trend-shell">
         <header class="trend-topbar">
             <div>
-                <a href="index.html" class="back-link">Back to ranking</a>
-                <h1>类型风向标</h1>
+                <div class="trend-nav-links">
+                    <a href="trend.html">女频风向标</a>
+                    <a href="male_trend.html">男频风向标</a>
+                    <a href="index.html">女频新书榜</a>
+                    <a href="read.html">女频阅读榜</a>
+                    <a href="male.html">男频新书榜</a>
+                    <a href="male_read.html">男频阅读榜</a>
+                </div>
+                <h1>女频风向标</h1>
                 <p id="trend-subtitle">加载中...</p>
             </div>
             <div class="trend-controls">
@@ -114,6 +121,28 @@
         </main>
     </div>
 
-    <script src="js/trend.js"></script>
+    <script>
+    window.AppConfig = {
+      gender: "female",
+      genreGroups: [
+        { name: '古风言情', categories: ['古风世情', '古言脑洞', '宫斗宅斗', '种田'] },
+        { name: '现代言情', categories: ['现言脑洞', '豪门总裁', '职场婚恋', '青春甜宠'] },
+        { name: '幻想言情', categories: ['玄幻言情', '科幻末世', '悬疑脑洞', '女频悬疑'] },
+        { name: '快穿衍生', categories: ['快穿', '女频衍生'] },
+        { name: '年代民国', categories: ['年代', '民国言情'] },
+        { name: '娱乐星光', categories: ['星光璀璨'] },
+        { name: '游戏体育', categories: ['游戏体育'] },
+      ],
+      marketKeywords: [
+        '重生', '穿书', '快穿', '系统', '空间', '团宠', '萌宝', '幼崽', '女配', '炮灰',
+        '反派', '权臣', '宅斗', '宫斗', '和离', '替嫁', '逃荒', '种田', '美食', '经商',
+        '年代', '七零', '八零', '军婚', '豪门', '总裁', '真假千金', '先婚后爱', '追妻',
+        '甜宠', '双洁', '强制爱', '无CP', '末世', '废土', '天灾', '囤货', '异能',
+        '国运', '星际', '修仙', '玄学', '无限流', '悬疑', '直播', '综艺', '娱乐圈',
+        '校园', '暗恋', '青梅竹马', '民国', '兽世', '远古', '基建'
+      ]
+    };
+    </script>
+    <script src="js/trend.js?v=20260608"></script>
 </body>
 </html>

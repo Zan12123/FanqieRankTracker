@@ -1,0 +1,389 @@
+{
+  "date": "2026-07-05",
+  "prev_date": "2026-07-04",
+  "trends": {
+    "古风世情": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "重生贞观：再续前尘解旧梦",
+          "change": "+2"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "公主，不可以",
+          "change": "-2"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "重生后不做续弦，他好友求娶了",
+          "growth": "+3000"
+        },
+        {
+          "title": "重生贞观：再续前尘解旧梦",
+          "growth": "+3000"
+        },
+        {
+          "title": "我一介咸鱼，竟迎娶尚书嫡女",
+          "growth": "+1000"
+        }
+      ],
+      "summary": "《重生贞观：再续前尘解旧梦》排名上升+2位；《重生后不做续弦，他好友求娶了》阅读量+3000。"
+    },
+    "科幻末世": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "末世三年后，男友找到劈腿的我",
+          "change": "+2"
+        },
+        {
+          "title": "末日倒计时，我盯上了男友宿舍",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "黑屋？美人NPC被末世暴徒豪夺",
+          "change": "-1"
+        },
+        {
+          "title": "末世！她都修仙了你惹她干嘛",
+          "change": "-1"
+        },
+        {
+          "title": "带娃国运求生：全职宝妈惊艳全球",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "宿舍求生：从刷广告开始变强",
+          "growth": "+1.2万"
+        },
+        {
+          "title": "无限求生：AAA副本土特产代购",
+          "growth": "+2000"
+        },
+        {
+          "title": "末世三年后，男友找到劈腿的我",
+          "growth": "+2000"
+        }
+      ],
+      "summary": "《末世三年后，男友找到劈腿的我》排名上升+2位；《宿舍求生：从刷广告开始变强》阅读量+1.2万。"
+    },
+    "游戏体育": {
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        "惊悚游戏降临后，我变成女巫了"
+      ],
+      "dropped_books": [
+        {
+          "title": "游戏入侵：天梯榜一不想组队",
+          "intro": "【女强+爱女+女主冷血+爽文+异世+天灾+前期独狼（后期不确定）】 沈徐行一睁眼就被拉进了无尽航班求生游戏。 开局经济舱，还只有1000里程，想活命，就得努力赚里程。 沈徐行不仅想活，还想活得舒服。 "
+        }
+      ],
+      "top_risers": [
+        {
+          "title": "游戏降临，开局直接拉满天赋",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "全民求生：别人吓哭，我在炖怪",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "游戏入侵：我靠疯狂打工登顶成神",
+          "growth": "+3000"
+        },
+        {
+          "title": "公路求生：我在灵宠空间种田躺赢",
+          "growth": "+1000"
+        },
+        {
+          "title": "游戏降临，开局直接拉满天赋",
+          "growth": "+1000"
+        }
+      ],
+      "summary": "新增1本上榜；1本掉出（《游戏入侵：天梯榜一不想组队》）；《游戏降临，开局直接拉满天赋》排名上升+1位；《游戏入侵：我靠疯狂打工登顶成神》阅读量+3000。"
+    },
+    "女频衍生": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "红楼守寡三年后，高嫁林如海",
+          "change": "+1"
+        },
+        {
+          "title": "斩神：我是女娲的乖崽",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "王若弗成暴力郭皇后：仁宗，朕苦",
+          "change": "-1"
+        },
+        {
+          "title": "【综名著】十九世纪冒险家",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "南部档案：我的金手指来的好慢",
+          "growth": "+1.3万"
+        },
+        {
+          "title": "穿越封神，我功德成圣了",
+          "growth": "+5000"
+        },
+        {
+          "title": "红楼守寡三年后，高嫁林如海",
+          "growth": "+3000"
+        }
+      ],
+      "summary": "《红楼守寡三年后，高嫁林如海》排名上升+1位；《南部档案：我的金手指来的好慢》阅读量+1.3万。"
+    },
+    "玄幻言情": {
+      "new_count": 10,
+      "dropped_count": 0,
+      "new_books": [
+        "穿书被龙掳走，我被龙族当崽了？",
+        "穿成古早玄幻男主的路人族妹",
+        "我，恶毒女配？杀穿龙傲天剧本！",
+        "剑仙魔尊别舔女主！你妈被气活了",
+        "死后诈尸诅咒，仙门上下悔悔悔"
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "新增10本上榜。"
+    },
+    "种田": {
+      "new_count": 10,
+      "dropped_count": 0,
+      "new_books": [
+        "笨蛋美人挺孕肚，搬空全京去流放",
+        "侯爷前妻恶毒但做饭实在美味",
+        "胎穿古代，在主角后面捡漏",
+        "惊！我和死去的儿子在古代相遇了",
+        "开局流放？姐带领全家杀回京城"
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "新增10本上榜。"
+    },
+    "年代": {
+      "new_count": 10,
+      "dropped_count": 0,
+      "new_books": [
+        "丰腴美人小保姆，沈技术员沦陷了",
+        "我老公是年代文里女主的白月光",
+        "丰腴美人小哑巴，邻家糙汉宠不停",
+        "穿越七零，我成了女主的恶毒继姐",
+        "重生七零小蛊娃，缉毒闯军区"
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "新增10本上榜。"
+    },
+    "现言脑洞": {
+      "new_count": 10,
+      "dropped_count": 0,
+      "new_books": [
+        "穿成财阀太子爷的作精前女友",
+        "婚长欲浓",
+        "小炮灰变美后，抢了财阀太子爷",
+        "哭大点声，我听不见",
+        "穿成耽美文小受的炮灰妹妹"
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "新增10本上榜。"
+    },
+    "宫斗宅斗": {
+      "new_count": 10,
+      "dropped_count": 0,
+      "new_books": [
+        "入宫即高位，我是陛下表妹我怕谁",
+        "挺孕肚压正室，表姑娘软倒世子怀",
+        "表小姐今天出家了吗",
+        "首辅大人的养崽记事",
+        "女尊：有难言之症的她穿成了女帝"
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "新增10本上榜。"
+    },
+    "悬疑脑洞": {
+      "new_count": 10,
+      "dropped_count": 0,
+      "new_books": [
+        "盗墓：你们偷我家小麒麟？",
+        "我，编剧，灵气复苏",
+        "穿进盗笔当采购，全九门都喊我靠",
+        "什么变态，那是我老公",
+        "我的人格超会演【卡牌扮演】"
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "新增10本上榜。"
+    },
+    "古言脑洞": {
+      "new_count": 10,
+      "dropped_count": 0,
+      "new_books": [
+        "扶贫大秦：天幕盘点我是千古女相",
+        "抄家抄出亲闺女，暴君爹怂了",
+        "恶毒贵妃又又作死，弹幕教她躺赢",
+        "小世子不想黑化，只想要爹爹抱",
+        "谁懂啊！侯府庶女心声自动广播"
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "新增10本上榜。"
+    },
+    "快穿": {
+      "new_count": 10,
+      "dropped_count": 0,
+      "new_books": [
+        "快穿：甜文里的对照组",
+        "心机勾引快穿：女主心上人归我了",
+        "快穿：苏茶的年代生活",
+        "快穿之成为心机白莲花",
+        "男主们轻点亲，她可是恶毒女配啊"
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "新增10本上榜。"
+    },
+    "青春甜宠": {
+      "new_count": 10,
+      "dropped_count": 0,
+      "new_books": [
+        "在帅哥评论区口嗨掉马后",
+        "玩弄感情的漂亮妹宝是要被狠狠",
+        "F4里最病弱的那个，被团宠了",
+        "漂亮女配觉醒，高冷校草后悔了",
+        "贵族学院：小傻子也有修罗场吗？"
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "新增10本上榜。"
+    },
+    "星光璀璨": {
+      "new_count": 10,
+      "dropped_count": 0,
+      "new_books": [
+        "养成系偶像回归，归来已满级",
+        "黑道大佬重生偶像练习生后爆红了",
+        "女穿男，万人迷从颜值拉满开始",
+        "素人选秀？顶流导师是我学生",
+        "她说，她想去团播见见世面"
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "新增10本上榜。"
+    },
+    "女频悬疑": {
+      "new_count": 10,
+      "dropped_count": 0,
+      "new_books": [
+        "盗墓：长生都是有纹身的",
+        "退役即巅峰：女兵王横扫刑侦队",
+        "盗墓：手巧的张家男友叫平安",
+        "盗墓：被反派养大的我成了万人迷",
+        "她从地狱来，证罪"
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "新增10本上榜。"
+    },
+    "职场婚恋": {
+      "new_count": 10,
+      "dropped_count": 0,
+      "new_books": [
+        "作精表妹不作后，清冷医生急了",
+        "闪婚刑警老公，陆队人前请装不熟",
+        "离婚后，苏医生被大佬盯上了",
+        "假破产后一家三口生活指南",
+        "乙代：你是我命中注定的妻子"
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "新增10本上榜。"
+    },
+    "豪门总裁": {
+      "new_count": 10,
+      "dropped_count": 0,
+      "new_books": [
+        "偷闺蜜照片网恋财阀继承人沦陷了",
+        "冒充大佬女友被逮，按头转正",
+        "强制爱：恶毒女配被病娇反派亲哭",
+        "穿成拜金金丝雀，被男主强制爱了",
+        "穿成男主室友的恶毒女友"
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "新增10本上榜。"
+    },
+    "民国言情": {
+      "new_count": 10,
+      "dropped_count": 0,
+      "new_books": [
+        "小农女逃荒搬空地主鬼子库房",
+        "抗战1939：你管这叫卫生员？",
+        "穷妻",
+        "倒闭首选：在青铜门开店",
+        "来到民国写小说"
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [],
+      "summary": "新增10本上榜。"
+    }
+  }
+}

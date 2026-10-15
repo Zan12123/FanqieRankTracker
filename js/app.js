@@ -1,4 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
+    // ---- 读取页面配置 ----
+    const CFG = window.AppConfig || {};
+    const DATA_PREFIX = CFG.dataPrefix || "fanqie_female_new_ranks";
+    const DATES_FILE = CFG.datesFile || "data/dates.json";
+    const LATEST_FILE = CFG.latestFile || "data/latest_ranks.json";
+    const TRENDS_DIR = CFG.trendsDir || "data/trends";
+
     const categoryList = document.getElementById('category-list');
     const waterfall = document.getElementById('books-waterfall');
     const updateDate = document.getElementById('update-date');
@@ -171,7 +178,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // ========== Load dates index, then load latest ==========
-    fetch(`data/dates.json?${cacheBuster}`)
+    fetch(`${DATES_FILE}?${cacheBuster}`)
         .then(r => r.ok ? r.json() : Promise.reject('No dates.json'))
         .then(idx => {
             availableDates = idx.dates || [];
@@ -190,7 +197,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
     function loadLatestData() {
-        return fetch(`data/latest_ranks.json?${cacheBuster}`)
+        return fetch(`${LATEST_FILE}?${cacheBuster}`)
             .then(r => {
                 if (!r.ok) throw new Error('Network error');
                 return r.json();
@@ -228,8 +235,8 @@ document.addEventListener('DOMContentLoaded', () => {
         // Show loading state
         waterfall.innerHTML = '<p style="color:var(--text-muted);padding:20px;">加载中...</p>';
 
-        const snapshotUrl = `data/fanqie_female_new_ranks_${fileDateStr}.json?${cacheBuster}`;
-        const trendUrl = `data/trends/${dateStr}.json?${cacheBuster}`;
+        const snapshotUrl = `data/${DATA_PREFIX}_${fileDateStr}.json?${cacheBuster}`;
+        const trendUrl = `${TRENDS_DIR}/${dateStr}.json?${cacheBuster}`;
 
         // Load snapshot + trends in parallel
         Promise.all([
@@ -502,9 +509,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 changeHtml = `<span class="book-change down">↓${change.replace('-', '')}</span>`;
             }
 
-            // Cover
-            const coverHtml = book.cover
-                ? `<div class="book-cover"><img src="${book.cover}" alt="${escapeAttr(book.title)}" loading="lazy"></div>`
+            // Cover — normalize protocol-relative URLs to https
+            let coverUrl = book.cover || '';
+            if (coverUrl.startsWith('//')) {
+                coverUrl = 'https:' + coverUrl;
+            }
+            const coverHtml = coverUrl
+                ? `<div class="book-cover"><img src="${coverUrl}" alt="${escapeAttr(book.title)}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'no-cover\\'>暂无封面</div>'"></div>`
                 : `<div class="book-cover"><div class="no-cover">暂无封面</div></div>`;
 
             card.innerHTML = `

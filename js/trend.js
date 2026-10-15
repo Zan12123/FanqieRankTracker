@@ -4,6 +4,59 @@ document.addEventListener('DOMContentLoaded', () => {
     const rangeButtons = document.querySelectorAll('.range-btn');
     const cacheBuster = `v=${Math.floor(Date.now() / 600000)}`;
 
+    const AppCfg = window.AppConfig || {};
+    const gender = AppCfg.gender || 'female';
+    const genLabel = gender === 'male' ? '男频' : '女频';
+
+    // Detect data source: ?source=read → 阅读榜, default → 新书榜
+    const urlParams = new URLSearchParams(window.location.search);
+    const dataSource = urlParams.get('source') === 'read' ? 'read' : 'new';
+
+    // Build path config from gender + source
+    function buildCFG(g, s) {
+        if (g === 'male') {
+            return s === 'read' ? {
+                label: '阅读榜',
+                apiPrefix: 'male-read-',
+                dataInfix: '_male_read',
+                trendSuffix: '-male-read',
+                marketFile: 'market_male_read_summary.json',
+                datesFile: 'dates-male-read.json',
+                backHref: 'male_read.html',
+            } : {
+                label: '新书榜',
+                apiPrefix: 'male-',
+                dataInfix: '_male',
+                trendSuffix: '-male',
+                marketFile: 'market_male_summary.json',
+                datesFile: 'dates-male.json',
+                backHref: 'male.html',
+            };
+        } else {
+            return s === 'read' ? {
+                label: '阅读榜',
+                apiPrefix: 'read-',
+                dataInfix: '_read',
+                trendSuffix: '-read',
+                marketFile: 'market_read_summary.json',
+                datesFile: 'dates-read.json',
+                backHref: 'read.html',
+            } : {
+                label: '新书榜',
+                apiPrefix: '',
+                dataInfix: '',
+                trendSuffix: '',
+                marketFile: 'market_summary.json',
+                datesFile: 'dates.json',
+                backHref: 'index.html',
+            };
+        }
+    }
+    const CFG = buildCFG(gender, dataSource);
+
+    // Update page title
+    document.title = `${genLabel}风向标 · 番茄${genLabel}${CFG.label}趋势分析`;
+
     let categories = [];
     let trendRows = [];
     let latestData = null;
@@ -11,15 +64,8 @@ document.addEventListener('DOMContentLoaded', () => {
     let selectedCategory = '';
     let selectedDays = 7;
 
-    const genreGroups = [
-        { name: '古风言情', categories: ['古风世情', '古言脑洞', '宫斗宅斗', '种田'] },
-        { name: '现代言情', categories: ['现言脑洞', '豪门总裁', '职场婚恋', '青春甜宠'] },
-        { name: '幻想言情', categories: ['玄幻言情', '科幻末世', '悬疑脑洞', '女频悬疑'] },
-        { name: '快穿衍生', categories: ['快穿', '女频衍生'] },
-        { name: '年代民国', categories: ['年代', '民国言情'] },
-        { name: '娱乐星光', categories: ['星光璀璨'] },
-        { name: '游戏体育', categories: ['游戏体育'] },
-    ];
+    const genreGroups = AppCfg.genreGroups || [];
+    const marketKeywords = AppCfg.marketKeywords || [];
 
     const els = {
         score: document.getElementById('trend-score'),
@@ -48,11 +94,11 @@ document.addEventListener('DOMContentLoaded', () => {
     async function init() {
         try {
             const [dateIndex, latestIndex, latestAll, marketSummary] = await Promise.all([
-                fetchJson(`data/dates.json?${cacheBuster}`),
-                fetchJson(`api/lastest.json?${cacheBuster}`).catch(() => null),
-                fetchJson(`api/lastest/all.json?${cacheBuster}`)
-                    .catch(() => fetchJson(`data/latest_ranks.json?${cacheBuster}`)),
-                fetchJson(`data/market_summary.json?${cacheBuster}`).catch(() => null),
+                fetchJson(`data/${CFG.datesFile}?${cacheBuster}`),
+                fetchJson(`api/${CFG.apiPrefix}lastest.json?${cacheBuster}`).catch(() => null),
+                fetchJson(`api/${CFG.apiPrefix}lastest/all.json?${cacheBuster}`)
+                    .catch(() => fetchJson(`data/latest${CFG.dataInfix}_ranks.json?${cacheBuster}`)),
+                fetchJson(`data/${CFG.marketFile}?${cacheBuster}`).catch(() => null),
             ]);
             latestData = latestAll;
             marketSummaryData = marketSummary;
@@ -64,7 +110,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const dates = (dateIndex.dates || []).slice().sort();
             const trendDates = dates.slice(1);
             const trendFiles = await Promise.all(
-                trendDates.map(date => fetchJson(`data/trends/${date}.json?${cacheBuster}`).catch(() => null))
+                trendDates.map(date => fetchJson(`data/trends${CFG.trendSuffix}/${date}.json?${cacheBuster}`).catch(() => null))
             );
             trendRows = trendFiles
                 .filter(Boolean)
@@ -88,7 +134,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     async function loadCategoriesFallback() {
-        const latest = await fetchJson(`data/latest_ranks.json?${cacheBuster}`);
+        const latest = await fetchJson(`data/latest${CFG.dataInfix}_ranks.json?${cacheBuster}`);
         return (latest.categories || []).map(cat => cat.name);
     }
 
@@ -302,7 +348,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function collectHotThemes(rowsWindow) {
-        const keywords = [
+        const keywords = marketKeywords.length > 0 ? marketKeywords : [
             '重生', '穿书', '快穿', '系统', '空间', '团宠', '萌宝', '幼崽', '女配', '炮灰',
             '反派', '权臣', '宅斗', '宫斗', '和离', '替嫁', '逃荒', '种田', '美食', '经商',
             '年代', '七零', '八零', '军婚', '豪门', '总裁', '真假千金', '先婚后爱', '追妻',

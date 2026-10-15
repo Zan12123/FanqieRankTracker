@@ -1,0 +1,564 @@
+[2026-07-30 16:49:23] ============================================================
+[2026-07-30 16:49:23] 🚀 番茄扫榜自动化任务启动
+[2026-07-30 16:49:23] ℹ️  AI 分析未配置，将使用规则摘要
+[2026-07-30 16:49:23] 📦 今日(20260730)数据已存在，跳过抓取
+[2026-07-30 16:49:23] 📊 今日数据已存在，只执行构建和更新
+[2026-07-30 16:49:23] ▶ 开始: 女频新书榜数据构建
+[2026-07-30 16:49:23]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scripts/build_latest.py --gender female --type new
+[2026-07-30 16:49:23]   错误:
+/bin/sh: /Users/zxian/Library/Mobile: No such file or directory
+
+[2026-07-30 16:49:23] ❌ 失败: 女频新书榜数据构建 (返回码: 127)
+[2026-07-30 16:49:25] ▶ 开始: 女频阅读榜数据构建
+[2026-07-30 16:49:25]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scripts/build_latest.py --gender female --type read
+[2026-07-30 16:49:25]   错误:
+/bin/sh: /Users/zxian/Library/Mobile: No such file or directory
+
+[2026-07-30 16:49:25] ❌ 失败: 女频阅读榜数据构建 (返回码: 127)
+[2026-07-30 16:49:27] ▶ 开始: 男频新书榜数据构建
+[2026-07-30 16:49:27]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scripts/build_latest.py --gender male --type new
+[2026-07-30 16:49:27]   错误:
+/bin/sh: /Users/zxian/Library/Mobile: No such file or directory
+
+[2026-07-30 16:49:27] ❌ 失败: 男频新书榜数据构建 (返回码: 127)
+[2026-07-30 16:49:29] ▶ 开始: 男频阅读榜数据构建
+[2026-07-30 16:49:29]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scripts/build_latest.py --gender male --type read
+[2026-07-30 16:49:29]   错误:
+/bin/sh: /Users/zxian/Library/Mobile: No such file or directory
+
+[2026-07-30 16:49:29] ❌ 失败: 男频阅读榜数据构建 (返回码: 127)
+[2026-07-30 16:49:31] ------------------------------------------------------------
+[2026-07-30 16:49:31] 📊 任务完成: 0/4 成功
+[2026-07-30 16:49:31] ⚠️  有 4 个任务失败，请检查日志
+[2026-07-30 16:49:31] ============================================================
+[2026-07-30 16:50:29] ============================================================
+[2026-07-30 16:50:29] 🚀 番茄扫榜自动化任务启动
+[2026-07-30 16:50:29] ℹ️  AI 分析未配置，将使用规则摘要
+[2026-07-30 16:50:29] 📦 今日(20260730)数据已存在，跳过抓取
+[2026-07-30 16:50:29] 📊 今日数据已存在，只执行构建和更新
+[2026-07-30 16:50:29] ▶ 开始: 女频新书榜数据构建
+[2026-07-30 16:50:29]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scripts/build_latest.py --gender female --type new
+[2026-07-30 16:50:29]   输出:
+目标快照: fanqie_female_new_ranks_20260730.json (2026-07-30)
+对比快照: fanqie_female_new_ranks_20260729.json (2026-07-29)
+已有趋势数据: 0 个 AI 总结, 18 个待补充
+
+未配置 AI 服务（缺少: API_BASE_URL, API_KEY, API_MODEL），使用规则摘要替代。
+
+✅ 已生成: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/latest_ranks.json
+✅ Lastest API (lastest): /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/api/lastest
+✅ 趋势存档: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/trends/2026-07-30.json
+✅ 全站热点总结: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/market_summary.json
+✅ 日期索引: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/dates.json (99 个日期)
+
+[2026-07-30 16:50:29] ✅ 完成: 女频新书榜数据构建
+[2026-07-30 16:50:31] ▶ 开始: 女频阅读榜数据构建
+[2026-07-30 16:50:31]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scripts/build_latest.py --gender female --type read
+[2026-07-30 16:50:32]   输出:
+目标快照: fanqie_female_read_ranks_20260730.json (2026-07-30)
+对比快照: fanqie_female_read_ranks_20260729.json (2026-07-29)
+已有趋势数据: 2 个 AI 总结, 16 个待补充
+
+未配置 AI 服务（缺少: API_BASE_URL, API_KEY, API_MODEL），使用规则摘要替代。
+
+✅ 已生成: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/latest_read_ranks.json
+✅ Lastest API (read-lastest): /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/api/read-lastest
+✅ 趋势存档: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/trends-read/2026-07-30.json
+✅ 全站热点总结: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/market_read_summary.json
+✅ 日期索引: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/dates-read.json (47 个日期)
+
+[2026-07-30 16:50:32] ✅ 完成: 女频阅读榜数据构建
+[2026-07-30 16:50:34] ▶ 开始: 男频新书榜数据构建
+[2026-07-30 16:50:34]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scripts/build_latest.py --gender male --type new
+[2026-07-30 16:50:34]   输出:
+目标快照: fanqie_male_new_ranks_20260730.json (2026-07-30)
+对比快照: fanqie_male_new_ranks_20260729.json (2026-07-29)
+已有趋势数据: 0 个 AI 总结, 19 个待补充
+
+未配置 AI 服务（缺少: API_BASE_URL, API_KEY, API_MODEL），使用规则摘要替代。
+
+✅ 已生成: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/latest_male_ranks.json
+✅ Lastest API (male-lastest): /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/api/male-lastest
+✅ 趋势存档: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/trends-male/2026-07-30.json
+✅ 全站热点总结: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/market_male_summary.json
+✅ 日期索引: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/dates-male.json (41 个日期)
+
+[2026-07-30 16:50:34] ✅ 完成: 男频新书榜数据构建
+[2026-07-30 16:50:36] ▶ 开始: 男频阅读榜数据构建
+[2026-07-30 16:50:36]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scripts/build_latest.py --gender male --type read
+[2026-07-30 16:50:36]   输出:
+目标快照: fanqie_male_read_ranks_20260730.json (2026-07-30)
+对比快照: fanqie_male_read_ranks_20260729.json (2026-07-29)
+已有趋势数据: 2 个 AI 总结, 17 个待补充
+
+未配置 AI 服务（缺少: API_BASE_URL, API_KEY, API_MODEL），使用规则摘要替代。
+
+✅ 已生成: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/latest_male_read_ranks.json
+✅ Lastest API (male-read-lastest): /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/api/male-read-lastest
+✅ 趋势存档: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/trends-male-read/2026-07-30.json
+✅ 全站热点总结: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/market_male_read_summary.json
+✅ 日期索引: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/dates-male-read.json (41 个日期)
+
+[2026-07-30 16:50:36] ✅ 完成: 男频阅读榜数据构建
+[2026-07-30 16:50:38] ------------------------------------------------------------
+[2026-07-30 16:50:38] 📊 任务完成: 4/4 成功
+[2026-07-30 16:50:38] 🎉 所有任务执行成功！
+[2026-07-30 16:50:38]    看板地址: file:///Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/index.html
+[2026-07-30 16:50:38] ============================================================
+[2026-07-30 17:01:16] ============================================================
+[2026-07-30 17:01:16] 🚀 番茄扫榜自动化任务启动
+[2026-07-30 17:01:16] ℹ️  AI 分析未配置，将使用规则摘要
+[2026-07-30 17:01:16] 📦 今日(20260730)数据已存在，跳过抓取
+[2026-07-30 17:01:16] 📊 今日数据已存在，只执行构建和更新
+[2026-07-30 17:01:16] ▶ 开始: 女频新书榜数据构建
+[2026-07-30 17:01:16]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scripts/build_latest.py --gender female --type new
+[2026-07-30 17:01:16]   错误:
+Fatal Python error: Failed to import encodings module
+Python runtime state: core initialized
+ModuleNotFoundError: No module named 'encodings'
+
+Current thread 0x00000001f28e6180 (most recent call first):
+  <no Python frame>
+
+[2026-07-30 17:01:16] ❌ 失败: 女频新书榜数据构建 (返回码: 1)
+[2026-07-30 17:01:18] ▶ 开始: 女频阅读榜数据构建
+[2026-07-30 17:01:18]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scripts/build_latest.py --gender female --type read
+[2026-07-30 17:01:18]   错误:
+Fatal Python error: Failed to import encodings module
+Python runtime state: core initialized
+ModuleNotFoundError: No module named 'encodings'
+
+Current thread 0x00000001f28e6180 (most recent call first):
+  <no Python frame>
+
+[2026-07-30 17:01:18] ❌ 失败: 女频阅读榜数据构建 (返回码: 1)
+[2026-07-30 17:01:20] ▶ 开始: 男频新书榜数据构建
+[2026-07-30 17:01:20]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scripts/build_latest.py --gender male --type new
+[2026-07-30 17:01:20]   错误:
+Fatal Python error: Failed to import encodings module
+Python runtime state: core initialized
+ModuleNotFoundError: No module named 'encodings'
+
+Current thread 0x00000001f28e6180 (most recent call first):
+  <no Python frame>
+
+[2026-07-30 17:01:20] ❌ 失败: 男频新书榜数据构建 (返回码: 1)
+[2026-07-30 17:01:22] ▶ 开始: 男频阅读榜数据构建
+[2026-07-30 17:01:22]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scripts/build_latest.py --gender male --type read
+[2026-07-30 17:01:22]   错误:
+Fatal Python error: Failed to import encodings module
+Python runtime state: core initialized
+ModuleNotFoundError: No module named 'encodings'
+
+Current thread 0x00000001f28e6180 (most recent call first):
+  <no Python frame>
+
+[2026-07-30 17:01:22] ❌ 失败: 男频阅读榜数据构建 (返回码: 1)
+[2026-07-30 17:01:24] ------------------------------------------------------------
+[2026-07-30 17:01:24] 📊 任务完成: 0/4 成功
+[2026-07-30 17:01:24] ⚠️  有 4 个任务失败，请检查日志
+[2026-07-30 17:01:24] ============================================================
+[2026-07-31 13:10:28] ============================================================
+[2026-07-31 13:10:28] 🚀 番茄扫榜自动化任务启动
+[2026-07-31 13:10:28] ℹ️  AI 分析未配置，将使用规则摘要
+[2026-07-31 13:10:28] ▶ 开始: 女频新书榜抓取
+[2026-07-31 13:10:28]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scrape_ranks.py --gender female --type new
+[2026-07-31 13:17:00]   输出:
+开始执行番茄 女频新书榜 抓取计划...
+[13:10:34] 初始化 女频新书榜 (尝试 1/3): https://fanqienovel.com/rank/0_1_1139
+✅ 成功提取到 18 个分类标签 [女频新书榜]
+[13:10:50] 抓取分类 -> 古风世情
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 古风世情 抓取 30 本，已存档。等待 5s...
+[13:11:11] 抓取分类 -> 科幻末世
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 科幻末世 抓取 30 本，已存档。等待 5s...
+[13:11:31] 抓取分类 -> 游戏体育
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 游戏体育 抓取 30 本，已存档。等待 5s...
+[13:11:52] 抓取分类 -> 女频衍生
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 女频衍生 抓取 30 本，已存档。等待 5s...
+[13:12:13] 抓取分类 -> 玄幻言情
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 玄幻言情 抓取 30 本，已存档。等待 5s...
+[13:12:33] 抓取分类 -> 种田
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 种田 抓取 30 本，已存档。等待 5s...
+[13:12:54] 抓取分类 -> 年代
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 年代 抓取 30 本，已存档。等待 5s...
+[13:13:15] 抓取分类 -> 现言脑洞
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 现言脑洞 抓取 30 本，已存档。等待 5s...
+[13:13:35] 抓取分类 -> 宫斗宅斗
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 宫斗宅斗 抓取 30 本，已存档。等待 5s...
+[13:13:56] 抓取分类 -> 悬疑脑洞
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 悬疑脑洞 抓取 30 本，已存档。等待 5s...
+[13:14:16] 抓取分类 -> 古言脑洞
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 古言脑洞 抓取 30 本，已存档。等待 5s...
+[13:14:37] 抓取分类 -> 快穿
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 快穿 抓取 30 本，已存档。等待 5s...
+[13:14:58] 抓取分类 -> 青春甜宠
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 青春甜宠 抓取 30 本，已存档。等待 5s...
+[13:15:18] 抓取分类 -> 星光璀璨
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 星光璀璨 抓取 30 本，已存档。等待 5s...
+[13:15:38] 抓取分类 -> 女频悬疑
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 女频悬疑 抓取 30 本，已存档。等待 5s...
+[13:15:59] 抓取分类 -> 职场婚恋
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 职场婚恋 抓取 30 本，已存档。等待 5s...
+[13:16:19] 抓取分类 -> 豪门总裁
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 豪门总裁 抓取 30 本，已存档。等待 5s...
+[13:16:40] 抓取分类 -> 民国言情
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 民国言情 抓取 30 本，已存档。等待 5s...
+
+✅ [女频新书榜] 任务完毕！数据: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/fanqie_female_new_ranks_20260731.json
+
+[2026-07-31 13:17:00] ✅ 完成: 女频新书榜抓取
+[2026-07-31 13:17:02] ▶ 开始: 女频阅读榜抓取
+[2026-07-31 13:17:02]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scrape_ranks.py --gender female --type read
+[2026-07-31 13:23:28]   输出:
+开始执行番茄 女频阅读榜 抓取计划...
+[13:17:05] 初始化 女频阅读榜 (尝试 1/3): https://fanqienovel.com/rank/0_2_1139
+✅ 成功提取到 18 个分类标签 [女频阅读榜]
+[13:17:20] 抓取分类 -> 古风世情
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 古风世情 抓取 30 本，已存档。等待 5s...
+[13:17:41] 抓取分类 -> 科幻末世
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 科幻末世 抓取 30 本，已存档。等待 5s...
+[13:18:01] 抓取分类 -> 游戏体育
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 游戏体育 抓取 30 本，已存档。等待 5s...
+[13:18:21] 抓取分类 -> 女频衍生
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 女频衍生 抓取 30 本，已存档。等待 5s...
+[13:18:42] 抓取分类 -> 玄幻言情
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 玄幻言情 抓取 30 本，已存档。等待 5s...
+[13:19:02] 抓取分类 -> 种田
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 种田 抓取 30 本，已存档。等待 5s...
+[13:19:23] 抓取分类 -> 年代
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 年代 抓取 30 本，已存档。等待 5s...
+[13:19:43] 抓取分类 -> 现言脑洞
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 现言脑洞 抓取 30 本，已存档。等待 5s...
+[13:20:04] 抓取分类 -> 宫斗宅斗
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 宫斗宅斗 抓取 30 本，已存档。等待 5s...
+[13:20:24] 抓取分类 -> 悬疑脑洞
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 悬疑脑洞 抓取 30 本，已存档。等待 5s...
+[13:20:45] 抓取分类 -> 古言脑洞
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 古言脑洞 抓取 30 本，已存档。等待 5s...
+[13:21:05] 抓取分类 -> 快穿
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 快穿 抓取 30 本，已存档。等待 5s...
+[13:21:26] 抓取分类 -> 青春甜宠
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 青春甜宠 抓取 30 本，已存档。等待 5s...
+[13:21:46] 抓取分类 -> 星光璀璨
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 星光璀璨 抓取 30 本，已存档。等待 5s...
+[13:22:06] 抓取分类 -> 女频悬疑
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 女频悬疑 抓取 30 本，已存档。等待 5s...
+[13:22:27] 抓取分类 -> 职场婚恋
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 职场婚恋 抓取 30 本，已存档。等待 5s...
+[13:22:47] 抓取分类 -> 豪门总裁
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 豪门总裁 抓取 30 本，已存档。等待 5s...
+[13:23:08] 抓取分类 -> 民国言情
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 民国言情 抓取 30 本，已存档。等待 5s...
+
+✅ [女频阅读榜] 任务完毕！数据: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/fanqie_female_read_ranks_20260731.json
+
+[2026-07-31 13:23:28] ✅ 完成: 女频阅读榜抓取
+[2026-07-31 13:23:30] ▶ 开始: 男频新书榜抓取
+[2026-07-31 13:23:30]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scrape_ranks.py --gender male --type new
+[2026-07-31 13:30:15]   输出:
+开始执行番茄 男频新书榜 抓取计划...
+[13:23:32] 初始化 男频新书榜 (尝试 1/3): https://fanqienovel.com/rank/1_1_1141
+✅ 成功提取到 19 个分类标签 [男频新书榜]
+[13:23:47] 抓取分类 -> 西方奇幻
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 西方奇幻 抓取 30 本，已存档。等待 5s...
+[13:24:08] 抓取分类 -> 东方仙侠
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 东方仙侠 抓取 30 本，已存档。等待 5s...
+[13:24:28] 抓取分类 -> 科幻末世
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 科幻末世 抓取 30 本，已存档。等待 5s...
+[13:24:48] 抓取分类 -> 都市日常
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 都市日常 抓取 30 本，已存档。等待 5s...
+[13:25:09] 抓取分类 -> 都市修真
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 都市修真 抓取 30 本，已存档。等待 5s...
+[13:25:29] 抓取分类 -> 都市高武
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 都市高武 抓取 30 本，已存档。等待 5s...
+[13:25:50] 抓取分类 -> 历史古代
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 历史古代 抓取 30 本，已存档。等待 5s...
+[13:26:11] 抓取分类 -> 战神赘婿
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 战神赘婿 抓取 30 本，已存档。等待 5s...
+[13:26:31] 抓取分类 -> 都市种田
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 都市种田 抓取 30 本，已存档。等待 5s...
+[13:26:51] 抓取分类 -> 传统玄幻
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 传统玄幻 抓取 30 本，已存档。等待 5s...
+[13:27:12] 抓取分类 -> 历史脑洞
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 历史脑洞 抓取 30 本，已存档。等待 5s...
+[13:27:33] 抓取分类 -> 悬疑脑洞
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 悬疑脑洞 抓取 30 本，已存档。等待 5s...
+[13:27:53] 抓取分类 -> 都市脑洞
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 都市脑洞 抓取 30 本，已存档。等待 5s...
+[13:28:13] 抓取分类 -> 玄幻脑洞
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 玄幻脑洞 抓取 30 本，已存档。等待 5s...
+[13:28:34] 抓取分类 -> 悬疑灵异
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 悬疑灵异 抓取 30 本，已存档。等待 5s...
+[13:28:54] 抓取分类 -> 抗战谍战
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 抗战谍战 抓取 30 本，已存档。等待 5s...
+[13:29:14] 抓取分类 -> 游戏体育
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 游戏体育 抓取 30 本，已存档。等待 5s...
+[13:29:35] 抓取分类 -> 动漫衍生
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 动漫衍生 抓取 30 本，已存档。等待 5s...
+[13:29:55] 抓取分类 -> 男频衍生
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 男频衍生 抓取 30 本，已存档。等待 5s...
+
+✅ [男频新书榜] 任务完毕！数据: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/fanqie_male_new_ranks_20260731.json
+
+[2026-07-31 13:30:15] ✅ 完成: 男频新书榜抓取
+[2026-07-31 13:30:17] ▶ 开始: 男频阅读榜抓取
+[2026-07-31 13:30:17]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scrape_ranks.py --gender male --type read
+[2026-07-31 13:37:03]   输出:
+开始执行番茄 男频阅读榜 抓取计划...
+[13:30:19] 初始化 男频阅读榜 (尝试 1/3): https://fanqienovel.com/rank/1_2_1141
+✅ 成功提取到 19 个分类标签 [男频阅读榜]
+[13:30:35] 抓取分类 -> 西方奇幻
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 西方奇幻 抓取 30 本，已存档。等待 5s...
+[13:30:55] 抓取分类 -> 东方仙侠
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 东方仙侠 抓取 30 本，已存档。等待 5s...
+[13:31:16] 抓取分类 -> 科幻末世
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 科幻末世 抓取 30 本，已存档。等待 5s...
+[13:31:36] 抓取分类 -> 都市日常
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 都市日常 抓取 30 本，已存档。等待 5s...
+[13:31:57] 抓取分类 -> 都市修真
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 都市修真 抓取 30 本，已存档。等待 5s...
+[13:32:17] 抓取分类 -> 都市高武
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 都市高武 抓取 30 本，已存档。等待 5s...
+[13:32:37] 抓取分类 -> 历史古代
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 历史古代 抓取 30 本，已存档。等待 5s...
+[13:32:58] 抓取分类 -> 战神赘婿
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 战神赘婿 抓取 30 本，已存档。等待 5s...
+[13:33:18] 抓取分类 -> 都市种田
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 都市种田 抓取 30 本，已存档。等待 5s...
+[13:33:39] 抓取分类 -> 传统玄幻
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 传统玄幻 抓取 30 本，已存档。等待 5s...
+[13:33:59] 抓取分类 -> 历史脑洞
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 历史脑洞 抓取 30 本，已存档。等待 5s...
+[13:34:19] 抓取分类 -> 悬疑脑洞
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 悬疑脑洞 抓取 30 本，已存档。等待 5s...
+[13:34:40] 抓取分类 -> 都市脑洞
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 都市脑洞 抓取 30 本，已存档。等待 5s...
+[13:35:00] 抓取分类 -> 玄幻脑洞
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 玄幻脑洞 抓取 30 本，已存档。等待 5s...
+[13:35:21] 抓取分类 -> 悬疑灵异
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 悬疑灵异 抓取 30 本，已存档。等待 5s...
+[13:35:41] 抓取分类 -> 抗战谍战
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 抗战谍战 抓取 30 本，已存档。等待 5s...
+[13:36:02] 抓取分类 -> 游戏体育
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 游戏体育 抓取 30 本，已存档。等待 5s...
+[13:36:22] 抓取分类 -> 动漫衍生
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 动漫衍生 抓取 30 本，已存档。等待 5s...
+[13:36:42] 抓取分类 -> 男频衍生
+  滚动 2 次后无新增（已加载 30 条），回顶再触底...
+  确认已加载全部 30 条，停止滚动
+✅ 男频衍生 抓取 30 本，已存档。等待 5s...
+
+✅ [男频阅读榜] 任务完毕！数据: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/fanqie_male_read_ranks_20260731.json
+
+[2026-07-31 13:37:03] ✅ 完成: 男频阅读榜抓取
+[2026-07-31 13:37:05] ▶ 开始: 女频新书榜数据构建
+[2026-07-31 13:37:05]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scripts/build_latest.py --gender female --type new
+[2026-07-31 13:37:05]   输出:
+目标快照: fanqie_female_new_ranks_20260731.json (2026-07-31)
+对比快照: fanqie_female_new_ranks_20260730.json (2026-07-30)
+
+未配置 AI 服务（缺少: API_BASE_URL, API_KEY, API_MODEL），使用规则摘要替代。
+
+✅ 已生成: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/latest_ranks.json
+✅ Lastest API (lastest): /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/api/lastest
+✅ 趋势存档: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/trends/2026-07-31.json
+✅ 全站热点总结: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/market_summary.json
+✅ 日期索引: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/dates.json (100 个日期)
+
+[2026-07-31 13:37:05] ✅ 完成: 女频新书榜数据构建
+[2026-07-31 13:37:07] ▶ 开始: 女频阅读榜数据构建
+[2026-07-31 13:37:07]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scripts/build_latest.py --gender female --type read
+[2026-07-31 13:37:07]   输出:
+目标快照: fanqie_female_read_ranks_20260731.json (2026-07-31)
+对比快照: fanqie_female_read_ranks_20260730.json (2026-07-30)
+
+未配置 AI 服务（缺少: API_BASE_URL, API_KEY, API_MODEL），使用规则摘要替代。
+
+✅ 已生成: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/latest_read_ranks.json
+✅ Lastest API (read-lastest): /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/api/read-lastest
+✅ 趋势存档: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/trends-read/2026-07-31.json
+✅ 全站热点总结: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/market_read_summary.json
+✅ 日期索引: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/dates-read.json (48 个日期)
+
+[2026-07-31 13:37:07] ✅ 完成: 女频阅读榜数据构建
+[2026-07-31 13:37:09] ▶ 开始: 男频新书榜数据构建
+[2026-07-31 13:37:09]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scripts/build_latest.py --gender male --type new
+[2026-07-31 13:37:09]   输出:
+目标快照: fanqie_male_new_ranks_20260731.json (2026-07-31)
+对比快照: fanqie_male_new_ranks_20260730.json (2026-07-30)
+
+未配置 AI 服务（缺少: API_BASE_URL, API_KEY, API_MODEL），使用规则摘要替代。
+
+✅ 已生成: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/latest_male_ranks.json
+✅ Lastest API (male-lastest): /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/api/male-lastest
+✅ 趋势存档: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/trends-male/2026-07-31.json
+✅ 全站热点总结: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/market_male_summary.json
+✅ 日期索引: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/dates-male.json (42 个日期)
+
+[2026-07-31 13:37:09] ✅ 完成: 男频新书榜数据构建
+[2026-07-31 13:37:11] ▶ 开始: 男频阅读榜数据构建
+[2026-07-31 13:37:11]   命令: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/venv/bin/python scripts/build_latest.py --gender male --type read
+[2026-07-31 13:37:12]   输出:
+目标快照: fanqie_male_read_ranks_20260731.json (2026-07-31)
+对比快照: fanqie_male_read_ranks_20260730.json (2026-07-30)
+
+未配置 AI 服务（缺少: API_BASE_URL, API_KEY, API_MODEL），使用规则摘要替代。
+
+✅ 已生成: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/latest_male_read_ranks.json
+✅ Lastest API (male-read-lastest): /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/api/male-read-lastest
+✅ 趋势存档: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/trends-male-read/2026-07-31.json
+✅ 全站热点总结: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/market_male_read_summary.json
+✅ 日期索引: /Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/data/dates-male-read.json (42 个日期)
+
+[2026-07-31 13:37:12] ✅ 完成: 男频阅读榜数据构建
+[2026-07-31 13:37:14] ------------------------------------------------------------
+[2026-07-31 13:37:14] 📊 任务完成: 8/8 成功
+[2026-07-31 13:37:14] 🎉 所有任务执行成功！
+[2026-07-31 13:37:14]    看板地址: file:///Users/zxian/Library/Mobile Documents/com~apple~CloudDocs/FanqieRankTracker/index.html
+[2026-07-31 13:37:14] ============================================================

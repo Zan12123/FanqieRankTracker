@@ -1,0 +1,606 @@
+{
+  "date": "2026-07-05",
+  "prev_date": "2026-07-04",
+  "trends": {
+    "古风世情": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "纨绔郡主得宠日常",
+          "change": "+2"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "笨蛋美人替嫁后被疯批王爷宠上天",
+          "change": "-2"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "枕春时",
+          "growth": "+9000"
+        },
+        {
+          "title": "穿乱世，疯癫公主她靠抢劫建国了",
+          "growth": "+7000"
+        },
+        {
+          "title": "逢灯纪",
+          "growth": "+4000"
+        }
+      ],
+      "summary": "《纨绔郡主得宠日常》排名上升+2位；《枕春时》阅读量+9000。"
+    },
+    "科幻末世": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [
+        {
+          "title": "末世文恶毒女配？嚣张一日是一日",
+          "growth": "+2000"
+        },
+        {
+          "title": "重生者太密集？我带国家队下场",
+          "growth": "+1000"
+        },
+        {
+          "title": "穿成恶女配，绑定阴湿反派黑化前",
+          "growth": "-1000"
+        }
+      ],
+      "summary": "《末世文恶毒女配？嚣张一日是一日》阅读量+2000。"
+    },
+    "游戏体育": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [
+        {
+          "title": "公路求生，但我是隔壁无限流大佬",
+          "growth": "-1000"
+        },
+        {
+          "title": "魔女的农场：生存游戏建造家园",
+          "growth": "-1000"
+        },
+        {
+          "title": "剁剁剁剁，全都剁了包包子",
+          "growth": "-1000"
+        }
+      ],
+      "summary": "《公路求生，但我是隔壁无限流大佬》阅读量-1000。"
+    },
+    "女频衍生": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "HP当麒麟女来到霍格沃兹",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "红楼之开局与林黛玉有婚约",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "斩神：我靠王者系统拯救遗憾",
+          "growth": "+4000"
+        },
+        {
+          "title": "甄嬛传：大小姐驾到，通通闪开",
+          "growth": "+1000"
+        },
+        {
+          "title": "前半生之罗子君重生归来",
+          "growth": "-1000"
+        }
+      ],
+      "summary": "《HP当麒麟女来到霍格沃兹》排名上升+1位；《斩神：我靠王者系统拯救遗憾》阅读量+4000。"
+    },
+    "玄幻言情": {
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        "恶女掌天道"
+      ],
+      "dropped_books": [
+        {
+          "title": "全宗都是舔狗，小师妹是真狗",
+          "intro": "【实体书《一念凤兮》全平台可购】凤溪穿成修仙文里面的炮灰女配，穿书之日就是忌日。 她为了苟命，千方百计脱离了女主所在的混元宗，加入了玄天宗。 嚯！ 五个亲师兄，在书里全都是女主的舔狗，一个比一个死的惨"
+        }
+      ],
+      "top_risers": [
+        {
+          "title": "都九州第一了，我缺点德怎么了",
+          "change": "+1"
+        },
+        {
+          "title": "剑宗小魔童，三岁半超凶",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "我靠摆烂拯救了全宗门",
+          "change": "-1"
+        },
+        {
+          "title": "合欢宗老祖重生小白花，又妖又坏",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "男主都是恋爱脑，只有我是真修仙",
+          "growth": "+1.5万"
+        },
+        {
+          "title": "我法师加奶妈，用七把剑不过分吧",
+          "growth": "-3000"
+        },
+        {
+          "title": "全宗门都是恋爱脑，唯我是真疯批",
+          "growth": "-4000"
+        }
+      ],
+      "summary": "新增1本上榜；1本掉出（《全宗都是舔狗，小师妹是真狗》）；《都九州第一了，我缺点德怎么了》排名上升+1位；《男主都是恋爱脑，只有我是真修仙》阅读量+1.5万。"
+    },
+    "种田": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "大年夜，天上开了一扇门",
+          "change": "+2"
+        },
+        {
+          "title": "恶女洗白！被祸害的一家人有救了",
+          "change": "+1"
+        },
+        {
+          "title": "睁眼就被卖，恶女打猎养家奔小康",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "天崩开局，绝户偏要儿女双全",
+          "change": "-1"
+        },
+        {
+          "title": "婆家休娘家拒！困境中潇洒翻身！",
+          "change": "-1"
+        },
+        {
+          "title": "穿越兽世，被雄性们抢疯了",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "婆家休娘家拒！困境中潇洒翻身！",
+          "growth": "+5.0万"
+        },
+        {
+          "title": "大年夜，天上开了一扇门",
+          "growth": "+4.0万"
+        },
+        {
+          "title": "崽崽荷包通两界，荒村变成桃花源",
+          "growth": "+3000"
+        }
+      ],
+      "summary": "《大年夜，天上开了一扇门》排名上升+2位；《婆家休娘家拒！困境中潇洒翻身！》阅读量+5.0万。"
+    },
+    "年代": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "张老太重生：发疯！断亲！暴富！",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "小辣椒闹腾，高冷首长宠宠宠",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "张老太重生：发疯！断亲！暴富！",
+          "growth": "+1.9万"
+        },
+        {
+          "title": "绝嗣长官没儿子？小娇妻一胎三宝",
+          "growth": "-3000"
+        },
+        {
+          "title": "替嫁后，糙汉男人将她宠上天",
+          "growth": "-5000"
+        }
+      ],
+      "summary": "《张老太重生：发疯！断亲！暴富！》排名上升+1位；《张老太重生：发疯！断亲！暴富！》阅读量+1.9万。"
+    },
+    "现言脑洞": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [
+        {
+          "title": "魔法学校小学妹，沙雕搞事啥都会",
+          "growth": "+2.3万"
+        },
+        {
+          "title": "穿书兽世：恶雌她终于吃上好的了",
+          "growth": "+1.8万"
+        },
+        {
+          "title": "星际兽世：绝世恶雌养崽撩夫",
+          "growth": "+6000"
+        }
+      ],
+      "summary": "《魔法学校小学妹，沙雕搞事啥都会》阅读量+2.3万。"
+    },
+    "宫斗宅斗": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [
+        {
+          "title": "勾太傅，人前不熟人后如做了夫妻",
+          "growth": "+1.7万"
+        },
+        {
+          "title": "锦绣如茵",
+          "growth": "+5000"
+        },
+        {
+          "title": "高门主母的驯夫手册",
+          "growth": "+5000"
+        }
+      ],
+      "summary": "《勾太傅，人前不熟人后如做了夫妻》阅读量+1.7万。"
+    },
+    "悬疑脑洞": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "震惊！男友竟是恐怖副本BOSS",
+          "change": "+1"
+        },
+        {
+          "title": "盗笔：我真不是张家人，真的！",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "在恐怖游戏里谈的恋爱千奇百怪",
+          "change": "-2"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "震惊！男友竟是恐怖副本BOSS",
+          "growth": "+1000"
+        },
+        {
+          "title": "你好诡异Boss，我是来打工的",
+          "growth": "-1000"
+        },
+        {
+          "title": "漂亮小可怜在暗黑童话被疯狂觊觎",
+          "growth": "-1000"
+        }
+      ],
+      "summary": "《震惊！男友竟是恐怖副本BOSS》排名上升+1位；《震惊！男友竟是恐怖副本BOSS》阅读量+1000。"
+    },
+    "古言脑洞": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "被系统逼疯，我杀几个男主不过分",
+          "change": "+1"
+        },
+        {
+          "title": "满门炮灰读我心后，全家造反了",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "哥！你再舔女主我就嫁你死对头了",
+          "change": "-2"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "我在乱世靠换装系统装神女",
+          "growth": "+1.5万"
+        },
+        {
+          "title": "公府真千金，宠得首辅肆无忌惮",
+          "growth": "+6000"
+        },
+        {
+          "title": "被系统逼疯，我杀几个男主不过分",
+          "growth": "+6000"
+        }
+      ],
+      "summary": "《被系统逼疯，我杀几个男主不过分》排名上升+1位；《我在乱世靠换装系统装神女》阅读量+1.5万。"
+    },
+    "快穿": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "快穿：女主心上人怎么喜欢我",
+          "change": "+1"
+        },
+        {
+          "title": "快穿：配角只想寿终正寝",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "快穿：反派太宠太撩人",
+          "change": "-1"
+        },
+        {
+          "title": "快穿：所有人都知道我是好人",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "快穿之我替人渣走正途",
+          "growth": "+1000"
+        },
+        {
+          "title": "快穿心机女配？可你的男主爱我哎",
+          "growth": "-1000"
+        },
+        {
+          "title": "快穿：恶毒未婚妻成了万人迷",
+          "growth": "-1000"
+        }
+      ],
+      "summary": "《快穿：女主心上人怎么喜欢我》排名上升+1位；《快穿之我替人渣走正途》阅读量+1000。"
+    },
+    "青春甜宠": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [
+        {
+          "title": "重生觉醒，这次我不做恋爱脑",
+          "growth": "+9000"
+        },
+        {
+          "title": "胎穿：想假装平凡，结果是真不行",
+          "growth": "+3000"
+        },
+        {
+          "title": "认路人甲当爹后我喜提反派全家桶",
+          "growth": "-2000"
+        }
+      ],
+      "summary": "《重生觉醒，这次我不做恋爱脑》阅读量+9000。"
+    },
+    "星光璀璨": {
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        "恋综被黑，我反手打脸爆红全网"
+      ],
+      "dropped_books": [
+        {
+          "title": "疯批假千金上恋综，霸总心率炸了",
+          "intro": "【刚出分，可放心食用】 【恋综+现代言情+真假千金+打脸+系统+霸总+独宠+发疯+疯批】 姜眠穿成全网黑假千金，医院门口刚醒，就被影帝前男友一句“我和姜小姐不熟”钉上热搜； 叮！【爽值系统绑定成功：打"
+        }
+      ],
+      "top_risers": [
+        {
+          "title": "疯批大佬病态溺宠，小娇软被亲懵",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [],
+      "reads_growth": [
+        {
+          "title": "落地全网黑，地球龙套娱乐圈封神",
+          "growth": "+5000"
+        },
+        {
+          "title": "被太子爷背出剧组那天，京圈炸了",
+          "growth": "-1000"
+        },
+        {
+          "title": "长矛老师",
+          "growth": "-1000"
+        }
+      ],
+      "summary": "新增1本上榜；1本掉出（《疯批假千金上恋综，霸总心率炸了》）；《疯批大佬病态溺宠，小娇软被亲懵》排名上升+1位；《落地全网黑，地球龙套娱乐圈封神》阅读量+5000。"
+    },
+    "女频悬疑": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "真千金读心破案，被抢着借调！",
+          "change": "+2"
+        },
+        {
+          "title": "我，修仙大佬强亿点怎么了",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "三嫁阎君",
+          "change": "-1"
+        },
+        {
+          "title": "盗笔：在张家打黑工的日子",
+          "change": "-1"
+        },
+        {
+          "title": "长夜寄",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "真千金读心破案，被抢着借调！",
+          "growth": "+2.1万"
+        },
+        {
+          "title": "我，修仙大佬强亿点怎么了",
+          "growth": "+1000"
+        },
+        {
+          "title": "长夜寄",
+          "growth": "-1000"
+        }
+      ],
+      "summary": "《真千金读心破案，被抢着借调！》排名上升+2位；《真千金读心破案，被抢着借调！》阅读量+2.1万。"
+    },
+    "职场婚恋": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [
+        {
+          "title": "他的生理性喜欢",
+          "growth": "+6.4万"
+        },
+        {
+          "title": "穿成恶毒女配和落魄男主拼婚养娃",
+          "growth": "+7000"
+        },
+        {
+          "title": "二婚的秘密",
+          "growth": "+4000"
+        }
+      ],
+      "summary": "《他的生理性喜欢》阅读量+6.4万。"
+    },
+    "豪门总裁": {
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        "闪婚禁欲上司，人前不熟人后猛亲"
+      ],
+      "dropped_books": [
+        {
+          "title": "婚后潮涌",
+          "intro": "【年上/京圈/先婚后爱|细水长流+甜宠+4岁年龄差】 糙汉混不吝X清冷舞蹈家 递到舒影手上的联姻资料里，靳柏寒那页只有三行字： “有钱。帅。不可说。” 而男人本尊坐在对面切牛排时，抬眼补了第四句：“最"
+        }
+      ],
+      "top_risers": [
+        {
+          "title": "前男友劈腿妹妹，我闪婚他疯了",
+          "change": "+5"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "致命羁绊，京圈太子爷他极致偏爱",
+          "change": "-1"
+        },
+        {
+          "title": "冒名顶替真千金后，嫁入了豪门",
+          "change": "-1"
+        },
+        {
+          "title": "霍总，太太想跟你离婚很久了",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "睁眼！太子爷的恶毒女友重生了",
+          "growth": "+6.4万"
+        },
+        {
+          "title": "十诫锁心",
+          "growth": "+2.4万"
+        },
+        {
+          "title": "重欲！闪婚夜，被爹系大佬吻到哭",
+          "growth": "-1.2万"
+        }
+      ],
+      "summary": "新增1本上榜；1本掉出（《婚后潮涌》）；《前男友劈腿妹妹，我闪婚他疯了》排名上升+5位；《睁眼！太子爷的恶毒女友重生了》阅读量+6.4万。"
+    },
+    "民国言情": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "reads_growth": [
+        {
+          "title": "天降小福星，帅府全家宠上天",
+          "growth": "+1.0万"
+        },
+        {
+          "title": "闪婚，真千金嫁给了军阀大佬",
+          "growth": "+2000"
+        },
+        {
+          "title": "于凤至的清醒人生",
+          "growth": "+1000"
+        }
+      ],
+      "summary": "《天降小福星，帅府全家宠上天》阅读量+1.0万。"
+    }
+  }
+}

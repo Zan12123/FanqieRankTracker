@@ -1,6 +1,6 @@
 # 🏆 Fanqie Rank Tracker
 
-[![中文](https://img.shields.io/badge/lang-中文-red)](README.md)
+[![中文](09-原料库/02.AI工具/skill/番茄扫榜skill/README.md)
 
 > 👗 Focused exclusively on **Fanqie Novel's Female Category (女频)**, featuring daily automated tracking of new book rankings and AI-powered trend analysis, deployed as a premium online dashboard.
 

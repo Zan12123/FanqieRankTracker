@@ -1,0 +1,10 @@
+{
+  "text": {
+    "key": "enc:tF9DTL/QkG9+p2nLF/YVDQ8OGNuVKAAzQn+CJKyX8xciPGOSzTsrAW9BAGXa4WuBp6rTC+TMhFW3ZTaADxUSIE08IjaPQj5HkbLnVA==",
+    "url": "https://ark.cn-beijing.volces.com/api/coding/v3/chat/completions",
+    "model": "doubao-seed-2.0-pro",
+    "provider": "volcenginePlan",
+    "extraParams": {}
+  },
+  "updatedAt": 1785212053290
+}

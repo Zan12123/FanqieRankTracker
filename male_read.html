@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>番茄男频阅读榜 · 风向标 | 每日男频趋势追踪</title>
+    <link rel="stylesheet" href="css/style.css">
+    <meta name="description" content="番茄小说男频阅读榜趋势分析与风向标">
+</head>
+<body>
+    <div class="app-container">
+        <!-- 侧边栏 -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <h1>番茄风向标</h1>
+                <p class="sidebar-subtitle">男频阅读榜追踪</p>
+                <p id="update-date" class="update-date">加载中...</p>
+            </div>
+            <nav class="category-nav">
+                <ul id="category-list">
+                    <li class="loading-item">加载中...</li>
+                </ul>
+            </nav>
+        </aside>
+
+        <!-- 主内容区 -->
+        <main class="main-content">
+            <header class="main-header">
+                <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="菜单">☰</button>
+                <div class="header-left">
+                    <h2 id="current-category-title">全部分类</h2>
+                </div>
+                <div class="header-right">
+                    <a class="trend-link-btn" href="trend.html">女频风向标</a>
+                    <a class="trend-link-btn" href="male_trend.html">男频风向标</a>
+                    <a class="trend-link-btn" href="index.html">女频新书榜</a>
+                    <a class="trend-link-btn" href="read.html">女频阅读榜</a>
+                    <a class="trend-link-btn" href="male.html">男频新书榜</a>
+                    <a class="trend-link-btn" href="male_read.html">男频阅读榜</a>
+                    <div class="date-presets" id="date-presets">
+                        <button class="preset-btn active" data-preset="latest">最新</button>
+                        <button class="preset-btn" data-preset="yesterday">昨日</button>
+                    </div>
+                    <div class="date-picker-wrap">
+                        <button class="date-nav-btn" id="date-prev" aria-label="前一天" title="前一天">◀</button>
+                        <button class="date-picker-btn" id="date-picker-btn">
+                            <span class="date-icon">DATE</span>
+                            <span id="date-display">加载中...</span>
+                        </button>
+                        <button class="date-nav-btn" id="date-next" aria-label="后一天" title="后一天">▶</button>
+                        <input type="date" id="date-input" class="date-input-hidden">
+                    </div>
+                </div>
+            </header>
+
+            <!-- 风向标区域 -->
+            <section class="trend-panel" id="trend-panel">
+                <div class="trend-stats" id="trend-stats"></div>
+                <div class="trend-ai" id="trend-ai">
+                    <div class="ai-label">AI Signal Brief</div>
+                    <div class="ai-content" id="ai-content"></div>
+                </div>
+            </section>
+
+            <!-- 书籍瀑布流 -->
+            <section class="books-waterfall" id="books-waterfall">
+                <!-- 书籍卡片由 JS 动态渲染 -->
+            </section>
+        </main>
+    </div>
+
+    <script>
+    window.AppConfig = {
+      dataPrefix: "fanqie_male_read_ranks",
+      datesFile: "data/dates-male-read.json",
+      latestFile: "data/latest_male_read_ranks.json",
+      trendsDir: "data/trends-male-read"
+    };
+    </script>
+    <script src="js/read-app.js?v=20260608"></script>
+</body>
+</html>
