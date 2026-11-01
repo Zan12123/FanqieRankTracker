@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-31",
-  "prev_date": "2026-10-30",
+  "date": "2026-11-01",
+  "prev_date": "2026-10-31",
   "types": [
     {
       "type": "all",
       "url": "api/lastest/all.json",
       "category_count": 18,
-      "book_count": 539
+      "book_count": 520
     },
     {
       "type": "古风世情",
@@ -46,7 +46,7 @@
     {
       "type": "现言脑洞",
       "url": "api/lastest/%E7%8E%B0%E8%A8%80%E8%84%91%E6%B4%9E.json",
-      "book_count": 29
+      "book_count": 30
     },
     {
       "type": "宫斗宅斗",
@@ -91,7 +91,7 @@
     {
       "type": "豪门总裁",
       "url": "api/lastest/%E8%B1%AA%E9%97%A8%E6%80%BB%E8%A3%81.json",
-      "book_count": 30
+      "book_count": 10
     },
     {
       "type": "民国言情",
